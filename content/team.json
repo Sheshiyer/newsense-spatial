@@ -1,0 +1,60 @@
+[
+  {
+    "id": "team-amyth-venkataramaiah",
+    "slug": "amyth-venkataramaiah",
+    "name": "Amyth Venkataramaiah",
+    "role": "Founder and Executive Producer",
+    "bio_full": "Founder and Executive Producer A curious mind, with a deep interest in expressing oneself through art. Amyth began as a photographer & graphic designer with over 10 years of experience. He handles all of our productions and brings our ideas to life.",
+    "bio_short": "A curious mind, with a deep interest in expressing oneself through art.",
+    "order": 1,
+    "portrait_asset": null,
+    "specialties": [
+      "Production",
+      "Photography",
+      "Execution"
+    ],
+    "source_refs": [
+      "sources/old-website/data/team.json",
+      "sources/old-website/content/pages/about.md"
+    ]
+  },
+  {
+    "id": "team-sant-mote",
+    "slug": "sant-mote",
+    "name": "Sant Mote",
+    "role": "Creative Director",
+    "bio_full": "Creative Director A lover of all things art, Sant began his career as a graphic designer, with over 12 years of experience working with brands, he has since branched out into VFX and 3D animation. He leads our creative team, strategising campaigns that are unique and relevant to brands.",
+    "bio_short": "A lover of all things art, Sant began his career as a graphic designer, with over 12 years of experience working with brands, he has since branched out into VFX and 3D animation.",
+    "order": 2,
+    "portrait_asset": null,
+    "specialties": [
+      "Campaign Strategy",
+      "Design",
+      "3D",
+      "VFX"
+    ],
+    "source_refs": [
+      "sources/old-website/data/team.json",
+      "sources/old-website/content/pages/about.md"
+    ]
+  },
+  {
+    "id": "team-suraj-singh-thakur",
+    "slug": "suraj-singh-thakur",
+    "name": "Suraj Singh Thakur",
+    "role": "Director of Photography",
+    "bio_full": "Director of Photography Behind every photo, there is a vision that adds life to it. Suraj lives the picture before clicking an image. With over 10 years of experience working as filmmaker he has honed the skill to capture the soul of every project he takes through his camera.",
+    "bio_short": "Behind every photo, there is a vision that adds life to it.",
+    "order": 3,
+    "portrait_asset": null,
+    "specialties": [
+      "Cinematography",
+      "Framing",
+      "Atmosphere"
+    ],
+    "source_refs": [
+      "sources/old-website/data/team.json",
+      "sources/old-website/content/pages/about.md"
+    ]
+  }
+]

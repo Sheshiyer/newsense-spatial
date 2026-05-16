@@ -1,0 +1,102 @@
+{
+  "id": "arte-artifacts",
+  "slug": "arte-artifacts",
+  "route": "/archive/arte-artifacts",
+  "title": "Arte Artifacts",
+  "status": "archive",
+  "case_study_type": "archive-fragment",
+  "page_kind": "portfolio",
+  "hero_heading": "Arte Artifacts",
+  "hero_summary": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+  "primary_client": "Arte Museum",
+  "clients": [
+    "Arte Museum"
+  ],
+  "primary_service": "Environmental & Exhibition, Print",
+  "services": [
+    "Environmental & Exhibition, Print"
+  ],
+  "year": "2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+  "years": [
+    "2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font."
+  ],
+  "featured_rank": null,
+  "gallery_mode": "story-first",
+  "credits": {},
+  "credits_text": "",
+  "narrative_sections": [
+    {
+      "heading": "The Artifacts",
+      "content": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font."
+    }
+  ],
+  "outcome_sections": [],
+  "media": {
+    "cover_image": "/content-media/projects/arte-artifacts-cover.jpg",
+    "local_image_count": 14,
+    "local_video_count": 0,
+    "gallery_images": [
+      {
+        "id": "arte-artifacts-gallery-1",
+        "src": "/content-media/projects/arte-artifacts-cover.jpg",
+        "alt": "Arte Artifacts frame 1",
+        "emphasis": "primary"
+      },
+      {
+        "id": "arte-artifacts-gallery-2",
+        "src": "/content-media/projects/arte-artifacts-gallery-2.jpg",
+        "alt": "Arte Artifacts frame 2",
+        "emphasis": "support"
+      },
+      {
+        "id": "arte-artifacts-gallery-3",
+        "src": "/content-media/projects/arte-artifacts-gallery-3.jpg",
+        "alt": "Arte Artifacts frame 3",
+        "emphasis": "support"
+      },
+      {
+        "id": "arte-artifacts-gallery-4",
+        "src": "/content-media/projects/arte-artifacts-gallery-4.jpg",
+        "alt": "Arte Artifacts frame 4",
+        "emphasis": "support"
+      },
+      {
+        "id": "arte-artifacts-gallery-5",
+        "src": "/content-media/projects/arte-artifacts-gallery-5.jpg",
+        "alt": "Arte Artifacts frame 5",
+        "emphasis": "support"
+      },
+      {
+        "id": "arte-artifacts-gallery-6",
+        "src": "/content-media/projects/arte-artifacts-gallery-6.jpg",
+        "alt": "Arte Artifacts frame 6",
+        "emphasis": "support"
+      }
+    ],
+    "gallery_items": [],
+    "source_image_assets": [
+      "assets/images/2dd983ca28-84770f_0095fda520864c578de7314cea083ecd-mv2_d_2346_1998_s_2.jpg",
+      "assets/images/351c1f44aa-84770f_1af4da112fae4274aadc243dbbf52eff-mv2_d_2840_2840_s_4_2.jpg",
+      "assets/images/445c665b7b-84770f_bce6b0f820304d6b9f89ff40c22d13d4-mv2_d_2840_2840_s_4_2.jpg",
+      "assets/images/49dada2014-84770f_6dd4d6b485ae4c1d98c802379bb4ac4e-mv2_d_2840_2840_s_4_2.jpg",
+      "assets/images/5c64f5d031-84770f_fb2753aefa0e46af8923f5b4adf47a1f-mv2_d_3516_1332_s_2.jpg",
+      "assets/images/770702f6aa-84770f_e1cb3414c10448de85f428faccc26303-mv2_d_2840_2840_s_4_2.jpg",
+      "assets/images/820906a227-84770f_cdd6f91157d14248888eb306ea906060-mv2_d_2880_2127_s_2.jpg",
+      "assets/images/b305ef593b-84770f_c5c2bbc376c54fc99b584bf6b7592d7d-mv2_d_2346_1998_s_2.jpg",
+      "assets/images/b9e0f83d67-84770f_bf19e3d938c94366ba61b62ac4ebe272-mv2_d_2840_2840_s_4_2.jpg",
+      "assets/images/bf852dca99-dd4e19_cedf7c7c65604fe4b55695791e9f634c-mv2.png",
+      "assets/images/d8ab37122e-84770f_05537fbefe4542e49a6b7a18dabde5b2-mv2_d_2840_2840_s_4_2.jpg",
+      "assets/images/eb8d308b8e-84770f_ef5a388e4bf549fc827e7ea6abf47b97-mv2_d_2346_1998_s_2.jpg"
+    ],
+    "source_video_assets": [],
+    "video_asset_ids": []
+  },
+  "clean_text": "Arte Artifacts I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Service Environmental & Exhibition, Print Client Arte Museum Year 2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. The Artifacts I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+  "source_warnings": [],
+  "source_refs": [
+    "sources/old-website/data/projects.json#arte-artifacts",
+    "sources/old-website/content/pages/arte-artifacts.md"
+  ],
+  "archive_reason": "placeholder-template-route",
+  "placeholder": true
+}

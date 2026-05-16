@@ -1,0 +1,112 @@
+{
+  "id": "kaa",
+  "slug": "kaa",
+  "route": "/projects/kaa",
+  "title": "Karnataka Athletic Association",
+  "status": "live",
+  "case_study_type": "campaign-system",
+  "page_kind": "portfolio",
+  "hero_heading": "Karnataka Athletic Association",
+  "hero_summary": "KAA wanted a modern video which would communicate their plans, goals & vision to stakeholders. We visualised their entire plan and made it easy to understand but hard to forget.",
+  "primary_client": "KAA",
+  "clients": [
+    "KAA"
+  ],
+  "primary_service": "Video & Animation",
+  "services": [
+    "Video & Animation"
+  ],
+  "year": null,
+  "years": [],
+  "featured_rank": null,
+  "gallery_mode": "story-first",
+  "credits": {
+    "CLIENT": "Karnataka Athletic Association",
+    "PRODUCTION COMPANY": "Newsense",
+    "CREATIVE DIRECTION": "Sant Mote",
+    "PRODUCER": "Amyth Venkataramaiah",
+    "DIRECTOR OF PHOTOGRAPHY": "Suraj Singh Thakur, Amyth Venkataramaiah & Nagarjun Shetty",
+    "VIDEO EDITING": "Sant Mote",
+    "ANIMATION": "Sant Mote & Akshay Bhimaya",
+    "VOICE OVER ARTIST": "Gnana Raghavendran"
+  },
+  "credits_text": "CLIENT: Karnataka Athletic Association\nPRODUCTION COMPANY: Newsense\nCREATIVE DIRECTION: Sant Mote\nPRODUCER: Amyth Venkataramaiah\nDIRECTOR OF PHOTOGRAPHY: Suraj Singh Thakur, Amyth Venkataramaiah & Nagarjun Shetty\nVIDEO EDITING: Sant Mote\nANIMATION: Sant Mote & Akshay Bhimaya\nVOICE OVER ARTIST: Gnana Raghavendran",
+  "narrative_sections": [],
+  "outcome_sections": [],
+  "media": {
+    "cover_image": "/content-media/projects/kaa-cover.jpg",
+    "local_image_count": 11,
+    "local_video_count": 0,
+    "gallery_images": [
+      {
+        "id": "kaa-gallery-1",
+        "src": "/content-media/projects/kaa-cover.jpg",
+        "alt": "Karnataka Athletic Association frame 1",
+        "emphasis": "primary"
+      },
+      {
+        "id": "kaa-gallery-2",
+        "src": "/content-media/projects/kaa-gallery-2.jpg",
+        "alt": "Karnataka Athletic Association frame 2",
+        "emphasis": "support"
+      },
+      {
+        "id": "kaa-gallery-3",
+        "src": "/content-media/projects/kaa-gallery-3.jpg",
+        "alt": "Karnataka Athletic Association frame 3",
+        "emphasis": "support"
+      },
+      {
+        "id": "kaa-gallery-4",
+        "src": "/content-media/projects/kaa-gallery-4.jpg",
+        "alt": "Karnataka Athletic Association frame 4",
+        "emphasis": "support"
+      },
+      {
+        "id": "kaa-gallery-5",
+        "src": "/content-media/projects/kaa-gallery-5.jpg",
+        "alt": "Karnataka Athletic Association frame 5",
+        "emphasis": "support"
+      },
+      {
+        "id": "kaa-gallery-6",
+        "src": "/content-media/projects/kaa-gallery-6.jpg",
+        "alt": "Karnataka Athletic Association frame 6",
+        "emphasis": "support"
+      }
+    ],
+    "gallery_items": [
+      {
+        "id": "7f5b5be5-da45-4187-a158-a5c146efc894",
+        "title": "Karnataka Athletic Association",
+        "description": "Video and Animation",
+        "media_type": "video",
+        "quality_count": 3
+      }
+    ],
+    "source_image_assets": [
+      "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+      "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/62c90e079e-dd4e19_1c4d4bc21b5841ada020a126a568efe7-mv2.jpg",
+      "assets/images/6848fdd94a-dd4e19_b33327b5160948dfa7084c8ea1ca09ef-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/74660d2a46-dd4e19_0d0969e4285b4596b68e32c28fabae1a-mv2.jpg",
+      "assets/images/80089db7e1-dd4e19_746e6bedd0734a9882ab9c7747437e7a-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/9b0fced86c-dd4e19_18b4a9dcd895419e8fd85c33a5a54575-mv2.jpg",
+      "assets/images/a1f5c33f0d-dd4e19_8a3304c7fadd45f4ab6e422a84419b6e-mv2_d_1986_1326_s_2.jpg",
+      "assets/images/a734ab5176-dd4e19_14be716bf1464e7895731be1c4a80c3f-mv2.jpg",
+      "assets/images/bf852dca99-dd4e19_cedf7c7c65604fe4b55695791e9f634c-mv2.png",
+      "assets/images/ef4ddfbf66-dd4e19_5984a86a008c496aa55e30fa1e978185-mv2.jpg"
+    ],
+    "source_video_assets": [],
+    "video_asset_ids": []
+  },
+  "clean_text": "Karnataka Athletic Association KAA wanted a modern video which would communicate their plans, goals & vision to stakeholders. We visualised their entire plan and made it easy to understand but hard to forget. SERVICE Video & Animation CLIENT KAA Play Video SERVICE Video, Photography & Web design Credits CLIENT Karnataka Athletic Association PRODUCTION COMPANY Newsense CREATIVE DIRECTION Sant Mote PRODUCER Amyth Venkataramaiah DIRECTOR OF PHOTOGRAPHY Suraj Singh Thakur, Amyth Venkataramaiah & Nagarjun Shetty VIDEO EDITING Sant Mote ANIMATION Sant Mote & Akshay Bhimaya VOICE OVER ARTIST Gnana Raghavendran",
+  "source_warnings": [
+    "Primary client section says 'KAA' but credit block says 'Karnataka Athletic Association'."
+  ],
+  "source_refs": [
+    "sources/old-website/data/projects.json#kaa",
+    "sources/old-website/content/pages/kaa.md"
+  ],
+  "placeholder": false
+}

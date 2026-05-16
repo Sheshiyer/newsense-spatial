@@ -1,0 +1,108 @@
+{
+  "id": "oneplus-experience-store",
+  "slug": "oneplus-experience-store",
+  "route": "/projects/oneplus-experience-store",
+  "title": "OnePlus Experience Store",
+  "status": "featured",
+  "case_study_type": "editorial-stills",
+  "page_kind": "portfolio",
+  "hero_heading": "OnePlus Experience Store",
+  "hero_summary": "OnePlus experience store in Bangalore is not just a phone store, but a venue for OnePlus community to gather, interact with the latest tech and attend events. We shot photos inspired by the architecture and decor of the place to give it a warm and positive vibe.",
+  "primary_client": "OnePlus",
+  "clients": [
+    "OnePlus"
+  ],
+  "primary_service": "Photography",
+  "services": [
+    "Photography"
+  ],
+  "year": null,
+  "years": [],
+  "featured_rank": 6,
+  "gallery_mode": "stills-first",
+  "credits": {
+    "CLIENT": "AGM",
+    "PHOTOGRAPHY": "Amyth Venkataramaiah",
+    "PRODUCTION COMPANY": "Newsense"
+  },
+  "credits_text": "CLIENT: AGM\nPHOTOGRAPHY: Amyth Venkataramaiah\nPRODUCTION COMPANY: Newsense",
+  "narrative_sections": [],
+  "outcome_sections": [],
+  "media": {
+    "cover_image": "/content-media/projects/oneplus-experience-store-cover.jpg",
+    "local_image_count": 23,
+    "local_video_count": 0,
+    "gallery_images": [
+      {
+        "id": "oneplus-experience-store-gallery-1",
+        "src": "/content-media/projects/oneplus-experience-store-cover.jpg",
+        "alt": "OnePlus Experience Store frame 1",
+        "emphasis": "primary"
+      },
+      {
+        "id": "oneplus-experience-store-gallery-2",
+        "src": "/content-media/projects/oneplus-experience-store-gallery-2.jpg",
+        "alt": "OnePlus Experience Store frame 2",
+        "emphasis": "support"
+      },
+      {
+        "id": "oneplus-experience-store-gallery-3",
+        "src": "/content-media/projects/oneplus-experience-store-gallery-3.jpg",
+        "alt": "OnePlus Experience Store frame 3",
+        "emphasis": "support"
+      },
+      {
+        "id": "oneplus-experience-store-gallery-4",
+        "src": "/content-media/projects/oneplus-experience-store-gallery-4.jpg",
+        "alt": "OnePlus Experience Store frame 4",
+        "emphasis": "support"
+      },
+      {
+        "id": "oneplus-experience-store-gallery-5",
+        "src": "/content-media/projects/oneplus-experience-store-gallery-5.jpg",
+        "alt": "OnePlus Experience Store frame 5",
+        "emphasis": "support"
+      },
+      {
+        "id": "oneplus-experience-store-gallery-6",
+        "src": "/content-media/projects/oneplus-experience-store-gallery-6.jpg",
+        "alt": "OnePlus Experience Store frame 6",
+        "emphasis": "support"
+      }
+    ],
+    "gallery_items": [
+      {
+        "id": "370e07ee-aae3-48cd-8d61-93fe689bc9b7",
+        "title": "OnePlus Experience Store",
+        "description": "Photography",
+        "media_type": "image",
+        "quality_count": 0
+      }
+    ],
+    "source_image_assets": [
+      "assets/images/12270c603b-dd4e19_60309273b3ee498cb27a112ce396e814-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/4df3fca15b-dd4e19_47721e6e07684e309652fbe7d1e71c94-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/5040e79a91-dd4e19_b15bb2b58d4d414587a2fec871b24591-mv2_d_1920_1288_s_2.jpg",
+      "assets/images/56e436193b-dd4e19_1cf64753dfd144068d89faeac56df4a8-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/57bd106ece-dd4e19_74b814bfe6514c7e8d09d4932f83107d-mv2_d_1200_1800_s_2.jpg",
+      "assets/images/62c90e079e-dd4e19_1c4d4bc21b5841ada020a126a568efe7-mv2.jpg",
+      "assets/images/6848fdd94a-dd4e19_b33327b5160948dfa7084c8ea1ca09ef-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/6f69e093ab-dd4e19_704ebda7425d4c63bcadf1adf9772fa0-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/74660d2a46-dd4e19_0d0969e4285b4596b68e32c28fabae1a-mv2.jpg",
+      "assets/images/80089db7e1-dd4e19_746e6bedd0734a9882ab9c7747437e7a-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/9b0fced86c-dd4e19_18b4a9dcd895419e8fd85c33a5a54575-mv2.jpg"
+    ],
+    "source_video_assets": [],
+    "video_asset_ids": []
+  },
+  "clean_text": "OnePlus Experience Store OnePlus experience store in Bangalore is not just a phone store, but a venue for OnePlus community to gather, interact with the latest tech and attend events. We shot photos inspired by the architecture and decor of the place to give it a warm and positive vibe. SERVICE Photography CLIENT OnePlus SERVICE Video, Photography & Web design Credits CLIENT AGM PHOTOGRAPHY Amyth Venkataramaiah PRODUCTION COMPANY Newsense",
+  "source_warnings": [
+    "Primary client section says 'OnePlus' but credit block says 'AGM'."
+  ],
+  "source_refs": [
+    "sources/old-website/data/projects.json#oneplus-experience-store",
+    "sources/old-website/content/pages/oneplus-experience-store.md"
+  ],
+  "placeholder": false
+}

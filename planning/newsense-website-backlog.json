@@ -1,0 +1,282 @@
+[
+  {
+    "id": "NS-001",
+    "title": "Create the dedicated Newsense implementation repo and planning scaffold",
+    "phase": "0-foundation",
+    "labels": ["phase:0-foundation", "type:infra"],
+    "summary": "Create the private GitHub repo, seed the planning artifacts, and establish the basic folder structure for the website codebase.",
+    "targets": ["README.md", "planning/", "content/", "public/assets/newsense/", "src/"],
+    "dependencies": [],
+    "acceptance": [
+      "The repo `sheshiyer/newsense` exists and is reachable.",
+      "The repo contains the planning note and backlog seed.",
+      "The repo documents the vault as the canonical upstream content source."
+    ]
+  },
+  {
+    "id": "NS-002",
+    "title": "Normalize the extracted Newsense archive into a build-ready content package",
+    "phase": "0-foundation",
+    "labels": ["phase:0-foundation", "type:content"],
+    "summary": "Convert the legacy scrape outputs into normalized studio, client, project, archive, and media data files that the new site can consume directly.",
+    "targets": ["content/studio.json", "content/team.json", "content/services.json", "content/clients.json", "content/projects/*.json", "content/archive/*.json", "content/media-manifest.json", "scripts/import-newsense-archive.py"],
+    "dependencies": ["NS-001"],
+    "acceptance": [
+      "All recovered studio, team, services, contact, and project data are represented in the new repo.",
+      "Placeholder routes are marked as archive items instead of featured projects.",
+      "Media references resolve to local asset paths or explicit provenance warnings."
+    ]
+  },
+  {
+    "id": "NS-003",
+    "title": "Define Newsense brand guardrails and asset governance for the rebuild",
+    "phase": "0-foundation",
+    "labels": ["phase:0-foundation", "type:design"],
+    "summary": "Lock the studio-first brand rules, preserve the wordmark usage, and define which imagery belongs to studio identity vs client case-study contexts.",
+    "targets": ["planning/brand-guardrails.md", "public/assets/newsense/wordmark/*", "public/assets/newsense/generated/*"],
+    "dependencies": ["NS-001"],
+    "acceptance": [
+      "The preserved wordmark is documented as the canonical logo lockup.",
+      "Studio identity references are separated from client-case imagery.",
+      "Owned and generated asset usage rules are explicit for future scene work."
+    ]
+  },
+  {
+    "id": "NS-004",
+    "title": "Freeze the information architecture, object map, and case-study taxonomy",
+    "phase": "0-foundation",
+    "labels": ["phase:0-foundation", "type:architecture"],
+    "summary": "Convert the Newsense content model into a stable website information architecture with named views, object mappings, and case-study types.",
+    "targets": ["planning/ia.md", "planning/object-map.md", "planning/case-study-taxonomy.md"],
+    "dependencies": ["NS-002", "NS-003"],
+    "acceptance": [
+      "Top-level navigation objects and their corresponding views are finalized.",
+      "Projects are classified into the agreed case-study types.",
+      "Archive handling and fallback information paths are documented."
+    ]
+  },
+  {
+    "id": "NS-005",
+    "title": "Fork False Earth into a reduced Newsense scene shell",
+    "phase": "1-scene-shell",
+    "labels": ["phase:1-scene-shell", "type:frontend", "type:3d"],
+    "summary": "Use `false-earth` as the starting codebase, strip the astronaut/gameplay-specific systems, and preserve only the scene infrastructure that makes sense for Newsense.",
+    "targets": ["src/app/", "src/scene/", "src/objects/", "src/ui/", "src/store/"],
+    "dependencies": ["NS-001"],
+    "acceptance": [
+      "The repo runs as a clean Newsense shell rather than the original game-like demo.",
+      "Unused traversal, terrain, and world narrative code are removed or isolated.",
+      "The shell still builds and preserves a coherent loading/render pipeline."
+    ]
+  },
+  {
+    "id": "NS-006",
+    "title": "Implement capability detection and fallback delivery modes",
+    "phase": "1-scene-shell",
+    "labels": ["phase:1-scene-shell", "type:frontend", "type:platform"],
+    "summary": "Add explicit runtime handling for immersive WebGPU, reduced 3D, and editorial fallback modes so the site remains usable on non-WebGPU devices.",
+    "targets": ["src/app/capabilities.ts", "src/fallback/", "src/views/", "src/ui/UnsupportedModeNotice.tsx"],
+    "dependencies": ["NS-005"],
+    "acceptance": [
+      "WebGPU support is detected before immersive features are enabled.",
+      "A reduced or fallback mode exists for unsupported browsers/devices.",
+      "Core Newsense content remains accessible across all delivery modes."
+    ]
+  },
+  {
+    "id": "NS-007",
+    "title": "Build the object-selection, camera choreography, and scene-state system",
+    "phase": "1-scene-shell",
+    "labels": ["phase:1-scene-shell", "type:frontend", "type:3d"],
+    "summary": "Replace free traversal with deliberate object-based navigation, camera framing, hover/focus states, and view transitions.",
+    "targets": ["src/scene/navigation/", "src/objects/", "src/store/navigation.ts", "src/views/"],
+    "dependencies": ["NS-004", "NS-005", "NS-006"],
+    "acceptance": [
+      "Each top-level object can be focused and opened intentionally.",
+      "Camera movement reinforces hierarchy instead of behaving like gameplay controls.",
+      "The selected object state drives the content overlay/view system."
+    ]
+  },
+  {
+    "id": "NS-008",
+    "title": "Implement loading, audio, quality, and accessibility controls for the scene shell",
+    "phase": "1-scene-shell",
+    "labels": ["phase:1-scene-shell", "type:ux", "type:performance"],
+    "summary": "Turn the current scene controls into a website-appropriate system that handles loading, reduced motion, quality modes, and optional audio without relying on game metaphors.",
+    "targets": ["src/ui/LoadingScreen.tsx", "src/ui/ControlsPanel.tsx", "src/ui/AudioToggle.tsx", "src/lib/accessibility/"],
+    "dependencies": ["NS-006"],
+    "acceptance": [
+      "Loading and quality controls are understandable in a studio-site context.",
+      "Reduced-motion and mute-first behaviors are supported.",
+      "The controls degrade cleanly across fallback modes."
+    ]
+  },
+  {
+    "id": "NS-009",
+    "title": "Build the Newsense stage view and homepage object experience",
+    "phase": "2-work-experience",
+    "labels": ["phase:2-work-experience", "type:frontend", "type:content"],
+    "summary": "Create the landing state around the preserved wordmark, studio positioning, and a restrained first interaction that opens the wider object system.",
+    "targets": ["src/views/StageView.tsx", "src/objects/WordmarkMonolith.tsx", "src/ui/HomeOverlay.tsx"],
+    "dependencies": ["NS-003", "NS-007"],
+    "acceptance": [
+      "The stage view feels like Newsense rather than a generic scene wrapper.",
+      "The wordmark is preserved and used as the main orientation anchor.",
+      "The first interaction leads cleanly into the project/studio objects."
+    ]
+  },
+  {
+    "id": "NS-010",
+    "title": "Build the project atlas object and work discovery system",
+    "phase": "2-work-experience",
+    "labels": ["phase:2-work-experience", "type:frontend", "type:3d", "type:content"],
+    "summary": "Create the primary work-discovery object with grouped previews, category filters, and selection states that can bridge into detailed case-study views.",
+    "targets": ["src/objects/AtlasRing.tsx", "src/views/ProjectAtlasView.tsx", "src/content/projects.ts", "src/ui/ProjectFilters.tsx"],
+    "dependencies": ["NS-004", "NS-007"],
+    "acceptance": [
+      "Projects can be browsed by meaningful groupings rather than a flat list.",
+      "The atlas supports movement or transitions without losing orientation.",
+      "Selecting a project opens the correct case-study route or overlay."
+    ]
+  },
+  {
+    "id": "NS-011",
+    "title": "Implement the motion-first case-study template",
+    "phase": "2-work-experience",
+    "labels": ["phase:2-work-experience", "type:frontend", "type:content"],
+    "summary": "Build the template for video-heavy product and launch projects with strong motion/media treatment, credits, and concise supporting text.",
+    "targets": ["src/views/case-studies/MotionCaseView.tsx", "src/ui/case-studies/MotionMediaRail.tsx", "src/ui/case-studies/CreditsPanel.tsx"],
+    "dependencies": ["NS-002", "NS-010"],
+    "acceptance": [
+      "Motion-led projects can be presented without feeling like pasted portfolio pages.",
+      "Local video assets, stills, and credits all render cleanly.",
+      "The template remains performant on both immersive and reduced modes."
+    ]
+  },
+  {
+    "id": "NS-012",
+    "title": "Implement the campaign/system case-study template",
+    "phase": "2-work-experience",
+    "labels": ["phase:2-work-experience", "type:frontend", "type:content"],
+    "summary": "Build the narrative-first template for projects with process steps, identity work, collateral, and outcomes.",
+    "targets": ["src/views/case-studies/CampaignCaseView.tsx", "src/ui/case-studies/ProcessSequence.tsx", "src/ui/case-studies/OutcomePanel.tsx"],
+    "dependencies": ["NS-002", "NS-010"],
+    "acceptance": [
+      "Narrative sections and process steps have a clear visual hierarchy.",
+      "Collateral and identity assets can be shown without turning into a generic image dump.",
+      "The template can handle long-form projects like `re-outland` and `oneplus-softgold`."
+    ]
+  },
+  {
+    "id": "NS-013",
+    "title": "Implement the editorial, stills, and archive case-study template",
+    "phase": "2-work-experience",
+    "labels": ["phase:2-work-experience", "type:frontend", "type:content"],
+    "summary": "Build the template for photography-led work and the lower-emphasis archive presentation used for preserved placeholder routes.",
+    "targets": ["src/views/case-studies/EditorialCaseView.tsx", "src/views/case-studies/ArchiveCaseView.tsx", "src/ui/case-studies/ImageRail.tsx"],
+    "dependencies": ["NS-002", "NS-010"],
+    "acceptance": [
+      "Photography-led work gets its own calmer presentation rhythm.",
+      "Archive items are preserved but clearly separated from live featured work.",
+      "Provenance warnings can be surfaced where the source archive is ambiguous."
+    ]
+  },
+  {
+    "id": "NS-014",
+    "title": "Import all preserved Newsense projects into the new presentation system",
+    "phase": "2-work-experience",
+    "labels": ["phase:2-work-experience", "type:content", "type:data"],
+    "summary": "Map every recovered project into its final case-study type, populate its content, and confirm the archive split between flagship and placeholder work.",
+    "targets": ["content/projects/*.json", "content/archive/*.json", "src/content/projectRegistry.ts"],
+    "dependencies": ["NS-011", "NS-012", "NS-013"],
+    "acceptance": [
+      "All recovered projects exist in the new registry.",
+      "Featured vs archive routing matches the agreed taxonomy.",
+      "Known source warnings are preserved where they affect presentation trust."
+    ]
+  },
+  {
+    "id": "NS-015",
+    "title": "Build the studio, about, and services surface",
+    "phase": "3-studio-surfaces",
+    "labels": ["phase:3-studio-surfaces", "type:frontend", "type:content"],
+    "summary": "Create the Newsense studio view with positioning, manifesto, services, and method presented as a deliberate spatial/editorial surface rather than a static About page.",
+    "targets": ["src/views/StudioView.tsx", "src/objects/MethodTower.tsx", "src/ui/ServicesPanel.tsx"],
+    "dependencies": ["NS-004", "NS-007"],
+    "acceptance": [
+      "The studio surface preserves the recovered About content without flattening it.",
+      "Services and positioning feel integrated into the site system.",
+      "The view reads as studio identity, not client work."
+    ]
+  },
+  {
+    "id": "NS-016",
+    "title": "Build the team and client-proof surface",
+    "phase": "3-studio-surfaces",
+    "labels": ["phase:3-studio-surfaces", "type:frontend", "type:content"],
+    "summary": "Present the core team, client roster, and credits/proof in a way that supports trust without becoming a generic agency grid.",
+    "targets": ["src/views/TeamView.tsx", "src/objects/PortraitPrism.tsx", "src/ui/ClientRoster.tsx", "src/ui/TeamProfiles.tsx"],
+    "dependencies": ["NS-015"],
+    "acceptance": [
+      "Amyth, Sant, and Suraj each have a clear presentation with preserved bios.",
+      "Client proof is visible but does not overpower the work.",
+      "Credits and role language stay faithful to the archive."
+    ]
+  },
+  {
+    "id": "NS-017",
+    "title": "Build the contact and inquiry surface",
+    "phase": "3-studio-surfaces",
+    "labels": ["phase:3-studio-surfaces", "type:frontend", "type:content"],
+    "summary": "Create the contact object and view with email, phone, location, and a strong call to collaborate that works in immersive and fallback modes.",
+    "targets": ["src/views/ContactView.tsx", "src/objects/SignalBeacon.tsx", "src/ui/ContactPanel.tsx"],
+    "dependencies": ["NS-015"],
+    "acceptance": [
+      "All preserved contact details are available and easy to reach.",
+      "The contact path remains obvious from every mode.",
+      "The CTA language matches the refined Newsense brand tone."
+    ]
+  },
+  {
+    "id": "NS-018",
+    "title": "Generate and curate owned Newsense visual assets for the scene objects",
+    "phase": "3-studio-surfaces",
+    "labels": ["phase:3-studio-surfaces", "type:design", "type:assets"],
+    "summary": "Create or curate owned atmospheric visuals, materials, and stills that support the scene objects without relying on mixed client-collage references.",
+    "targets": ["public/assets/newsense/generated/", "public/assets/newsense/materials/", "planning/asset-shot-list.md"],
+    "dependencies": ["NS-003", "NS-004"],
+    "acceptance": [
+      "Scene objects have Newsense-owned visual material to work with.",
+      "Studio identity assets are kept separate from client-case imagery.",
+      "The asset set supports both homepage atmosphere and section transitions."
+    ]
+  },
+  {
+    "id": "NS-019",
+    "title": "Curate the final transition and interaction language from compatible Codrops patterns",
+    "phase": "4-polish-release",
+    "labels": ["phase:4-polish-release", "type:motion", "type:ux"],
+    "summary": "Select and integrate the strongest interaction ideas from the shortlisted references so the whole site feels cohesive rather than like multiple demos stitched together.",
+    "targets": ["src/scene/transitions/", "src/ui/interaction/", "planning/interaction-audit.md"],
+    "dependencies": ["NS-009", "NS-010", "NS-011", "NS-012", "NS-013", "NS-018"],
+    "acceptance": [
+      "Transitions feel like one language across homepage, atlas, and case studies.",
+      "The final motion system supports the Newsense tone instead of demo novelty.",
+      "Interaction choices are documented against the Codrops shortlist."
+    ]
+  },
+  {
+    "id": "NS-020",
+    "title": "Run QA, ship the first deployment, and prepare editorial handoff",
+    "phase": "4-polish-release",
+    "labels": ["phase:4-polish-release", "type:qa", "type:release"],
+    "summary": "Verify accessibility, performance, browser/device behavior, content fidelity, and deployment readiness, then prepare the repo for ongoing editorial updates.",
+    "targets": ["README.md", "planning/qa-matrix.md", "planning/deployment.md", "planning/editorial-handoff.md"],
+    "dependencies": ["NS-014", "NS-016", "NS-017", "NS-019"],
+    "acceptance": [
+      "The site passes the agreed QA matrix across immersive and fallback modes.",
+      "Deployment instructions and environment assumptions are documented.",
+      "Editorial/content update workflows are clear for future iteration."
+    ]
+  }
+]

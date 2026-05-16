@@ -1,0 +1,115 @@
+{
+  "id": "op-roadtrip",
+  "slug": "op-roadtrip",
+  "route": "/projects/op-roadtrip",
+  "title": "OnePlus Roadtrip",
+  "status": "live",
+  "case_study_type": "motion",
+  "page_kind": "portfolio",
+  "hero_heading": "OnePlus Roadtrip",
+  "hero_summary": "A community drive to engage OnePlus fans across India to get Futurebound. ​ Our video production crew followed the OnePlus van across many different cities to document the pop-up events in a large scale fan building campaign. Find the highlights of the video below.",
+  "primary_client": "OnePlus",
+  "clients": [
+    "OnePlus"
+  ],
+  "primary_service": "End to end video production",
+  "services": [
+    "End to end video production"
+  ],
+  "year": null,
+  "years": [],
+  "featured_rank": null,
+  "gallery_mode": "video-first",
+  "credits": {
+    "CLIENT": "OnePlus",
+    "PRODUCTION COMPANY": "Newsense",
+    "Video Editing": "Ronnie",
+    "PRODUCER": "Suraj Thakur",
+    "DIRECTOR OF PHOTOGRAPHY": "Suraj Thakur & Nikhil Vinay Goswami",
+    "TITLE GRAPHICS": "Sant Mote"
+  },
+  "credits_text": "CLIENT: OnePlus\nPRODUCTION COMPANY: Newsense\nVideo Editing: Ronnie\nPRODUCER: Suraj Thakur\nDIRECTOR OF PHOTOGRAPHY: Suraj Thakur & Nikhil Vinay Goswami\nTITLE GRAPHICS: Sant Mote",
+  "narrative_sections": [],
+  "outcome_sections": [],
+  "media": {
+    "cover_image": "/content-media/projects/op-roadtrip-cover.jpg",
+    "local_image_count": 21,
+    "local_video_count": 2,
+    "gallery_images": [
+      {
+        "id": "op-roadtrip-gallery-1",
+        "src": "/content-media/projects/op-roadtrip-cover.jpg",
+        "alt": "OnePlus Roadtrip frame 1",
+        "emphasis": "primary"
+      },
+      {
+        "id": "op-roadtrip-gallery-2",
+        "src": "/content-media/projects/op-roadtrip-gallery-2.jpg",
+        "alt": "OnePlus Roadtrip frame 2",
+        "emphasis": "support"
+      },
+      {
+        "id": "op-roadtrip-gallery-3",
+        "src": "/content-media/projects/op-roadtrip-gallery-3.jpg",
+        "alt": "OnePlus Roadtrip frame 3",
+        "emphasis": "support"
+      },
+      {
+        "id": "op-roadtrip-gallery-4",
+        "src": "/content-media/projects/op-roadtrip-gallery-4.jpg",
+        "alt": "OnePlus Roadtrip frame 4",
+        "emphasis": "support"
+      },
+      {
+        "id": "op-roadtrip-gallery-5",
+        "src": "/content-media/projects/op-roadtrip-gallery-5.jpg",
+        "alt": "OnePlus Roadtrip frame 5",
+        "emphasis": "support"
+      },
+      {
+        "id": "op-roadtrip-gallery-6",
+        "src": "/content-media/projects/op-roadtrip-gallery-6.jpg",
+        "alt": "OnePlus Roadtrip frame 6",
+        "emphasis": "support"
+      }
+    ],
+    "gallery_items": [
+      {
+        "id": "4f71ead4-0e96-4c4c-8239-f0e037d745ad",
+        "title": "OnePlus Roadtrip",
+        "description": "",
+        "media_type": "video",
+        "quality_count": 4
+      }
+    ],
+    "source_image_assets": [
+      "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+      "assets/images/19c245669b-dd4e19_bd491b319a5e4157abaa73441d56fb12f001.jpg",
+      "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+      "assets/images/247975d8ff-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f003.jpg",
+      "assets/images/404afb4751-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f000.jpg",
+      "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/4cf39c49b8-dd4e19_bd491b319a5e4157abaa73441d56fb12f003.jpg",
+      "assets/images/5375150ff3-dd4e19_bd491b319a5e4157abaa73441d56fb12f000.jpg",
+      "assets/images/62c90e079e-dd4e19_1c4d4bc21b5841ada020a126a568efe7-mv2.jpg",
+      "assets/images/6848fdd94a-dd4e19_b33327b5160948dfa7084c8ea1ca09ef-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/72cb99a68e-dd4e19_aa9ad73c11da4a908ed55315a0804d51f002.jpg",
+      "assets/images/74660d2a46-dd4e19_0d0969e4285b4596b68e32c28fabae1a-mv2.jpg"
+    ],
+    "source_video_assets": [
+      "assets/videos/0e77c92ada-file.mp4",
+      "assets/videos/e71f343427-file.mp4"
+    ],
+    "video_asset_ids": [
+      "dd4e19_0a2cc4fe1a18480395e31d8c82832b67",
+      "dd4e19_bd491b319a5e4157abaa73441d56fb12"
+    ]
+  },
+  "clean_text": "OnePlus Roadtrip A community drive to engage OnePlus fans across India to get Futurebound. ​ Our video production crew followed the OnePlus van across many different cities to document the pop-up events in a large scale fan building campaign. Find the highlights of the video below. SERVICE End to end video production CLIENT OnePlus Play Video SERVICE Video, Photography & Web design Credits CLIENT OnePlus PRODUCTION COMPANY Newsense Video Editing Ronnie PRODUCER Suraj Thakur DIRECTOR OF PHOTOGRAPHY Suraj Thakur & Nikhil Vinay Goswami TITLE GRAPHICS Sant Mote",
+  "source_warnings": [],
+  "source_refs": [
+    "sources/old-website/data/projects.json#op-roadtrip",
+    "sources/old-website/content/pages/op-roadtrip.md"
+  ],
+  "placeholder": false
+}

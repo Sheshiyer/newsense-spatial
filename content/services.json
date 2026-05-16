@@ -1,0 +1,118 @@
+{
+  "studio_services": [
+    {
+      "id": "studio-branding",
+      "slug": "branding",
+      "label": "Branding",
+      "kind": "studio"
+    },
+    {
+      "id": "studio-video-campaigns",
+      "slug": "video-campaigns",
+      "label": "Video Campaigns",
+      "kind": "studio"
+    },
+    {
+      "id": "studio-documentary",
+      "slug": "documentary",
+      "label": "Documentary",
+      "kind": "studio"
+    },
+    {
+      "id": "studio-animation",
+      "slug": "animation",
+      "label": "Animation",
+      "kind": "studio"
+    },
+    {
+      "id": "studio-graphic-design",
+      "slug": "graphic-design",
+      "label": "Graphic Design",
+      "kind": "studio"
+    },
+    {
+      "id": "studio-marketing-and-photography",
+      "slug": "marketing-and-photography",
+      "label": "Marketing and Photography.",
+      "kind": "studio"
+    }
+  ],
+  "project_service_tags": [
+    {
+      "id": "project-tag-animation",
+      "slug": "animation",
+      "label": "Animation",
+      "kind": "project-tag"
+    },
+    {
+      "id": "project-tag-art-direction-print",
+      "slug": "art-direction-print",
+      "label": "Art Direction, Print",
+      "kind": "project-tag"
+    },
+    {
+      "id": "project-tag-end-to-end-video-production",
+      "slug": "end-to-end-video-production",
+      "label": "End to end video production",
+      "kind": "project-tag"
+    },
+    {
+      "id": "project-tag-environmental-and-exhibition-print",
+      "slug": "environmental-and-exhibition-print",
+      "label": "Environmental & Exhibition, Print",
+      "kind": "project-tag"
+    },
+    {
+      "id": "project-tag-identity-and-branding",
+      "slug": "identity-and-branding",
+      "label": "Identity & Branding",
+      "kind": "project-tag"
+    },
+    {
+      "id": "project-tag-identity-and-branding-print-digital-and-web",
+      "slug": "identity-and-branding-print-digital-and-web",
+      "label": "Identity & Branding, Print, Digital & Web",
+      "kind": "project-tag"
+    },
+    {
+      "id": "project-tag-identity-and-branding-video-photography",
+      "slug": "identity-and-branding-video-photography",
+      "label": "Identity & Branding, Video, Photography",
+      "kind": "project-tag"
+    },
+    {
+      "id": "project-tag-photography",
+      "slug": "photography",
+      "label": "Photography",
+      "kind": "project-tag"
+    },
+    {
+      "id": "project-tag-print-art-direction",
+      "slug": "print-art-direction",
+      "label": "Print, Art Direction",
+      "kind": "project-tag"
+    },
+    {
+      "id": "project-tag-product-video",
+      "slug": "product-video",
+      "label": "Product Video",
+      "kind": "project-tag"
+    },
+    {
+      "id": "project-tag-video",
+      "slug": "video",
+      "label": "Video",
+      "kind": "project-tag"
+    },
+    {
+      "id": "project-tag-video-and-animation",
+      "slug": "video-and-animation",
+      "label": "Video & Animation",
+      "kind": "project-tag"
+    }
+  ],
+  "source_refs": [
+    "sources/old-website/data/services.json",
+    "sources/old-website/content/pages/about.md"
+  ]
+}

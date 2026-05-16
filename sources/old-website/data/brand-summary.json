@@ -1,0 +1,113 @@
+{
+  "name": "Newsense",
+  "website": "https://santmote.wixsite.com/mysite-2",
+  "description": "Newsense is an independent design & film studio focused on creating content that speaks to the modern audience.",
+  "contact": {
+    "emails": [
+      "newsense.xyz@gmail.com"
+    ],
+    "phones": [
+      "+91 80952 59587"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "IN",
+      "addressLocality": "Bengaluru",
+      "addressRegion": "KA",
+      "postalCode": "560078"
+    },
+    "telephone": "8095259587"
+  },
+  "logo_or_mark_urls": [
+    "https://static.wixstatic.com/media/dd4e19_cedf7c7c65604fe4b55695791e9f634c~mv2.png/v1/fill/w_314,h_43,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/newsense-black.png",
+    "https://static.wixstatic.com/media/dd4e19_cedf7c7c65604fe4b55695791e9f634c~mv2.png/v1/fill/w_628,h_86,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/newsense-black.png"
+  ],
+  "theme_tokens": {
+    "colors": {
+      "color_0": "255,255,255",
+      "color_1": "255,255,255",
+      "color_2": "0,0,0",
+      "color_3": "237,28,36",
+      "color_4": "0,136,203",
+      "color_5": "255,203,5",
+      "color_6": "114,114,114",
+      "color_7": "176,176,176",
+      "color_8": "255,255,255",
+      "color_9": "114,114,114",
+      "color_10": "176,176,176",
+      "color_11": "255,255,255",
+      "color_12": "240,240,240",
+      "color_13": "199,199,199",
+      "color_14": "153,153,151",
+      "color_15": "0,0,0",
+      "color_16": "205,212,214",
+      "color_17": "164,171,173",
+      "color_18": "122,130,131",
+      "color_19": "81,88,90",
+      "color_20": "39,47,49",
+      "color_21": "252,237,241",
+      "color_22": "255,222,230",
+      "color_23": "254,204,216",
+      "color_24": "203,163,173",
+      "color_25": "166,129,138",
+      "color_26": "220,223,205",
+      "color_27": "187,192,168",
+      "color_28": "153,160,120",
+      "color_29": "102,107,80",
+      "color_30": "51,53,40",
+      "color_31": "226,213,190",
+      "color_32": "198,180,150",
+      "color_33": "169,139,88",
+      "color_34": "113,93,59",
+      "color_35": "56,46,29",
+      "color_36": "255,255,255",
+      "color_37": "0,0,0",
+      "color_38": "240,240,240",
+      "color_39": "199,199,199",
+      "color_40": "153,153,151",
+      "color_41": "122,130,131",
+      "color_42": "0,0,0",
+      "color_43": "199,199,199",
+      "color_44": "255,255,255",
+      "color_45": "0,0,0",
+      "color_46": "0,0,0",
+      "color_47": "153,153,151",
+      "color_48": "122,130,131",
+      "color_49": "122,130,131",
+      "color_50": "255,255,255",
+      "color_51": "255,255,255",
+      "color_52": "122,130,131",
+      "color_53": "122,130,131",
+      "color_54": "199,199,199",
+      "color_55": "199,199,199",
+      "color_56": "255,255,255",
+      "color_57": "255,255,255",
+      "color_58": "122,130,131",
+      "color_59": "122,130,131",
+      "color_60": "122,130,131",
+      "color_61": "122,130,131",
+      "color_62": "255,255,255",
+      "color_63": "255,255,255",
+      "color_64": "199,199,199",
+      "color_65": "199,199,199"
+    },
+    "fonts": {
+      "font_0": "normal normal normal 36px/1.4em wfont_dd4e19_05aaf88113ae4ef3a15f9cadb81b027d,wf_05aaf88113ae4ef3a15f9cadb,orig_circularstdbold",
+      "font_1": "normal normal normal 16px/1.4em din-next-w01-light,sans-serif",
+      "font_2": "normal normal normal 24px/1.4em wfont_dd4e19_495d09d1fb7445d1937b5b93ce7c7d4e,wf_495d09d1fb7445d1937b5b93c,orig_circularstdbook",
+      "font_3": "normal normal normal 50px/1.4em forum,serif",
+      "font_4": "normal normal normal 60px/1.4em forum,serif",
+      "font_5": "normal normal normal 28px/1.4em forum,serif",
+      "font_6": "normal normal normal 24px/1.4em forum,serif",
+      "font_7": "normal normal normal 16px/1.4em proxima-n-w01-reg,sans-serif",
+      "font_8": "normal normal normal 18px/1.4em wfont_dd4e19_495d09d1fb7445d1937b5b93ce7c7d4e,wf_495d09d1fb7445d1937b5b93c,orig_circularstdbook",
+      "font_9": "normal normal normal 14px/1.4em wfont_dd4e19_495d09d1fb7445d1937b5b93ce7c7d4e,wf_495d09d1fb7445d1937b5b93c,orig_circularstdbook",
+      "font_10": "normal normal normal 12px/1.4em din-next-w01-light,sans-serif"
+    }
+  },
+  "notes": [
+    "Homepage positions Newsense as an independent design and film studio.",
+    "Primary public nav is Work, About, and Contact.",
+    "Visual system is quiet and editorial, with serif display typography and restrained monochrome/earth tones."
+  ]
+}

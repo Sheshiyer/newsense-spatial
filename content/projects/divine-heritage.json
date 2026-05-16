@@ -1,0 +1,106 @@
+{
+  "id": "divine-heritage",
+  "slug": "divine-heritage",
+  "route": "/projects/divine-heritage",
+  "title": "Divine Heritage",
+  "status": "featured",
+  "case_study_type": "editorial-stills",
+  "page_kind": "portfolio",
+  "hero_heading": "Divine Heritage",
+  "hero_summary": "Divive Heritage is a boutique brand which curates vintage objects, furniture, sculptures. We tried achieve the look of a gallery exhibition in our photos, where these artefacts come to life under the spot light surrounded by soft darkness.",
+  "primary_client": "Divine Heritage",
+  "clients": [
+    "Divine Heritage"
+  ],
+  "primary_service": "Photography",
+  "services": [
+    "Photography"
+  ],
+  "year": null,
+  "years": [],
+  "featured_rank": 7,
+  "gallery_mode": "stills-first",
+  "credits": {
+    "CLIENT": "Divine Heritage",
+    "PHOTOGRAPHY": "Amyth Venkataramaiah",
+    "PRODUCTION COMPANY": "Newsense"
+  },
+  "credits_text": "CLIENT: Divine Heritage\nPHOTOGRAPHY: Amyth Venkataramaiah\nPRODUCTION COMPANY: Newsense",
+  "narrative_sections": [],
+  "outcome_sections": [],
+  "media": {
+    "cover_image": "/content-media/projects/divine-heritage-cover.jpg",
+    "local_image_count": 32,
+    "local_video_count": 0,
+    "gallery_images": [
+      {
+        "id": "divine-heritage-gallery-1",
+        "src": "/content-media/projects/divine-heritage-cover.jpg",
+        "alt": "Divine Heritage frame 1",
+        "emphasis": "primary"
+      },
+      {
+        "id": "divine-heritage-gallery-2",
+        "src": "/content-media/projects/divine-heritage-gallery-2.jpg",
+        "alt": "Divine Heritage frame 2",
+        "emphasis": "support"
+      },
+      {
+        "id": "divine-heritage-gallery-3",
+        "src": "/content-media/projects/divine-heritage-gallery-3.jpg",
+        "alt": "Divine Heritage frame 3",
+        "emphasis": "support"
+      },
+      {
+        "id": "divine-heritage-gallery-4",
+        "src": "/content-media/projects/divine-heritage-gallery-4.jpg",
+        "alt": "Divine Heritage frame 4",
+        "emphasis": "support"
+      },
+      {
+        "id": "divine-heritage-gallery-5",
+        "src": "/content-media/projects/divine-heritage-gallery-5.jpg",
+        "alt": "Divine Heritage frame 5",
+        "emphasis": "support"
+      },
+      {
+        "id": "divine-heritage-gallery-6",
+        "src": "/content-media/projects/divine-heritage-gallery-6.jpg",
+        "alt": "Divine Heritage frame 6",
+        "emphasis": "support"
+      }
+    ],
+    "gallery_items": [
+      {
+        "id": "2b54d92e-78cf-456d-9d5e-4d77c623267f",
+        "title": "Divine Heritage",
+        "description": "Photography",
+        "media_type": "image",
+        "quality_count": 0
+      }
+    ],
+    "source_image_assets": [
+      "assets/images/16b447918a-dd4e19_6cc8b716007049519b6f21f97002dc3d-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/1cb1a6d29a-dd4e19_c17ad23cf4f54d50b4e0d6ce6f638714-mv2_d_1920_1332_s_2.jpg",
+      "assets/images/1fd6d7ede9-dd4e19_6a5e62c55c2447b58fe0e6e9573f8b2d-mv2_d_1920_1369_s_2.jpg",
+      "assets/images/22dbe59213-dd4e19_c1dc7f679406482a9fa9931adf16b5e9-mv2_d_1400_1707_s_2.jpg",
+      "assets/images/36f1a4465c-dd4e19_cca85880cd484c149c09235e6770feee-mv2_d_2261_2079_s_2.jpg",
+      "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/4bad894753-dd4e19_a4b0aeb109764121bd0cc6dcb7e4d3d3-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/55667ad3e2-dd4e19_875dd9c85538419ba32fb6a12e049ab5-mv2_d_1400_1215_s_2.jpg",
+      "assets/images/56bda623ea-dd4e19_5ce96fbc82614faa8c0a9d2a8192ed82-mv2_d_1400_1840_s_2.jpg",
+      "assets/images/56efc20aa3-dd4e19_74d81b7451f5415ba00939dd8ae5203b-mv2.jpg",
+      "assets/images/5ae59b4ab4-dd4e19_1641ad98dc7644cdb9982e8918b6e221-mv2_d_1920_1655_s_2.jpg",
+      "assets/images/5cc048f721-dd4e19_0db3d593c2dc41c8a79a303955a42f6a-mv2_d_1919_1279_s_2.jpg"
+    ],
+    "source_video_assets": [],
+    "video_asset_ids": []
+  },
+  "clean_text": "Divine Heritage Divive Heritage is a boutique brand which curates vintage objects, furniture, sculptures. We tried achieve the look of a gallery exhibition in our photos, where these artefacts come to life under the spot light surrounded by soft darkness. SERVICE Photography CLIENT Divine Heritage SERVICE Video, Photography & Web design Credits CLIENT Divine Heritage PHOTOGRAPHY Amyth Venkataramaiah PRODUCTION COMPANY Newsense",
+  "source_warnings": [],
+  "source_refs": [
+    "sources/old-website/data/projects.json#divine-heritage",
+    "sources/old-website/content/pages/divine-heritage.md"
+  ],
+  "placeholder": false
+}

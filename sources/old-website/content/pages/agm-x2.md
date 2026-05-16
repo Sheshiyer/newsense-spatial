@@ -1,0 +1,122 @@
+# AGM X2 | Newsense
+
+- Route: `agm-x2`
+- URL: `https://santmote.wixsite.com/mysite-2/agm-x2`
+- Page ID: `srko1`
+- Kind: `portfolio`
+- Placeholder/template page: `False`
+
+## Key Data
+
+- Description: n/a
+- Emails: none
+- Phones: none
+- Gallery-backed route: `True`
+- Local image assets: `21`
+- Local video assets: `2`
+- Video asset IDs: `2`
+
+## Headings
+- H1: AGM X2
+- H2: SERVICE
+- H2: CLIENT
+- H2: SERVICE
+- H2: Credits
+- H2: CLIENT
+- H2: PRODUCTION COMPANY
+- H2: CREATIVE DIRECTION
+- H2: PRODUCER
+- H2: DIRECTOR OF PHOTOGRAPHY
+- H2: VIDEO EDITING
+- H2: ANIMATION
+- H2: PRODUCTION MANAGER
+- H2: All Projects
+- H2: Let's work together.
+- H2: Interested to work with us? Get in touch
+
+## Clean Copy
+
+AGM X2 A phone built for travellers should be adventurous, rugged and fun. We managed to pull off all these aspects and more in the video below. SERVICE Product Video CLIENT AGM Play Video SERVICE Video, Photography & Web design Credits CLIENT AGM PRODUCTION COMPANY Newsense CREATIVE DIRECTION Sant Mote and Amyth Venkataramaiah PRODUCER Amyth Venkataramaiah DIRECTOR OF PHOTOGRAPHY Suraj Singh Thakur VIDEO EDITING Sant Mote ANIMATION Sant Mote PRODUCTION MANAGER Sujith Venkataramaiah
+
+## Sections
+### AGM X2
+A phone built for travellers should be adventurous, rugged and fun. We managed to pull off all these aspects and more in the video below.
+
+### SERVICE
+Product Video
+
+### CLIENT
+AGM Play Video
+
+### SERVICE
+Video, Photography & Web design
+
+### Credits
+n/a
+
+### CLIENT
+AGM
+
+### PRODUCTION COMPANY
+Newsense
+
+### CREATIVE DIRECTION
+Sant Mote and Amyth Venkataramaiah
+
+### PRODUCER
+Amyth Venkataramaiah
+
+### DIRECTOR OF PHOTOGRAPHY
+Suraj Singh Thakur
+
+### VIDEO EDITING
+Sant Mote
+
+### ANIMATION
+Sant Mote
+
+### PRODUCTION MANAGER
+Sujith Venkataramaiah
+
+## Internal Links
+- `https://santmote.wixsite.com/mysite-2`
+- `https://santmote.wixsite.com/mysite-2` — Work
+- `https://santmote.wixsite.com/mysite-2/about` — About
+- `https://santmote.wixsite.com/mysite-2/contact` — Contact
+- `https://santmote.wixsite.com/mysite-2` — All Projects
+- `https://santmote.wixsite.com/mysite-2/contact` — Contact us
+- `https://santmote.wixsite.com/mysite-2/contact` — Get in touch
+
+## External Links
+- `https://www.wix.com/lpviral/enviral?utm_campaign=vir_wixad_live&adsVersion=banner_2024&orig_msid=aa99f552-cce6-4d9b-96f0-a304175f7068&orig_msid=16fb3be5-0b9a-4c0b-b0ae-80f7cc8cf8b4&adsVersion=banner_2024` — This website was built on Wix. Create yours today. Get Started
+
+## Local Assets
+- `assets/images/05d65c8c40-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f000.jpg`
+- `assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg`
+- `assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg`
+- `assets/images/1dcde9307d-dd4e19_384b5fa2ff4546c68ec9c14a0cfe535e-mv2.jpg`
+- `assets/images/247975d8ff-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f003.jpg`
+- `assets/images/404afb4751-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f000.jpg`
+- `assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg`
+- `assets/images/56f72915ad-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f002.jpg`
+- `assets/images/62c90e079e-dd4e19_1c4d4bc21b5841ada020a126a568efe7-mv2.jpg`
+- `assets/images/6848fdd94a-dd4e19_b33327b5160948dfa7084c8ea1ca09ef-mv2_d_1920_1280_s_2.jpg`
+- `assets/images/74660d2a46-dd4e19_0d0969e4285b4596b68e32c28fabae1a-mv2.jpg`
+- `assets/images/80089db7e1-dd4e19_746e6bedd0734a9882ab9c7747437e7a-mv2_d_1920_1280_s_2.jpg`
+- `assets/images/84c83dbcf7-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f001.jpg`
+- `assets/images/93c0f72918-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f001.jpg`
+- `assets/images/94dcf14514-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f002.jpg`
+- `assets/images/9b0fced86c-dd4e19_18b4a9dcd895419e8fd85c33a5a54575-mv2.jpg`
+- `assets/images/a1f5c33f0d-dd4e19_8a3304c7fadd45f4ab6e422a84419b6e-mv2_d_1986_1326_s_2.jpg`
+- `assets/images/a734ab5176-dd4e19_14be716bf1464e7895731be1c4a80c3f-mv2.jpg`
+- `assets/images/bf852dca99-dd4e19_cedf7c7c65604fe4b55695791e9f634c-mv2.png`
+- `assets/images/e332acf301-dd4e19_edd6622f712842f9a8328b43e9109611-mv2.jpg`
+- `assets/images/e656e652e5-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f003.jpg`
+
+## Video Asset IDs
+- `dd4e19_0a2cc4fe1a18480395e31d8c82832b67`
+- `dd4e19_ae64d97603634d34b29fa0d8bbbeaae1`
+
+## Local Video Assets
+- `assets/videos/0e77c92ada-file.mp4`
+- `assets/videos/ac84262451-file.mp4`

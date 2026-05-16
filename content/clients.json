@@ -1,0 +1,244 @@
+[
+  {
+    "id": "client-agm",
+    "slug": "agm",
+    "name": "AGM",
+    "proof_sources": [
+      "about-page",
+      "project-routes"
+    ],
+    "project_slugs": [
+      "agm-glory",
+      "agm-x2",
+      "agm-x2-football",
+      "agm-x3",
+      "agm-x5"
+    ],
+    "about_page_presence": true,
+    "notes": []
+  },
+  {
+    "id": "client-airtel",
+    "slug": "airtel",
+    "name": "Airtel",
+    "proof_sources": [
+      "about-page"
+    ],
+    "project_slugs": [],
+    "about_page_presence": true,
+    "notes": []
+  },
+  {
+    "id": "client-alpha-source",
+    "slug": "alpha-source",
+    "name": "Alpha Source",
+    "proof_sources": [],
+    "project_slugs": [],
+    "about_page_presence": false,
+    "notes": []
+  },
+  {
+    "id": "client-arte-museum",
+    "slug": "arte-museum",
+    "name": "Arte Museum",
+    "proof_sources": [],
+    "project_slugs": [],
+    "about_page_presence": false,
+    "notes": []
+  },
+  {
+    "id": "client-bangalore-central",
+    "slug": "bangalore-central",
+    "name": "Bangalore Central",
+    "proof_sources": [
+      "about-page"
+    ],
+    "project_slugs": [],
+    "about_page_presence": true,
+    "notes": []
+  },
+  {
+    "id": "client-cider-and-milk",
+    "slug": "cider-and-milk",
+    "name": "Cider & Milk",
+    "proof_sources": [],
+    "project_slugs": [],
+    "about_page_presence": false,
+    "notes": []
+  },
+  {
+    "id": "client-cult-fitness",
+    "slug": "cult-fitness",
+    "name": "Cult Fitness",
+    "proof_sources": [
+      "about-page"
+    ],
+    "project_slugs": [],
+    "about_page_presence": true,
+    "notes": []
+  },
+  {
+    "id": "client-divine-heritage",
+    "slug": "divine-heritage",
+    "name": "Divine Heritage",
+    "proof_sources": [
+      "about-page",
+      "project-routes"
+    ],
+    "project_slugs": [
+      "divine-heritage"
+    ],
+    "about_page_presence": true,
+    "notes": []
+  },
+  {
+    "id": "client-ikodoo",
+    "slug": "ikodoo",
+    "name": "Ikodoo",
+    "proof_sources": [
+      "project-routes"
+    ],
+    "project_slugs": [
+      "ikodoo"
+    ],
+    "about_page_presence": false,
+    "notes": []
+  },
+  {
+    "id": "client-kaa",
+    "slug": "kaa",
+    "name": "KAA",
+    "proof_sources": [
+      "project-routes"
+    ],
+    "project_slugs": [
+      "kaa"
+    ],
+    "about_page_presence": false,
+    "notes": []
+  },
+  {
+    "id": "client-karnataka-athletic-association",
+    "slug": "karnataka-athletic-association",
+    "name": "Karnataka Athletic Association",
+    "proof_sources": [
+      "about-page"
+    ],
+    "project_slugs": [],
+    "about_page_presence": true,
+    "notes": []
+  },
+  {
+    "id": "client-motorola",
+    "slug": "motorola",
+    "name": "Motorola",
+    "proof_sources": [
+      "about-page"
+    ],
+    "project_slugs": [],
+    "about_page_presence": true,
+    "notes": []
+  },
+  {
+    "id": "client-oneplus",
+    "slug": "oneplus",
+    "name": "OnePlus",
+    "proof_sources": [
+      "about-page",
+      "project-routes"
+    ],
+    "project_slugs": [
+      "oneplus-experience-store",
+      "oneplus-lava-red",
+      "oneplus-softgold",
+      "op-roadtrip"
+    ],
+    "about_page_presence": true,
+    "notes": []
+  },
+  {
+    "id": "client-puma",
+    "slug": "puma",
+    "name": "Puma",
+    "proof_sources": [
+      "about-page"
+    ],
+    "project_slugs": [],
+    "about_page_presence": true,
+    "notes": []
+  },
+  {
+    "id": "client-purple-dream",
+    "slug": "purple-dream",
+    "name": "Purple Dream",
+    "proof_sources": [
+      "about-page"
+    ],
+    "project_slugs": [],
+    "about_page_presence": true,
+    "notes": []
+  },
+  {
+    "id": "client-royal-enfield",
+    "slug": "royal-enfield",
+    "name": "Royal Enfield",
+    "proof_sources": [
+      "about-page",
+      "project-routes"
+    ],
+    "project_slugs": [
+      "re-outland"
+    ],
+    "about_page_presence": true,
+    "notes": []
+  },
+  {
+    "id": "client-seasalt-restaurant",
+    "slug": "seasalt-restaurant",
+    "name": "Seasalt Restaurant",
+    "proof_sources": [],
+    "project_slugs": [],
+    "about_page_presence": false,
+    "notes": []
+  },
+  {
+    "id": "client-tom-s-restaurant",
+    "slug": "tom-s-restaurant",
+    "name": "Tom's Restaurant",
+    "proof_sources": [
+      "about-page"
+    ],
+    "project_slugs": [],
+    "about_page_presence": true,
+    "notes": []
+  },
+  {
+    "id": "client-toyota",
+    "slug": "toyota",
+    "name": "Toyota",
+    "proof_sources": [
+      "about-page"
+    ],
+    "project_slugs": [],
+    "about_page_presence": true,
+    "notes": []
+  },
+  {
+    "id": "client-tune-sound",
+    "slug": "tune-sound",
+    "name": "Tune Sound",
+    "proof_sources": [],
+    "project_slugs": [],
+    "about_page_presence": false,
+    "notes": []
+  },
+  {
+    "id": "client-vito-coffee",
+    "slug": "vito-coffee",
+    "name": "Vito Coffee",
+    "proof_sources": [],
+    "project_slugs": [],
+    "about_page_presence": false,
+    "notes": []
+  }
+]

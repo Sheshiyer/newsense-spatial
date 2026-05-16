@@ -1,0 +1,160 @@
+{
+  "id": "re-outland",
+  "slug": "re-outland",
+  "route": "/projects/re-outland",
+  "title": "Royal Enfield - Outland",
+  "status": "featured",
+  "case_study_type": "campaign-system",
+  "page_kind": "portfolio",
+  "hero_heading": "Royal Enfield Outland",
+  "hero_summary": "Royal Enfield is a house hold name among bikers. Known for their classic yet modern designs. It has gained a loyal customer base for their well crafted bikes and the lifestyle that comes with a Royal Enfield bike. We worked with the team at Royal Enfield, Bangalore to create an identity and a campaign for a 2 day biking adventure franchise called 'Outland'. We crafted the strategy and a plan of action which engaged with their audience before, during & after the event.",
+  "primary_client": "Royal Enfield",
+  "clients": [
+    "Royal Enfield"
+  ],
+  "primary_service": "Identity & Branding, Video, Photography",
+  "services": [
+    "Identity & Branding, Video, Photography"
+  ],
+  "year": null,
+  "years": [],
+  "featured_rank": 1,
+  "gallery_mode": "story-first",
+  "credits": {
+    "CLIENT": "Royal Enfield",
+    "PRODUCTION COMPANY": "Newsense",
+    "CREATIVE DIRECTION, DESIGN": "Sant Mote",
+    "PRODUCER": "Amyth Venkataramiah",
+    "CINEMATOGRAPHY": "Suraj Singh Thakur & Amyth Venkataramiah",
+    "PHOTOGRAPHY": "Suraj Singh Thakur & Amyth Venkataramiah",
+    "PRODUCTION MANAGER": "Shreyas Yadav",
+    "VIDEO EDITING": "Sant Mote"
+  },
+  "credits_text": "CLIENT: Royal Enfield\nPRODUCTION COMPANY: Newsense\nCREATIVE DIRECTION, DESIGN: Sant Mote\nPRODUCER: Amyth Venkataramiah\nCINEMATOGRAPHY: Suraj Singh Thakur & Amyth Venkataramiah\nPHOTOGRAPHY: Suraj Singh Thakur & Amyth Venkataramiah\nPRODUCTION MANAGER: Shreyas Yadav\nVIDEO EDITING: Sant Mote",
+  "narrative_sections": [
+    {
+      "heading": "Our Process",
+      "content": "Define the unique qualities of Outland and strategise a plan based on the insights gained."
+    },
+    {
+      "heading": "1.",
+      "content": "Create engaging content through videos and photos to drive registrations."
+    },
+    {
+      "heading": "4.",
+      "content": "Create a strong visual identity using the strategy and insights gained from research."
+    },
+    {
+      "heading": "2.",
+      "content": "Deepen the audience connection with the brand by making merchandise & memorabilia."
+    },
+    {
+      "heading": "5.",
+      "content": "Extend the visual identity into design collaterals for digital & print promotion."
+    },
+    {
+      "heading": "Giving a face to the brand",
+      "content": "After a few conversations with the Royal Enfield team we narrowed down on 3 elements which defined 'Outland'. Riding, Camping and Community. We presented 3 options for the logo, our first option of the scenic view from the tent resonated with the vision of the brand."
+    },
+    {
+      "heading": "Design Collaterals",
+      "content": "Extending our visual identity into a digital and print campaign, we illustrated a fun, vibrant scene with glimpses of the event like Camping in the woods, Bon fire, Hikes, Workshops, BBQ, Arm Wrestling and Music. Online Event Poster Print Poster Approved logo"
+    },
+    {
+      "heading": "Deepening the connection with the brand.",
+      "content": "We created a custom line of merchandise for fans to buy as souvenirs to remind them of the great experiences, stories and memories from the event. Attaching intangible value to everyday object like T-shirts, Helmets, Wrist Bands & Bandanas; Fans feel more attached to the brand. Official Tee Open face Helmet Face Mask Wrist Bands Event Flag"
+    },
+    {
+      "heading": "Adventure's in the air",
+      "content": "To generate curiosity and engagement around the event we shot a series of photographs and short videos set against the beautiful backdrop of Chikmagalur."
+    }
+  ],
+  "outcome_sections": [
+    {
+      "heading": "Giving a face to the brand",
+      "content": "After a few conversations with the Royal Enfield team we narrowed down on 3 elements which defined 'Outland'. Riding, Camping and Community. We presented 3 options for the logo, our first option of the scenic view from the tent resonated with the vision of the brand."
+    },
+    {
+      "heading": "Adventure's in the air",
+      "content": "To generate curiosity and engagement around the event we shot a series of photographs and short videos set against the beautiful backdrop of Chikmagalur."
+    }
+  ],
+  "media": {
+    "cover_image": "/content-media/projects/re-outland-cover.jpg",
+    "local_image_count": 30,
+    "local_video_count": 0,
+    "gallery_images": [
+      {
+        "id": "re-outland-gallery-1",
+        "src": "/content-media/projects/re-outland-cover.jpg",
+        "alt": "Royal Enfield Outland frame 1",
+        "emphasis": "primary"
+      },
+      {
+        "id": "re-outland-gallery-2",
+        "src": "/content-media/projects/re-outland-gallery-2.jpg",
+        "alt": "Royal Enfield Outland frame 2",
+        "emphasis": "support"
+      },
+      {
+        "id": "re-outland-gallery-3",
+        "src": "/content-media/projects/re-outland-gallery-3.jpg",
+        "alt": "Royal Enfield Outland frame 3",
+        "emphasis": "support"
+      },
+      {
+        "id": "re-outland-gallery-4",
+        "src": "/content-media/projects/re-outland-gallery-4.jpg",
+        "alt": "Royal Enfield Outland frame 4",
+        "emphasis": "support"
+      },
+      {
+        "id": "re-outland-gallery-5",
+        "src": "/content-media/projects/re-outland-gallery-5.jpg",
+        "alt": "Royal Enfield Outland frame 5",
+        "emphasis": "support"
+      },
+      {
+        "id": "re-outland-gallery-6",
+        "src": "/content-media/projects/re-outland-gallery-6.jpg",
+        "alt": "Royal Enfield Outland frame 6",
+        "emphasis": "support"
+      }
+    ],
+    "gallery_items": [
+      {
+        "id": "54e8853d-b803-48e2-a568-744426ce369e",
+        "title": "Royal Enfield Outland",
+        "description": "Branding, Video & Photography",
+        "media_type": "video",
+        "quality_count": 3
+      }
+    ],
+    "source_image_assets": [
+      "assets/images/0c9aa68b06-dd4e19_7472751f8c1646de82a0e647adceac25-mv2.jpg",
+      "assets/images/0fc17709ea-dd4e19_79d4586e995c4e9baa57b6d7a05d3c0e-mv2_d_1920_1411_s_2.jpg",
+      "assets/images/1a414df5bb-dd4e19_0c67238d4ad4466aaee7c99080dea3fa-mv2.jpg",
+      "assets/images/1dd1b2413f-dd4e19_d6f5f3f9c67e419b8a719c4321769334f001.jpg",
+      "assets/images/408bd471dc-dd4e19_a5165affe86145a5b7a1fec20b6069ab-mv2.jpg",
+      "assets/images/42b8bf1413-dd4e19_17ff707ad67c47f8a3a7e565c2157c47-mv2_d_1920_1285_s_2.jpg",
+      "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/4e3e30b7c2-dd4e19_4ddd6005453f489a974669cd4031592bf002.jpg",
+      "assets/images/608f6704f8-dd4e19_b0309a85568a475e8fd3628249564d25-mv2_d_1920_1920_s_2.jpg",
+      "assets/images/62c90e079e-dd4e19_1c4d4bc21b5841ada020a126a568efe7-mv2.jpg",
+      "assets/images/6848fdd94a-dd4e19_b33327b5160948dfa7084c8ea1ca09ef-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/74660d2a46-dd4e19_0d0969e4285b4596b68e32c28fabae1a-mv2.jpg"
+    ],
+    "source_video_assets": [],
+    "video_asset_ids": [
+      "dd4e19_4ddd6005453f489a974669cd4031592b",
+      "dd4e19_f600fd7d31bf4d1c88daba90cf43c5fd"
+    ]
+  },
+  "clean_text": "Royal Enfield Outland Royal Enfield is a house hold name among bikers. Known for their classic yet modern designs. It has gained a loyal customer base for their well crafted bikes and the lifestyle that comes with a Royal Enfield bike. We worked with the team at Royal Enfield, Bangalore to create an identity and a campaign for a 2 day biking adventure franchise called 'Outland'. We crafted the strategy and a plan of action which engaged with their audience before, during & after the event. SERVICE Identity & Branding, Video, Photography CLIENT Royal Enfield Our Process Define the unique qualities of Outland and strategise a plan based on the insights gained. 1. Create engaging content through videos and photos to drive registrations. 4. Create a strong visual identity using the strategy and insights gained from research. 2. Deepen the audience connection with the brand by making merchandise & memorabilia. 5. Extend the visual identity into design collaterals for digital & print promotion. 3. Play Video Giving a face to the brand After a few conversations with the Royal Enfield team we narrowed down on 3 elements which defined 'Outland'. Riding, Camping and Community. We presented 3 options for the logo, our first option of the scenic view from the tent resonated with the vision of the brand. Design Collaterals Extending our visual identity into a digital and print campaign, we illustrated a fun, vibrant scene with glimpses of the event like Camping in the woods, Bon fire, Hikes, Workshops, BBQ, Arm Wrestling and Music. Online Event Poster Print Poster Approved logo Deepening the connection with the brand. We created a custom line of merchandise for fans to buy as souvenirs to remind them of the great experiences, stories and memories from the event. Attaching intangible value to everyday object like T-shirts, Helmets, Wrist Bands & Bandanas; Fans feel more attached to the brand. Official Tee Open face Helmet Face Mask Wrist Bands Event Flag Adventure's in the air To generate curiosity and engagement around the event we shot a series of photographs and short videos set against the beautiful backdrop of Chikmagalur. SERVICE Video, Photography & Web design Credits CLIENT Royal Enfield PRODUCTION COMPANY Newsense CREATIVE DIRECTION, DESIGN Sant Mote PRODUCER Amyth Venkataramiah CINEMATOGRAPHY Suraj Singh Thakur & Amyth Venkataramiah PHOTOGRAPHY Suraj Singh Thakur & Amyth Venkataramiah PRODUCTION MANAGER Shreyas Yadav VIDEO EDITING Sant Mote Let's work together. NEWSENSE leverages years of experience in Design, Film and Brand Communications to craft experiences that inspire action. Join our growing list of clients to collaborate on strategy-driven and design-led creative solutions for the modern world. Contact us",
+  "source_warnings": [],
+  "source_refs": [
+    "sources/old-website/data/projects.json#re-outland",
+    "sources/old-website/content/pages/re-outland.md"
+  ],
+  "placeholder": false
+}

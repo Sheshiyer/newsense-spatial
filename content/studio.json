@@ -1,0 +1,65 @@
+{
+  "id": "newsense-studio",
+  "slug": "studio",
+  "name": "Newsense",
+  "wordmark_asset": "/content-media/brand/newsense-wordmark.png",
+  "website": "https://santmote.wixsite.com/mysite-2",
+  "positioning": "Newsense is an independent design & film studio focused on creating content that speaks to the modern audience.",
+  "support_copy": "We are a multi-disciplinary team of creators who strive to understand brands and work with them to bring great ideas to life.",
+  "about_summary": "We specialise in Film and Design with a strong focus on understanding brands and crafting creative solutions which delight.",
+  "about_support": "Newsense is based in Bangalore, India. We are a team of creatives who are passionate to bring unique ideas to life.",
+  "location_city": "Bengaluru",
+  "location_country": "IN",
+  "contact": {
+    "emails": [
+      "newsense.xyz@gmail.com"
+    ],
+    "phones": [
+      "+91 80952 59587"
+    ],
+    "address": "#6, MS Layout, Jaraganahalli, JP Nagar 6th phase, Bengaluru - 560078",
+    "form_prompt": "Budget Estimate Submit Thanks for reaching out to us!"
+  },
+  "services": [
+    "Branding",
+    "Video Campaigns",
+    "Documentary",
+    "Animation",
+    "Graphic Design",
+    "Marketing and Photography."
+  ],
+  "client_roster": [
+    "OnePlus",
+    "Royal Enfield",
+    "AGM",
+    "Motorola",
+    "Airtel",
+    "Cult Fitness",
+    "Puma",
+    "Bangalore Central",
+    "Toyota",
+    "Karnataka Athletic Association",
+    "Purple Dream",
+    "Tom's Restaurant",
+    "Divine Heritage"
+  ],
+  "brand_tokens": {
+    "palette": [
+      "near-black",
+      "charcoal",
+      "stone",
+      "aged bronze",
+      "smoked neutral"
+    ],
+    "notes": [
+      "Homepage positions Newsense as an independent design and film studio.",
+      "Primary public nav is Work, About, and Contact.",
+      "Visual system is quiet and editorial, with serif display typography and restrained monochrome/earth tones."
+    ]
+  },
+  "source_refs": [
+    "sources/old-website/data/brand-summary.json",
+    "sources/old-website/content/pages/home.md",
+    "sources/old-website/content/pages/about.md"
+  ]
+}

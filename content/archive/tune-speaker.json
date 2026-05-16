@@ -1,0 +1,106 @@
+{
+  "id": "tune-speaker",
+  "slug": "tune-speaker",
+  "route": "/archive/tune-speaker",
+  "title": "Tune Speaker",
+  "status": "archive",
+  "case_study_type": "archive-fragment",
+  "page_kind": "portfolio",
+  "hero_heading": "Tune Speaker",
+  "hero_summary": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+  "primary_client": "Tune Sound",
+  "clients": [
+    "Tune Sound"
+  ],
+  "primary_service": "Art Direction, Print",
+  "services": [
+    "Art Direction, Print"
+  ],
+  "year": "2023",
+  "years": [
+    "2023"
+  ],
+  "featured_rank": null,
+  "gallery_mode": "story-first",
+  "credits": {},
+  "credits_text": "",
+  "narrative_sections": [
+    {
+      "heading": "I'm a paragraph. Click here to add your own text and edit me.",
+      "content": "It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me."
+    },
+    {
+      "heading": "The Campaign",
+      "content": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font."
+    }
+  ],
+  "outcome_sections": [],
+  "media": {
+    "cover_image": "/content-media/projects/tune-speaker-cover.jpg",
+    "local_image_count": 14,
+    "local_video_count": 0,
+    "gallery_images": [
+      {
+        "id": "tune-speaker-gallery-1",
+        "src": "/content-media/projects/tune-speaker-cover.jpg",
+        "alt": "Tune Speaker frame 1",
+        "emphasis": "primary"
+      },
+      {
+        "id": "tune-speaker-gallery-2",
+        "src": "/content-media/projects/tune-speaker-gallery-2.jpg",
+        "alt": "Tune Speaker frame 2",
+        "emphasis": "support"
+      },
+      {
+        "id": "tune-speaker-gallery-3",
+        "src": "/content-media/projects/tune-speaker-gallery-3.jpg",
+        "alt": "Tune Speaker frame 3",
+        "emphasis": "support"
+      },
+      {
+        "id": "tune-speaker-gallery-4",
+        "src": "/content-media/projects/tune-speaker-gallery-4.jpg",
+        "alt": "Tune Speaker frame 4",
+        "emphasis": "support"
+      },
+      {
+        "id": "tune-speaker-gallery-5",
+        "src": "/content-media/projects/tune-speaker-gallery-5.jpg",
+        "alt": "Tune Speaker frame 5",
+        "emphasis": "support"
+      },
+      {
+        "id": "tune-speaker-gallery-6",
+        "src": "/content-media/projects/tune-speaker-gallery-6.jpg",
+        "alt": "Tune Speaker frame 6",
+        "emphasis": "support"
+      }
+    ],
+    "gallery_items": [],
+    "source_image_assets": [
+      "assets/images/1244b7381e-84770f_f344940177124a7db1e7ce1164b3a6c5-mv2_d_2523_1588_s_2.jpg",
+      "assets/images/28bcf869ee-84770f_c5e037849674427daf208b2fb4c66f34-mv2_d_3135_1998_s_2.jpg",
+      "assets/images/351c1f44aa-84770f_1af4da112fae4274aadc243dbbf52eff-mv2_d_2840_2840_s_4_2.jpg",
+      "assets/images/3f05be6883-84770f_a7177c20c4d04180814ad617f3ebb49c-mv2_d_2025_1998_s_2.jpg",
+      "assets/images/445c665b7b-84770f_bce6b0f820304d6b9f89ff40c22d13d4-mv2_d_2840_2840_s_4_2.jpg",
+      "assets/images/49dada2014-84770f_6dd4d6b485ae4c1d98c802379bb4ac4e-mv2_d_2840_2840_s_4_2.jpg",
+      "assets/images/627a2b3bae-84770f_b65ba589c9534bdf8f1ec68c544220e3-mv2.jpg",
+      "assets/images/770702f6aa-84770f_e1cb3414c10448de85f428faccc26303-mv2_d_2840_2840_s_4_2.jpg",
+      "assets/images/7dd814ebbe-84770f_fe67b217054442539499eaa34078ca24-mv2_d_2782_1802_s_2.jpg",
+      "assets/images/8f31beb943-84770f_37cc6bca0fa94fc0843452a5bea86aa5-mv2_d_2840_2840_s_4_2.jpg",
+      "assets/images/b9e0f83d67-84770f_bf19e3d938c94366ba61b62ac4ebe272-mv2_d_2840_2840_s_4_2.jpg",
+      "assets/images/bf852dca99-dd4e19_cedf7c7c65604fe4b55695791e9f634c-mv2.png"
+    ],
+    "source_video_assets": [],
+    "video_asset_ids": []
+  },
+  "clean_text": "Tune Speaker I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Service Art Direction, Print Client Tune Sound Year 2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. The Campaign I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+  "source_warnings": [],
+  "source_refs": [
+    "sources/old-website/data/projects.json#tune-speaker",
+    "sources/old-website/content/pages/tune-speaker.md"
+  ],
+  "archive_reason": "placeholder-template-route",
+  "placeholder": true
+}

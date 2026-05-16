@@ -1,0 +1,3876 @@
+{
+  "generated_at": "2026-05-16T05:48:55.210Z",
+  "metadata": {
+    "featured_order": [
+      "re-outland",
+      "oneplus-softgold",
+      "oneplus-lava-red",
+      "ikodoo",
+      "agm-glory",
+      "oneplus-experience-store",
+      "divine-heritage"
+    ],
+    "placeholder_routes": [
+      "alpha-source",
+      "arte-artifacts",
+      "cider-and-milk",
+      "seasalt",
+      "tune-speaker",
+      "vito-coffee"
+    ],
+    "total_projects": 13,
+    "total_archive": 6
+  },
+  "studio": {
+    "id": "newsense-studio",
+    "slug": "studio",
+    "name": "Newsense",
+    "wordmark_asset": "/content-media/brand/newsense-wordmark.png",
+    "website": "https://santmote.wixsite.com/mysite-2",
+    "positioning": "Newsense is an independent design & film studio focused on creating content that speaks to the modern audience.",
+    "support_copy": "We are a multi-disciplinary team of creators who strive to understand brands and work with them to bring great ideas to life.",
+    "about_summary": "We specialise in Film and Design with a strong focus on understanding brands and crafting creative solutions which delight.",
+    "about_support": "Newsense is based in Bangalore, India. We are a team of creatives who are passionate to bring unique ideas to life.",
+    "location_city": "Bengaluru",
+    "location_country": "IN",
+    "contact": {
+      "emails": [
+        "newsense.xyz@gmail.com"
+      ],
+      "phones": [
+        "+91 80952 59587"
+      ],
+      "address": "#6, MS Layout, Jaraganahalli, JP Nagar 6th phase, Bengaluru - 560078",
+      "form_prompt": "Budget Estimate Submit Thanks for reaching out to us!"
+    },
+    "services": [
+      "Branding",
+      "Video Campaigns",
+      "Documentary",
+      "Animation",
+      "Graphic Design",
+      "Marketing and Photography."
+    ],
+    "client_roster": [
+      "OnePlus",
+      "Royal Enfield",
+      "AGM",
+      "Motorola",
+      "Airtel",
+      "Cult Fitness",
+      "Puma",
+      "Bangalore Central",
+      "Toyota",
+      "Karnataka Athletic Association",
+      "Purple Dream",
+      "Tom's Restaurant",
+      "Divine Heritage"
+    ],
+    "brand_tokens": {
+      "palette": [
+        "near-black",
+        "charcoal",
+        "stone",
+        "aged bronze",
+        "smoked neutral"
+      ],
+      "notes": [
+        "Homepage positions Newsense as an independent design and film studio.",
+        "Primary public nav is Work, About, and Contact.",
+        "Visual system is quiet and editorial, with serif display typography and restrained monochrome/earth tones."
+      ]
+    },
+    "source_refs": [
+      "sources/old-website/data/brand-summary.json",
+      "sources/old-website/content/pages/home.md",
+      "sources/old-website/content/pages/about.md"
+    ]
+  },
+  "team": [
+    {
+      "id": "team-amyth-venkataramaiah",
+      "slug": "amyth-venkataramaiah",
+      "name": "Amyth Venkataramaiah",
+      "role": "Founder and Executive Producer",
+      "bio_full": "Founder and Executive Producer A curious mind, with a deep interest in expressing oneself through art. Amyth began as a photographer & graphic designer with over 10 years of experience. He handles all of our productions and brings our ideas to life.",
+      "bio_short": "A curious mind, with a deep interest in expressing oneself through art.",
+      "order": 1,
+      "portrait_asset": null,
+      "specialties": [
+        "Production",
+        "Photography",
+        "Execution"
+      ],
+      "source_refs": [
+        "sources/old-website/data/team.json",
+        "sources/old-website/content/pages/about.md"
+      ]
+    },
+    {
+      "id": "team-sant-mote",
+      "slug": "sant-mote",
+      "name": "Sant Mote",
+      "role": "Creative Director",
+      "bio_full": "Creative Director A lover of all things art, Sant began his career as a graphic designer, with over 12 years of experience working with brands, he has since branched out into VFX and 3D animation. He leads our creative team, strategising campaigns that are unique and relevant to brands.",
+      "bio_short": "A lover of all things art, Sant began his career as a graphic designer, with over 12 years of experience working with brands, he has since branched out into VFX and 3D animation.",
+      "order": 2,
+      "portrait_asset": null,
+      "specialties": [
+        "Campaign Strategy",
+        "Design",
+        "3D",
+        "VFX"
+      ],
+      "source_refs": [
+        "sources/old-website/data/team.json",
+        "sources/old-website/content/pages/about.md"
+      ]
+    },
+    {
+      "id": "team-suraj-singh-thakur",
+      "slug": "suraj-singh-thakur",
+      "name": "Suraj Singh Thakur",
+      "role": "Director of Photography",
+      "bio_full": "Director of Photography Behind every photo, there is a vision that adds life to it. Suraj lives the picture before clicking an image. With over 10 years of experience working as filmmaker he has honed the skill to capture the soul of every project he takes through his camera.",
+      "bio_short": "Behind every photo, there is a vision that adds life to it.",
+      "order": 3,
+      "portrait_asset": null,
+      "specialties": [
+        "Cinematography",
+        "Framing",
+        "Atmosphere"
+      ],
+      "source_refs": [
+        "sources/old-website/data/team.json",
+        "sources/old-website/content/pages/about.md"
+      ]
+    }
+  ],
+  "services": {
+    "studio_services": [
+      {
+        "id": "studio-branding",
+        "slug": "branding",
+        "label": "Branding",
+        "kind": "studio"
+      },
+      {
+        "id": "studio-video-campaigns",
+        "slug": "video-campaigns",
+        "label": "Video Campaigns",
+        "kind": "studio"
+      },
+      {
+        "id": "studio-documentary",
+        "slug": "documentary",
+        "label": "Documentary",
+        "kind": "studio"
+      },
+      {
+        "id": "studio-animation",
+        "slug": "animation",
+        "label": "Animation",
+        "kind": "studio"
+      },
+      {
+        "id": "studio-graphic-design",
+        "slug": "graphic-design",
+        "label": "Graphic Design",
+        "kind": "studio"
+      },
+      {
+        "id": "studio-marketing-and-photography",
+        "slug": "marketing-and-photography",
+        "label": "Marketing and Photography.",
+        "kind": "studio"
+      }
+    ],
+    "project_service_tags": [
+      {
+        "id": "project-tag-animation",
+        "slug": "animation",
+        "label": "Animation",
+        "kind": "project-tag"
+      },
+      {
+        "id": "project-tag-art-direction-print",
+        "slug": "art-direction-print",
+        "label": "Art Direction, Print",
+        "kind": "project-tag"
+      },
+      {
+        "id": "project-tag-end-to-end-video-production",
+        "slug": "end-to-end-video-production",
+        "label": "End to end video production",
+        "kind": "project-tag"
+      },
+      {
+        "id": "project-tag-environmental-and-exhibition-print",
+        "slug": "environmental-and-exhibition-print",
+        "label": "Environmental & Exhibition, Print",
+        "kind": "project-tag"
+      },
+      {
+        "id": "project-tag-identity-and-branding",
+        "slug": "identity-and-branding",
+        "label": "Identity & Branding",
+        "kind": "project-tag"
+      },
+      {
+        "id": "project-tag-identity-and-branding-print-digital-and-web",
+        "slug": "identity-and-branding-print-digital-and-web",
+        "label": "Identity & Branding, Print, Digital & Web",
+        "kind": "project-tag"
+      },
+      {
+        "id": "project-tag-identity-and-branding-video-photography",
+        "slug": "identity-and-branding-video-photography",
+        "label": "Identity & Branding, Video, Photography",
+        "kind": "project-tag"
+      },
+      {
+        "id": "project-tag-photography",
+        "slug": "photography",
+        "label": "Photography",
+        "kind": "project-tag"
+      },
+      {
+        "id": "project-tag-print-art-direction",
+        "slug": "print-art-direction",
+        "label": "Print, Art Direction",
+        "kind": "project-tag"
+      },
+      {
+        "id": "project-tag-product-video",
+        "slug": "product-video",
+        "label": "Product Video",
+        "kind": "project-tag"
+      },
+      {
+        "id": "project-tag-video",
+        "slug": "video",
+        "label": "Video",
+        "kind": "project-tag"
+      },
+      {
+        "id": "project-tag-video-and-animation",
+        "slug": "video-and-animation",
+        "label": "Video & Animation",
+        "kind": "project-tag"
+      }
+    ],
+    "source_refs": [
+      "sources/old-website/data/services.json",
+      "sources/old-website/content/pages/about.md"
+    ]
+  },
+  "clients": [
+    {
+      "id": "client-agm",
+      "slug": "agm",
+      "name": "AGM",
+      "proof_sources": [
+        "about-page",
+        "project-routes"
+      ],
+      "project_slugs": [
+        "agm-glory",
+        "agm-x2",
+        "agm-x2-football",
+        "agm-x3",
+        "agm-x5"
+      ],
+      "about_page_presence": true,
+      "notes": []
+    },
+    {
+      "id": "client-airtel",
+      "slug": "airtel",
+      "name": "Airtel",
+      "proof_sources": [
+        "about-page"
+      ],
+      "project_slugs": [],
+      "about_page_presence": true,
+      "notes": []
+    },
+    {
+      "id": "client-alpha-source",
+      "slug": "alpha-source",
+      "name": "Alpha Source",
+      "proof_sources": [],
+      "project_slugs": [],
+      "about_page_presence": false,
+      "notes": []
+    },
+    {
+      "id": "client-arte-museum",
+      "slug": "arte-museum",
+      "name": "Arte Museum",
+      "proof_sources": [],
+      "project_slugs": [],
+      "about_page_presence": false,
+      "notes": []
+    },
+    {
+      "id": "client-bangalore-central",
+      "slug": "bangalore-central",
+      "name": "Bangalore Central",
+      "proof_sources": [
+        "about-page"
+      ],
+      "project_slugs": [],
+      "about_page_presence": true,
+      "notes": []
+    },
+    {
+      "id": "client-cider-and-milk",
+      "slug": "cider-and-milk",
+      "name": "Cider & Milk",
+      "proof_sources": [],
+      "project_slugs": [],
+      "about_page_presence": false,
+      "notes": []
+    },
+    {
+      "id": "client-cult-fitness",
+      "slug": "cult-fitness",
+      "name": "Cult Fitness",
+      "proof_sources": [
+        "about-page"
+      ],
+      "project_slugs": [],
+      "about_page_presence": true,
+      "notes": []
+    },
+    {
+      "id": "client-divine-heritage",
+      "slug": "divine-heritage",
+      "name": "Divine Heritage",
+      "proof_sources": [
+        "about-page",
+        "project-routes"
+      ],
+      "project_slugs": [
+        "divine-heritage"
+      ],
+      "about_page_presence": true,
+      "notes": []
+    },
+    {
+      "id": "client-ikodoo",
+      "slug": "ikodoo",
+      "name": "Ikodoo",
+      "proof_sources": [
+        "project-routes"
+      ],
+      "project_slugs": [
+        "ikodoo"
+      ],
+      "about_page_presence": false,
+      "notes": []
+    },
+    {
+      "id": "client-kaa",
+      "slug": "kaa",
+      "name": "KAA",
+      "proof_sources": [
+        "project-routes"
+      ],
+      "project_slugs": [
+        "kaa"
+      ],
+      "about_page_presence": false,
+      "notes": []
+    },
+    {
+      "id": "client-karnataka-athletic-association",
+      "slug": "karnataka-athletic-association",
+      "name": "Karnataka Athletic Association",
+      "proof_sources": [
+        "about-page"
+      ],
+      "project_slugs": [],
+      "about_page_presence": true,
+      "notes": []
+    },
+    {
+      "id": "client-motorola",
+      "slug": "motorola",
+      "name": "Motorola",
+      "proof_sources": [
+        "about-page"
+      ],
+      "project_slugs": [],
+      "about_page_presence": true,
+      "notes": []
+    },
+    {
+      "id": "client-oneplus",
+      "slug": "oneplus",
+      "name": "OnePlus",
+      "proof_sources": [
+        "about-page",
+        "project-routes"
+      ],
+      "project_slugs": [
+        "oneplus-experience-store",
+        "oneplus-lava-red",
+        "oneplus-softgold",
+        "op-roadtrip"
+      ],
+      "about_page_presence": true,
+      "notes": []
+    },
+    {
+      "id": "client-puma",
+      "slug": "puma",
+      "name": "Puma",
+      "proof_sources": [
+        "about-page"
+      ],
+      "project_slugs": [],
+      "about_page_presence": true,
+      "notes": []
+    },
+    {
+      "id": "client-purple-dream",
+      "slug": "purple-dream",
+      "name": "Purple Dream",
+      "proof_sources": [
+        "about-page"
+      ],
+      "project_slugs": [],
+      "about_page_presence": true,
+      "notes": []
+    },
+    {
+      "id": "client-royal-enfield",
+      "slug": "royal-enfield",
+      "name": "Royal Enfield",
+      "proof_sources": [
+        "about-page",
+        "project-routes"
+      ],
+      "project_slugs": [
+        "re-outland"
+      ],
+      "about_page_presence": true,
+      "notes": []
+    },
+    {
+      "id": "client-seasalt-restaurant",
+      "slug": "seasalt-restaurant",
+      "name": "Seasalt Restaurant",
+      "proof_sources": [],
+      "project_slugs": [],
+      "about_page_presence": false,
+      "notes": []
+    },
+    {
+      "id": "client-tom-s-restaurant",
+      "slug": "tom-s-restaurant",
+      "name": "Tom's Restaurant",
+      "proof_sources": [
+        "about-page"
+      ],
+      "project_slugs": [],
+      "about_page_presence": true,
+      "notes": []
+    },
+    {
+      "id": "client-toyota",
+      "slug": "toyota",
+      "name": "Toyota",
+      "proof_sources": [
+        "about-page"
+      ],
+      "project_slugs": [],
+      "about_page_presence": true,
+      "notes": []
+    },
+    {
+      "id": "client-tune-sound",
+      "slug": "tune-sound",
+      "name": "Tune Sound",
+      "proof_sources": [],
+      "project_slugs": [],
+      "about_page_presence": false,
+      "notes": []
+    },
+    {
+      "id": "client-vito-coffee",
+      "slug": "vito-coffee",
+      "name": "Vito Coffee",
+      "proof_sources": [],
+      "project_slugs": [],
+      "about_page_presence": false,
+      "notes": []
+    }
+  ],
+  "projects": [
+    {
+      "id": "agm-glory",
+      "slug": "agm-glory",
+      "route": "/projects/agm-glory",
+      "title": "AGM Glory",
+      "status": "featured",
+      "case_study_type": "motion",
+      "page_kind": "portfolio",
+      "hero_heading": "AGM Glory",
+      "hero_summary": "Designed for the most extreme adventurers, AGM Glory can withstand extremely low temperatures, while providing unique tools to navigate the remotest parts of the world. We were thrilled to put our creative minds to make some impactful that connects to the the most ardent traveller.",
+      "primary_client": "AGM",
+      "clients": [
+        "AGM"
+      ],
+      "primary_service": "Product Video",
+      "services": [
+        "Product Video"
+      ],
+      "year": null,
+      "years": [],
+      "featured_rank": 5,
+      "gallery_mode": "video-first",
+      "credits": {
+        "CLIENT": "AGM",
+        "PRODUCTION COMPANY": "Newsense & Kameron Studio",
+        "CREATIVE DIRECTION": "Sant Mote & Amyth Venkataramaiah",
+        "PRODUCER": "Amyth Venkataramaiah",
+        "DIRECTOR OF PHOTOGRAPHY": "Amyth Venkataramaiah",
+        "VIDEO EDITING, MOTION GRAPHICS": "Sant Mote"
+      },
+      "credits_text": "CLIENT: AGM\nPRODUCTION COMPANY: Newsense & Kameron Studio\nCREATIVE DIRECTION: Sant Mote & Amyth Venkataramaiah\nPRODUCER: Amyth Venkataramaiah\nDIRECTOR OF PHOTOGRAPHY: Amyth Venkataramaiah\nVIDEO EDITING, MOTION GRAPHICS: Sant Mote",
+      "narrative_sections": [
+        {
+          "heading": "Find your Glory",
+          "content": "A phone that acts as a sidekick in your mission to do the impossible."
+        }
+      ],
+      "outcome_sections": [],
+      "media": {
+        "cover_image": "/content-media/projects/agm-glory-cover.jpg",
+        "local_image_count": 33,
+        "local_video_count": 2,
+        "gallery_images": [
+          {
+            "id": "agm-glory-gallery-1",
+            "src": "/content-media/projects/agm-glory-cover.jpg",
+            "alt": "AGM Glory frame 1",
+            "emphasis": "primary"
+          },
+          {
+            "id": "agm-glory-gallery-2",
+            "src": "/content-media/projects/agm-glory-gallery-2.png",
+            "alt": "AGM Glory frame 2",
+            "emphasis": "support"
+          },
+          {
+            "id": "agm-glory-gallery-3",
+            "src": "/content-media/projects/agm-glory-gallery-3.jpg",
+            "alt": "AGM Glory frame 3",
+            "emphasis": "support"
+          },
+          {
+            "id": "agm-glory-gallery-4",
+            "src": "/content-media/projects/agm-glory-gallery-4.jpg",
+            "alt": "AGM Glory frame 4",
+            "emphasis": "support"
+          },
+          {
+            "id": "agm-glory-gallery-5",
+            "src": "/content-media/projects/agm-glory-gallery-5.jpg",
+            "alt": "AGM Glory frame 5",
+            "emphasis": "support"
+          },
+          {
+            "id": "agm-glory-gallery-6",
+            "src": "/content-media/projects/agm-glory-gallery-6.jpg",
+            "alt": "AGM Glory frame 6",
+            "emphasis": "support"
+          }
+        ],
+        "gallery_items": [
+          {
+            "id": "d6c14927-ca68-446f-a13a-c40543047ec6",
+            "title": "AGM Glory",
+            "description": "Product Video",
+            "media_type": "video",
+            "quality_count": 3
+          }
+        ],
+        "source_image_assets": [
+          "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+          "assets/images/13bb937615-dd4e19_5df69d8fecd248aa8ea7c94afe5234ff-mv2.png",
+          "assets/images/19c245669b-dd4e19_bd491b319a5e4157abaa73441d56fb12f001.jpg",
+          "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+          "assets/images/247975d8ff-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f003.jpg",
+          "assets/images/35eb184aba-dd4e19_98842e4ea82f49e1bc9d63d48c241b15-mv2.jpg",
+          "assets/images/3c7036cd84-dd4e19_26c5d8f6dfa34236919a0d1edb834bb7-mv2.jpg",
+          "assets/images/404afb4751-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f000.jpg",
+          "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/4cf39c49b8-dd4e19_bd491b319a5e4157abaa73441d56fb12f003.jpg",
+          "assets/images/5375150ff3-dd4e19_bd491b319a5e4157abaa73441d56fb12f000.jpg",
+          "assets/images/548ef8f1f8-dd4e19_6b2e82757d514529b7e65b051fd6cd09-mv2.jpg"
+        ],
+        "source_video_assets": [
+          "assets/videos/0e77c92ada-file.mp4",
+          "assets/videos/e71f343427-file.mp4"
+        ],
+        "video_asset_ids": [
+          "dd4e19_0a2cc4fe1a18480395e31d8c82832b67",
+          "dd4e19_bd491b319a5e4157abaa73441d56fb12"
+        ]
+      },
+      "clean_text": "AGM Glory Designed for the most extreme adventurers, AGM Glory can withstand extremely low temperatures, while providing unique tools to navigate the remotest parts of the world. We were thrilled to put our creative minds to make some impactful that connects to the the most ardent traveller. SERVICE Product Video CLIENT AGM Play Video Find your Glory A phone that acts as a sidekick in your mission to do the impossible. SERVICE Video, Photography & Web design Credits CLIENT AGM PRODUCTION COMPANY Newsense & Kameron Studio CREATIVE DIRECTION Sant Mote & Amyth Venkataramaiah PRODUCER Amyth Venkataramaiah DIRECTOR OF PHOTOGRAPHY Amyth Venkataramaiah VIDEO EDITING, MOTION GRAPHICS Sant Mote",
+      "source_warnings": [],
+      "source_refs": [
+        "sources/old-website/data/projects.json#agm-glory",
+        "sources/old-website/content/pages/agm-glory.md"
+      ],
+      "placeholder": false
+    },
+    {
+      "id": "agm-x2",
+      "slug": "agm-x2",
+      "route": "/projects/agm-x2",
+      "title": "AGM X2",
+      "status": "live",
+      "case_study_type": "motion",
+      "page_kind": "portfolio",
+      "hero_heading": "AGM X2",
+      "hero_summary": "A phone built for travellers should be adventurous, rugged and fun. We managed to pull off all these aspects and more in the video below.",
+      "primary_client": "AGM",
+      "clients": [
+        "AGM"
+      ],
+      "primary_service": "Product Video",
+      "services": [
+        "Product Video"
+      ],
+      "year": null,
+      "years": [],
+      "featured_rank": null,
+      "gallery_mode": "video-first",
+      "credits": {
+        "CLIENT": "AGM",
+        "PRODUCTION COMPANY": "Newsense",
+        "CREATIVE DIRECTION": "Sant Mote and Amyth Venkataramaiah",
+        "PRODUCER": "Amyth Venkataramaiah",
+        "DIRECTOR OF PHOTOGRAPHY": "Suraj Singh Thakur",
+        "VIDEO EDITING": "Sant Mote",
+        "ANIMATION": "Sant Mote",
+        "PRODUCTION MANAGER": "Sujith Venkataramaiah"
+      },
+      "credits_text": "CLIENT: AGM\nPRODUCTION COMPANY: Newsense\nCREATIVE DIRECTION: Sant Mote and Amyth Venkataramaiah\nPRODUCER: Amyth Venkataramaiah\nDIRECTOR OF PHOTOGRAPHY: Suraj Singh Thakur\nVIDEO EDITING: Sant Mote\nANIMATION: Sant Mote\nPRODUCTION MANAGER: Sujith Venkataramaiah",
+      "narrative_sections": [],
+      "outcome_sections": [],
+      "media": {
+        "cover_image": "/content-media/projects/agm-x2-cover.jpg",
+        "local_image_count": 21,
+        "local_video_count": 2,
+        "gallery_images": [
+          {
+            "id": "agm-x2-gallery-1",
+            "src": "/content-media/projects/agm-x2-cover.jpg",
+            "alt": "AGM X2 frame 1",
+            "emphasis": "primary"
+          },
+          {
+            "id": "agm-x2-gallery-2",
+            "src": "/content-media/projects/agm-x2-gallery-2.jpg",
+            "alt": "AGM X2 frame 2",
+            "emphasis": "support"
+          },
+          {
+            "id": "agm-x2-gallery-3",
+            "src": "/content-media/projects/agm-x2-gallery-3.jpg",
+            "alt": "AGM X2 frame 3",
+            "emphasis": "support"
+          },
+          {
+            "id": "agm-x2-gallery-4",
+            "src": "/content-media/projects/agm-x2-gallery-4.jpg",
+            "alt": "AGM X2 frame 4",
+            "emphasis": "support"
+          },
+          {
+            "id": "agm-x2-gallery-5",
+            "src": "/content-media/projects/agm-x2-gallery-5.jpg",
+            "alt": "AGM X2 frame 5",
+            "emphasis": "support"
+          },
+          {
+            "id": "agm-x2-gallery-6",
+            "src": "/content-media/projects/agm-x2-gallery-6.jpg",
+            "alt": "AGM X2 frame 6",
+            "emphasis": "support"
+          }
+        ],
+        "gallery_items": [
+          {
+            "id": "8943005e-8d65-400d-a075-602fdb5c2509",
+            "title": "AGM X2",
+            "description": "Product Video",
+            "media_type": "video",
+            "quality_count": 3
+          }
+        ],
+        "source_image_assets": [
+          "assets/images/05d65c8c40-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f000.jpg",
+          "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+          "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+          "assets/images/1dcde9307d-dd4e19_384b5fa2ff4546c68ec9c14a0cfe535e-mv2.jpg",
+          "assets/images/247975d8ff-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f003.jpg",
+          "assets/images/404afb4751-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f000.jpg",
+          "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/56f72915ad-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f002.jpg",
+          "assets/images/62c90e079e-dd4e19_1c4d4bc21b5841ada020a126a568efe7-mv2.jpg",
+          "assets/images/6848fdd94a-dd4e19_b33327b5160948dfa7084c8ea1ca09ef-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/74660d2a46-dd4e19_0d0969e4285b4596b68e32c28fabae1a-mv2.jpg",
+          "assets/images/80089db7e1-dd4e19_746e6bedd0734a9882ab9c7747437e7a-mv2_d_1920_1280_s_2.jpg"
+        ],
+        "source_video_assets": [
+          "assets/videos/0e77c92ada-file.mp4",
+          "assets/videos/ac84262451-file.mp4"
+        ],
+        "video_asset_ids": [
+          "dd4e19_0a2cc4fe1a18480395e31d8c82832b67",
+          "dd4e19_ae64d97603634d34b29fa0d8bbbeaae1"
+        ]
+      },
+      "clean_text": "AGM X2 A phone built for travellers should be adventurous, rugged and fun. We managed to pull off all these aspects and more in the video below. SERVICE Product Video CLIENT AGM Play Video SERVICE Video, Photography & Web design Credits CLIENT AGM PRODUCTION COMPANY Newsense CREATIVE DIRECTION Sant Mote and Amyth Venkataramaiah PRODUCER Amyth Venkataramaiah DIRECTOR OF PHOTOGRAPHY Suraj Singh Thakur VIDEO EDITING Sant Mote ANIMATION Sant Mote PRODUCTION MANAGER Sujith Venkataramaiah",
+      "source_warnings": [],
+      "source_refs": [
+        "sources/old-website/data/projects.json#agm-x2",
+        "sources/old-website/content/pages/agm-x2.md"
+      ],
+      "placeholder": false
+    },
+    {
+      "id": "agm-x2-football",
+      "slug": "agm-x2-football",
+      "route": "/projects/agm-x2-football",
+      "title": "AGM Football",
+      "status": "live",
+      "case_study_type": "campaign-system",
+      "page_kind": "portfolio",
+      "hero_heading": "AGM Football",
+      "hero_summary": "AGM needed a football themed video to promote their phone during FIFA '18. Things got interesting when we combined Football with AGM's rugged phone.",
+      "primary_client": "AGM",
+      "clients": [
+        "AGM"
+      ],
+      "primary_service": "Video",
+      "services": [
+        "Video"
+      ],
+      "year": null,
+      "years": [],
+      "featured_rank": null,
+      "gallery_mode": "story-first",
+      "credits": {
+        "CLIENT": "AGM",
+        "PRODUCTION COMPANY": "Newsense",
+        "CREATIVE DIRECTION": "Sant Mote and Amyth Venkataramaiah",
+        "PRODUCER": "Amyth Venkataramaiah",
+        "DIRECTOR OF PHOTOGRAPHY": "Suraj Singh Thakur",
+        "VIDEO EDITING": "Sant Mote",
+        "SOUND DESIGN": "Gautam Ramdas",
+        "PRODUCTION MANAGER": "Shreyas Yadav"
+      },
+      "credits_text": "CLIENT: AGM\nPRODUCTION COMPANY: Newsense\nCREATIVE DIRECTION: Sant Mote and Amyth Venkataramaiah\nPRODUCER: Amyth Venkataramaiah\nDIRECTOR OF PHOTOGRAPHY: Suraj Singh Thakur\nVIDEO EDITING: Sant Mote\nSOUND DESIGN: Gautam Ramdas\nPRODUCTION MANAGER: Shreyas Yadav",
+      "narrative_sections": [],
+      "outcome_sections": [],
+      "media": {
+        "cover_image": "/content-media/projects/agm-x2-football-cover.jpg",
+        "local_image_count": 11,
+        "local_video_count": 0,
+        "gallery_images": [
+          {
+            "id": "agm-x2-football-gallery-1",
+            "src": "/content-media/projects/agm-x2-football-cover.jpg",
+            "alt": "AGM Football frame 1",
+            "emphasis": "primary"
+          },
+          {
+            "id": "agm-x2-football-gallery-2",
+            "src": "/content-media/projects/agm-x2-football-gallery-2.jpg",
+            "alt": "AGM Football frame 2",
+            "emphasis": "support"
+          },
+          {
+            "id": "agm-x2-football-gallery-3",
+            "src": "/content-media/projects/agm-x2-football-gallery-3.jpg",
+            "alt": "AGM Football frame 3",
+            "emphasis": "support"
+          },
+          {
+            "id": "agm-x2-football-gallery-4",
+            "src": "/content-media/projects/agm-x2-football-gallery-4.jpg",
+            "alt": "AGM Football frame 4",
+            "emphasis": "support"
+          },
+          {
+            "id": "agm-x2-football-gallery-5",
+            "src": "/content-media/projects/agm-x2-football-gallery-5.jpg",
+            "alt": "AGM Football frame 5",
+            "emphasis": "support"
+          },
+          {
+            "id": "agm-x2-football-gallery-6",
+            "src": "/content-media/projects/agm-x2-football-gallery-6.jpg",
+            "alt": "AGM Football frame 6",
+            "emphasis": "support"
+          }
+        ],
+        "gallery_items": [
+          {
+            "id": "169a97f1-cb7d-4ea2-a4cb-5218c360bc03",
+            "title": "AGM Football",
+            "description": "Video Compaign",
+            "media_type": "video",
+            "quality_count": 3
+          }
+        ],
+        "source_image_assets": [
+          "assets/images/107ddae5c1-dd4e19_7c355d5c0564468d8b19afb38c7c74b1-mv2.jpg",
+          "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+          "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/62c90e079e-dd4e19_1c4d4bc21b5841ada020a126a568efe7-mv2.jpg",
+          "assets/images/6848fdd94a-dd4e19_b33327b5160948dfa7084c8ea1ca09ef-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/74660d2a46-dd4e19_0d0969e4285b4596b68e32c28fabae1a-mv2.jpg",
+          "assets/images/80089db7e1-dd4e19_746e6bedd0734a9882ab9c7747437e7a-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/9b0fced86c-dd4e19_18b4a9dcd895419e8fd85c33a5a54575-mv2.jpg",
+          "assets/images/a1f5c33f0d-dd4e19_8a3304c7fadd45f4ab6e422a84419b6e-mv2_d_1986_1326_s_2.jpg",
+          "assets/images/a734ab5176-dd4e19_14be716bf1464e7895731be1c4a80c3f-mv2.jpg",
+          "assets/images/bf852dca99-dd4e19_cedf7c7c65604fe4b55695791e9f634c-mv2.png"
+        ],
+        "source_video_assets": [],
+        "video_asset_ids": []
+      },
+      "clean_text": "AGM Football AGM needed a football themed video to promote their phone during FIFA '18. Things got interesting when we combined Football with AGM's rugged phone. SERVICE Video CLIENT AGM Play Video SERVICE Video, Photography & Web design Credits CLIENT AGM PRODUCTION COMPANY Newsense CREATIVE DIRECTION Sant Mote and Amyth Venkataramaiah PRODUCER Amyth Venkataramaiah DIRECTOR OF PHOTOGRAPHY Suraj Singh Thakur VIDEO EDITING Sant Mote SOUND DESIGN Gautam Ramdas PRODUCTION MANAGER Shreyas Yadav",
+      "source_warnings": [],
+      "source_refs": [
+        "sources/old-website/data/projects.json#agm-x2-football",
+        "sources/old-website/content/pages/agm-x2-football.md"
+      ],
+      "placeholder": false
+    },
+    {
+      "id": "agm-x3",
+      "slug": "agm-x3",
+      "route": "/projects/agm-x3",
+      "title": "AGM X3",
+      "status": "live",
+      "case_study_type": "motion",
+      "page_kind": "portfolio",
+      "hero_heading": "AGM X3: Outdoors Redefined",
+      "hero_summary": "AGM approached us to create a product video for their latest Outdoors Smartphone, the AGM X3. We followed a team of travellers to exotic beaches, forests, caves and tried to redefine the way we use our phones in the outdoors.",
+      "primary_client": "AGM",
+      "clients": [
+        "AGM"
+      ],
+      "primary_service": "Product Video",
+      "services": [
+        "Product Video"
+      ],
+      "year": null,
+      "years": [],
+      "featured_rank": null,
+      "gallery_mode": "video-first",
+      "credits": {
+        "CLIENT": "AGM",
+        "PRODUCTION COMPANY": "Newsense",
+        "CREATIVE DIRECTION": "Sant Mote",
+        "PRODUCER": "Amyth Venkataramaiah",
+        "DIRECTOR OF PHOTOGRAPHY": "Suraj Singh Thakur",
+        "VIDEO EDITING, MOTION GRAPHICS": "Sant Mote",
+        "ASSISTANT DIRECTOR": "Rohina S Chauhan",
+        "PRODUCTION MANAGER": "Shreyas Yadav",
+        "DRONE FOOTAGE": "Kameron Studio"
+      },
+      "credits_text": "CLIENT: AGM\nPRODUCTION COMPANY: Newsense\nCREATIVE DIRECTION: Sant Mote\nPRODUCER: Amyth Venkataramaiah\nDIRECTOR OF PHOTOGRAPHY: Suraj Singh Thakur\nVIDEO EDITING, MOTION GRAPHICS: Sant Mote\nASSISTANT DIRECTOR: Rohina S Chauhan\nPRODUCTION MANAGER: Shreyas Yadav\nDRONE FOOTAGE: Kameron Studio",
+      "narrative_sections": [
+        {
+          "heading": "Outdoor way of life",
+          "content": "Capturing moments of travellers being in their natural element."
+        }
+      ],
+      "outcome_sections": [],
+      "media": {
+        "cover_image": "/content-media/projects/agm-x3-cover.jpg",
+        "local_image_count": 31,
+        "local_video_count": 2,
+        "gallery_images": [
+          {
+            "id": "agm-x3-gallery-1",
+            "src": "/content-media/projects/agm-x3-cover.jpg",
+            "alt": "AGM X3: Outdoors Redefined frame 1",
+            "emphasis": "primary"
+          },
+          {
+            "id": "agm-x3-gallery-2",
+            "src": "/content-media/projects/agm-x3-gallery-2.jpg",
+            "alt": "AGM X3: Outdoors Redefined frame 2",
+            "emphasis": "support"
+          },
+          {
+            "id": "agm-x3-gallery-3",
+            "src": "/content-media/projects/agm-x3-gallery-3.jpg",
+            "alt": "AGM X3: Outdoors Redefined frame 3",
+            "emphasis": "support"
+          },
+          {
+            "id": "agm-x3-gallery-4",
+            "src": "/content-media/projects/agm-x3-gallery-4.jpg",
+            "alt": "AGM X3: Outdoors Redefined frame 4",
+            "emphasis": "support"
+          },
+          {
+            "id": "agm-x3-gallery-5",
+            "src": "/content-media/projects/agm-x3-gallery-5.jpg",
+            "alt": "AGM X3: Outdoors Redefined frame 5",
+            "emphasis": "support"
+          },
+          {
+            "id": "agm-x3-gallery-6",
+            "src": "/content-media/projects/agm-x3-gallery-6.jpg",
+            "alt": "AGM X3: Outdoors Redefined frame 6",
+            "emphasis": "support"
+          }
+        ],
+        "gallery_items": [
+          {
+            "id": "b13fe880-8c69-479b-9237-6d1bba675de9",
+            "title": "AGM X3 Outdoors Redefined",
+            "description": "Video Campaign",
+            "media_type": "video",
+            "quality_count": 3
+          }
+        ],
+        "source_image_assets": [
+          "assets/images/05d65c8c40-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f000.jpg",
+          "assets/images/12676a6314-dd4e19_98c119e6779d47cb81b6d4df210f9cb0-mv2.jpg",
+          "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+          "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+          "assets/images/247975d8ff-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f003.jpg",
+          "assets/images/2f14f246f0-dd4e19_f50a7c290d8048bd900c3830a5836f84-mv2.jpg",
+          "assets/images/330ae9fbc6-dd4e19_54bfab7bbdb34b5a90ba82c1022721d4-mv2.jpg",
+          "assets/images/3dca73836f-dd4e19_ddee7494bec8435a9f744847c8be5871-mv2.jpg",
+          "assets/images/404afb4751-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f000.jpg",
+          "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/56f72915ad-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f002.jpg",
+          "assets/images/62c90e079e-dd4e19_1c4d4bc21b5841ada020a126a568efe7-mv2.jpg"
+        ],
+        "source_video_assets": [
+          "assets/videos/0e77c92ada-file.mp4",
+          "assets/videos/ac84262451-file.mp4"
+        ],
+        "video_asset_ids": [
+          "dd4e19_0a2cc4fe1a18480395e31d8c82832b67",
+          "dd4e19_ae64d97603634d34b29fa0d8bbbeaae1"
+        ]
+      },
+      "clean_text": "AGM X3: Outdoors Redefined AGM approached us to create a product video for their latest Outdoors Smartphone, the AGM X3. We followed a team of travellers to exotic beaches, forests, caves and tried to redefine the way we use our phones in the outdoors. SERVICE Product Video CLIENT AGM Play Video Outdoor way of life Capturing moments of travellers being in their natural element. SERVICE Video, Photography & Web design Credits CLIENT AGM PRODUCTION COMPANY Newsense CREATIVE DIRECTION Sant Mote PRODUCER Amyth Venkataramaiah DIRECTOR OF PHOTOGRAPHY Suraj Singh Thakur VIDEO EDITING, MOTION GRAPHICS Sant Mote ASSISTANT DIRECTOR Rohina S Chauhan PRODUCTION MANAGER Shreyas Yadav DRONE FOOTAGE Kameron Studio",
+      "source_warnings": [],
+      "source_refs": [
+        "sources/old-website/data/projects.json#agm-x3",
+        "sources/old-website/content/pages/agm-x3.md"
+      ],
+      "placeholder": false
+    },
+    {
+      "id": "agm-x5",
+      "slug": "agm-x5",
+      "route": "/projects/agm-x5",
+      "title": "AGM X5",
+      "status": "live",
+      "case_study_type": "motion",
+      "page_kind": "portfolio",
+      "hero_heading": "AGM X5: Inspired by Nature",
+      "hero_summary": "Focused on showcasing the unique design of AGM X5 coupled with the restrains of the pandemic meant that we couldn't travel to shoot on location. So we got creative and brought elements of nature into the confinement of our studio.",
+      "primary_client": "AGM",
+      "clients": [
+        "AGM"
+      ],
+      "primary_service": "Product Video",
+      "services": [
+        "Product Video"
+      ],
+      "year": null,
+      "years": [],
+      "featured_rank": null,
+      "gallery_mode": "video-first",
+      "credits": {
+        "CLIENT": "AGM",
+        "PRODUCTION COMPANY": "Newsense",
+        "CREATIVE DIRECTION": "Sant Mote & Amyth Venkataramiah",
+        "PRODUCER": "Amyth Venkataramiah",
+        "DIRECTOR OF PHOTOGRAPHY": "Amyth Venkataramiah",
+        "VIDEO EDITING, MOTION GRAPHICS": "Sant Mote",
+        "PRODUCTION MANAGER": "Shreyas Yadav"
+      },
+      "credits_text": "CLIENT: AGM\nPRODUCTION COMPANY: Newsense\nCREATIVE DIRECTION: Sant Mote & Amyth Venkataramiah\nPRODUCER: Amyth Venkataramiah\nDIRECTOR OF PHOTOGRAPHY: Amyth Venkataramiah\nVIDEO EDITING, MOTION GRAPHICS: Sant Mote\nPRODUCTION MANAGER: Shreyas Yadav",
+      "narrative_sections": [
+        {
+          "heading": "Designed by Nature",
+          "content": "The video utilised visual similarities found in nature and AGM X5 to showcase the unique features of the phone and the harmony of its design."
+        }
+      ],
+      "outcome_sections": [],
+      "media": {
+        "cover_image": "/content-media/projects/agm-x5-cover.jpg",
+        "local_image_count": 32,
+        "local_video_count": 2,
+        "gallery_images": [
+          {
+            "id": "agm-x5-gallery-1",
+            "src": "/content-media/projects/agm-x5-cover.jpg",
+            "alt": "AGM X5: Inspired by Nature frame 1",
+            "emphasis": "primary"
+          },
+          {
+            "id": "agm-x5-gallery-2",
+            "src": "/content-media/projects/agm-x5-gallery-2.jpg",
+            "alt": "AGM X5: Inspired by Nature frame 2",
+            "emphasis": "support"
+          },
+          {
+            "id": "agm-x5-gallery-3",
+            "src": "/content-media/projects/agm-x5-gallery-3.jpg",
+            "alt": "AGM X5: Inspired by Nature frame 3",
+            "emphasis": "support"
+          },
+          {
+            "id": "agm-x5-gallery-4",
+            "src": "/content-media/projects/agm-x5-gallery-4.jpg",
+            "alt": "AGM X5: Inspired by Nature frame 4",
+            "emphasis": "support"
+          },
+          {
+            "id": "agm-x5-gallery-5",
+            "src": "/content-media/projects/agm-x5-gallery-5.jpg",
+            "alt": "AGM X5: Inspired by Nature frame 5",
+            "emphasis": "support"
+          },
+          {
+            "id": "agm-x5-gallery-6",
+            "src": "/content-media/projects/agm-x5-gallery-6.jpg",
+            "alt": "AGM X5: Inspired by Nature frame 6",
+            "emphasis": "support"
+          }
+        ],
+        "gallery_items": [
+          {
+            "id": "9f8863d1-b31b-4416-8592-53a016142afe",
+            "title": "AGM X5",
+            "description": "Product Video",
+            "media_type": "video",
+            "quality_count": 3
+          }
+        ],
+        "source_image_assets": [
+          "assets/images/05d65c8c40-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f000.jpg",
+          "assets/images/084568a04e-dd4e19_b4023eaad6ca47288f78c8133963ad27-mv2.jpg",
+          "assets/images/0a254575e1-dd4e19_00ac04a3aa164cdf80461824ba4a3e41-mv2.jpg",
+          "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+          "assets/images/19c245669b-dd4e19_bd491b319a5e4157abaa73441d56fb12f001.jpg",
+          "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+          "assets/images/1dcde9307d-dd4e19_384b5fa2ff4546c68ec9c14a0cfe535e-mv2.jpg",
+          "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/4cf39c49b8-dd4e19_bd491b319a5e4157abaa73441d56fb12f003.jpg",
+          "assets/images/5375150ff3-dd4e19_bd491b319a5e4157abaa73441d56fb12f000.jpg",
+          "assets/images/55ae4b0318-dd4e19_0b97da7010fe41669c2675f7b4a0d2ee-mv2.jpg",
+          "assets/images/56f72915ad-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f002.jpg"
+        ],
+        "source_video_assets": [
+          "assets/videos/ac84262451-file.mp4",
+          "assets/videos/e71f343427-file.mp4"
+        ],
+        "video_asset_ids": [
+          "dd4e19_ae64d97603634d34b29fa0d8bbbeaae1",
+          "dd4e19_bd491b319a5e4157abaa73441d56fb12"
+        ]
+      },
+      "clean_text": "AGM X5: Inspired by Nature Focused on showcasing the unique design of AGM X5 coupled with the restrains of the pandemic meant that we couldn't travel to shoot on location. So we got creative and brought elements of nature into the confinement of our studio. SERVICE Product Video CLIENT AGM Play Video Designed by Nature The video utilised visual similarities found in nature and AGM X5 to showcase the unique features of the phone and the harmony of its design. SERVICE Video, Photography & Web design Credits CLIENT AGM PRODUCTION COMPANY Newsense CREATIVE DIRECTION Sant Mote & Amyth Venkataramiah PRODUCER Amyth Venkataramiah DIRECTOR OF PHOTOGRAPHY Amyth Venkataramiah VIDEO EDITING, MOTION GRAPHICS Sant Mote PRODUCTION MANAGER Shreyas Yadav",
+      "source_warnings": [],
+      "source_refs": [
+        "sources/old-website/data/projects.json#agm-x5",
+        "sources/old-website/content/pages/agm-x5.md"
+      ],
+      "placeholder": false
+    },
+    {
+      "id": "divine-heritage",
+      "slug": "divine-heritage",
+      "route": "/projects/divine-heritage",
+      "title": "Divine Heritage",
+      "status": "featured",
+      "case_study_type": "editorial-stills",
+      "page_kind": "portfolio",
+      "hero_heading": "Divine Heritage",
+      "hero_summary": "Divive Heritage is a boutique brand which curates vintage objects, furniture, sculptures. We tried achieve the look of a gallery exhibition in our photos, where these artefacts come to life under the spot light surrounded by soft darkness.",
+      "primary_client": "Divine Heritage",
+      "clients": [
+        "Divine Heritage"
+      ],
+      "primary_service": "Photography",
+      "services": [
+        "Photography"
+      ],
+      "year": null,
+      "years": [],
+      "featured_rank": 7,
+      "gallery_mode": "stills-first",
+      "credits": {
+        "CLIENT": "Divine Heritage",
+        "PHOTOGRAPHY": "Amyth Venkataramaiah",
+        "PRODUCTION COMPANY": "Newsense"
+      },
+      "credits_text": "CLIENT: Divine Heritage\nPHOTOGRAPHY: Amyth Venkataramaiah\nPRODUCTION COMPANY: Newsense",
+      "narrative_sections": [],
+      "outcome_sections": [],
+      "media": {
+        "cover_image": "/content-media/projects/divine-heritage-cover.jpg",
+        "local_image_count": 32,
+        "local_video_count": 0,
+        "gallery_images": [
+          {
+            "id": "divine-heritage-gallery-1",
+            "src": "/content-media/projects/divine-heritage-cover.jpg",
+            "alt": "Divine Heritage frame 1",
+            "emphasis": "primary"
+          },
+          {
+            "id": "divine-heritage-gallery-2",
+            "src": "/content-media/projects/divine-heritage-gallery-2.jpg",
+            "alt": "Divine Heritage frame 2",
+            "emphasis": "support"
+          },
+          {
+            "id": "divine-heritage-gallery-3",
+            "src": "/content-media/projects/divine-heritage-gallery-3.jpg",
+            "alt": "Divine Heritage frame 3",
+            "emphasis": "support"
+          },
+          {
+            "id": "divine-heritage-gallery-4",
+            "src": "/content-media/projects/divine-heritage-gallery-4.jpg",
+            "alt": "Divine Heritage frame 4",
+            "emphasis": "support"
+          },
+          {
+            "id": "divine-heritage-gallery-5",
+            "src": "/content-media/projects/divine-heritage-gallery-5.jpg",
+            "alt": "Divine Heritage frame 5",
+            "emphasis": "support"
+          },
+          {
+            "id": "divine-heritage-gallery-6",
+            "src": "/content-media/projects/divine-heritage-gallery-6.jpg",
+            "alt": "Divine Heritage frame 6",
+            "emphasis": "support"
+          }
+        ],
+        "gallery_items": [
+          {
+            "id": "2b54d92e-78cf-456d-9d5e-4d77c623267f",
+            "title": "Divine Heritage",
+            "description": "Photography",
+            "media_type": "image",
+            "quality_count": 0
+          }
+        ],
+        "source_image_assets": [
+          "assets/images/16b447918a-dd4e19_6cc8b716007049519b6f21f97002dc3d-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/1cb1a6d29a-dd4e19_c17ad23cf4f54d50b4e0d6ce6f638714-mv2_d_1920_1332_s_2.jpg",
+          "assets/images/1fd6d7ede9-dd4e19_6a5e62c55c2447b58fe0e6e9573f8b2d-mv2_d_1920_1369_s_2.jpg",
+          "assets/images/22dbe59213-dd4e19_c1dc7f679406482a9fa9931adf16b5e9-mv2_d_1400_1707_s_2.jpg",
+          "assets/images/36f1a4465c-dd4e19_cca85880cd484c149c09235e6770feee-mv2_d_2261_2079_s_2.jpg",
+          "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/4bad894753-dd4e19_a4b0aeb109764121bd0cc6dcb7e4d3d3-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/55667ad3e2-dd4e19_875dd9c85538419ba32fb6a12e049ab5-mv2_d_1400_1215_s_2.jpg",
+          "assets/images/56bda623ea-dd4e19_5ce96fbc82614faa8c0a9d2a8192ed82-mv2_d_1400_1840_s_2.jpg",
+          "assets/images/56efc20aa3-dd4e19_74d81b7451f5415ba00939dd8ae5203b-mv2.jpg",
+          "assets/images/5ae59b4ab4-dd4e19_1641ad98dc7644cdb9982e8918b6e221-mv2_d_1920_1655_s_2.jpg",
+          "assets/images/5cc048f721-dd4e19_0db3d593c2dc41c8a79a303955a42f6a-mv2_d_1919_1279_s_2.jpg"
+        ],
+        "source_video_assets": [],
+        "video_asset_ids": []
+      },
+      "clean_text": "Divine Heritage Divive Heritage is a boutique brand which curates vintage objects, furniture, sculptures. We tried achieve the look of a gallery exhibition in our photos, where these artefacts come to life under the spot light surrounded by soft darkness. SERVICE Photography CLIENT Divine Heritage SERVICE Video, Photography & Web design Credits CLIENT Divine Heritage PHOTOGRAPHY Amyth Venkataramaiah PRODUCTION COMPANY Newsense",
+      "source_warnings": [],
+      "source_refs": [
+        "sources/old-website/data/projects.json#divine-heritage",
+        "sources/old-website/content/pages/divine-heritage.md"
+      ],
+      "placeholder": false
+    },
+    {
+      "id": "ikodoo",
+      "slug": "ikodoo",
+      "route": "/projects/ikodoo",
+      "title": "Ikodoo Buds One",
+      "status": "featured",
+      "case_study_type": "motion",
+      "page_kind": "portfolio",
+      "hero_heading": "Ikodoo - Buds One",
+      "hero_summary": "IKODOO, a new-age consumer-tech brand approached us to create a one minute commercial for its maiden launch in India. We came up with the idea of showing the contrasting lifestyles of two working professional and how they balance work life with their passion. We identified early on that we wanted to acheive a seamless flow between the live action sequences and 3D renders, which meant meticulous planning before the shoot and bringing the whole crew together to realise the vision. The production involved defining the treatment for visuals, casting, set design, shooting on location with talent along with the extensive post production work of modeling, animation and compositing 3D renders.",
+      "primary_client": "Ikodoo",
+      "clients": [
+        "Ikodoo"
+      ],
+      "primary_service": "End to end video production",
+      "services": [
+        "End to end video production"
+      ],
+      "year": null,
+      "years": [],
+      "featured_rank": 4,
+      "gallery_mode": "video-first",
+      "credits": {
+        "CLIENT": "Ikodoo",
+        "PRODUCTION COMPANY": "Newsense",
+        "CREATIVE DIRECTION": "Sant Mote & Amyth Venkataramaiah",
+        "PRODUCER": "Amyth Venkataramaiah",
+        "DIRECTOR OF PHOTOGRAPHY": "Suraj Thakur",
+        "VIDEO EDITING, MOTION GRAPHICS": "Akshay Bhimaya & Sant Mote"
+      },
+      "credits_text": "CLIENT: Ikodoo\nPRODUCTION COMPANY: Newsense\nCREATIVE DIRECTION: Sant Mote & Amyth Venkataramaiah\nPRODUCER: Amyth Venkataramaiah\nDIRECTOR OF PHOTOGRAPHY: Suraj Thakur\nVIDEO EDITING, MOTION GRAPHICS: Akshay Bhimaya & Sant Mote",
+      "narrative_sections": [
+        {
+          "heading": "Ikodoo Buds One",
+          "content": "Balance business and play with Ikoodoo Buds One."
+        }
+      ],
+      "outcome_sections": [],
+      "media": {
+        "cover_image": "/content-media/projects/ikodoo-cover.png",
+        "local_image_count": 46,
+        "local_video_count": 2,
+        "gallery_images": [
+          {
+            "id": "ikodoo-gallery-1",
+            "src": "/content-media/projects/ikodoo-cover.png",
+            "alt": "Ikodoo - Buds One frame 1",
+            "emphasis": "primary"
+          },
+          {
+            "id": "ikodoo-gallery-2",
+            "src": "/content-media/projects/ikodoo-gallery-2.jpg",
+            "alt": "Ikodoo - Buds One frame 2",
+            "emphasis": "support"
+          },
+          {
+            "id": "ikodoo-gallery-3",
+            "src": "/content-media/projects/ikodoo-gallery-3.png",
+            "alt": "Ikodoo - Buds One frame 3",
+            "emphasis": "support"
+          },
+          {
+            "id": "ikodoo-gallery-4",
+            "src": "/content-media/projects/ikodoo-gallery-4.png",
+            "alt": "Ikodoo - Buds One frame 4",
+            "emphasis": "support"
+          },
+          {
+            "id": "ikodoo-gallery-5",
+            "src": "/content-media/projects/ikodoo-gallery-5.png",
+            "alt": "Ikodoo - Buds One frame 5",
+            "emphasis": "support"
+          },
+          {
+            "id": "ikodoo-gallery-6",
+            "src": "/content-media/projects/ikodoo-gallery-6.png",
+            "alt": "Ikodoo - Buds One frame 6",
+            "emphasis": "support"
+          }
+        ],
+        "gallery_items": [
+          {
+            "id": "3eb9ba40-7cd3-4fd7-86a4-13ecb2065263",
+            "title": "Ikodoo Buds One",
+            "description": "Product Video",
+            "media_type": "video",
+            "quality_count": 4
+          }
+        ],
+        "source_image_assets": [
+          "assets/images/08fbd137be-dd4e19_178f005e66d6490d83332cb6b985e5ff-mv2.png",
+          "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+          "assets/images/13f7c55ed6-dd4e19_c75acad09c144ead8b87965d23a5834f-mv2.png",
+          "assets/images/160b3cbf73-dd4e19_1c24fde0a02f4af1b83c5149cfaed881-mv2.png",
+          "assets/images/17fd9b65d0-dd4e19_9cc518a34b9244409510ee4ec25f6728-mv2.png",
+          "assets/images/18bf4bf419-dd4e19_ab20afa4d6b84ca393c808df644750f6-mv2.png",
+          "assets/images/19c245669b-dd4e19_bd491b319a5e4157abaa73441d56fb12f001.jpg",
+          "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+          "assets/images/1d11aeb89b-dd4e19_5a419bdf94bd4ccdafa7e8e3a183f948-mv2.png",
+          "assets/images/1ff6b5c22d-dd4e19_a1ad8eba3cfd4aeaad9fcafa7f8ffaf8-mv2.png",
+          "assets/images/247975d8ff-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f003.jpg",
+          "assets/images/36bae4558d-dd4e19_9e63bef59f974e1ab299c34a2a640b3e-mv2.png"
+        ],
+        "source_video_assets": [
+          "assets/videos/0e77c92ada-file.mp4",
+          "assets/videos/e71f343427-file.mp4"
+        ],
+        "video_asset_ids": [
+          "dd4e19_0a2cc4fe1a18480395e31d8c82832b67",
+          "dd4e19_bd491b319a5e4157abaa73441d56fb12"
+        ]
+      },
+      "clean_text": "Ikodoo - Buds One IKODOO, a new-age consumer-tech brand approached us to create a one minute commercial for its maiden launch in India. We came up with the idea of showing the contrasting lifestyles of two working professional and how they balance work life with their passion. We identified early on that we wanted to acheive a seamless flow between the live action sequences and 3D renders, which meant meticulous planning before the shoot and bringing the whole crew together to realise the vision. The production involved defining the treatment for visuals, casting, set design, shooting on location with talent along with the extensive post production work of modeling, animation and compositing 3D renders. SERVICE End to end video production CLIENT Ikodoo Play Video Ikodoo Buds One Balance business and play with Ikoodoo Buds One. SERVICE Video, Photography & Web design Credits CLIENT Ikodoo PRODUCTION COMPANY Newsense CREATIVE DIRECTION Sant Mote & Amyth Venkataramaiah PRODUCER Amyth Venkataramaiah DIRECTOR OF PHOTOGRAPHY Suraj Thakur VIDEO EDITING, MOTION GRAPHICS Akshay Bhimaya & Sant Mote",
+      "source_warnings": [],
+      "source_refs": [
+        "sources/old-website/data/projects.json#ikodoo",
+        "sources/old-website/content/pages/ikodoo.md"
+      ],
+      "placeholder": false
+    },
+    {
+      "id": "kaa",
+      "slug": "kaa",
+      "route": "/projects/kaa",
+      "title": "Karnataka Athletic Association",
+      "status": "live",
+      "case_study_type": "campaign-system",
+      "page_kind": "portfolio",
+      "hero_heading": "Karnataka Athletic Association",
+      "hero_summary": "KAA wanted a modern video which would communicate their plans, goals & vision to stakeholders. We visualised their entire plan and made it easy to understand but hard to forget.",
+      "primary_client": "KAA",
+      "clients": [
+        "KAA"
+      ],
+      "primary_service": "Video & Animation",
+      "services": [
+        "Video & Animation"
+      ],
+      "year": null,
+      "years": [],
+      "featured_rank": null,
+      "gallery_mode": "story-first",
+      "credits": {
+        "CLIENT": "Karnataka Athletic Association",
+        "PRODUCTION COMPANY": "Newsense",
+        "CREATIVE DIRECTION": "Sant Mote",
+        "PRODUCER": "Amyth Venkataramaiah",
+        "DIRECTOR OF PHOTOGRAPHY": "Suraj Singh Thakur, Amyth Venkataramaiah & Nagarjun Shetty",
+        "VIDEO EDITING": "Sant Mote",
+        "ANIMATION": "Sant Mote & Akshay Bhimaya",
+        "VOICE OVER ARTIST": "Gnana Raghavendran"
+      },
+      "credits_text": "CLIENT: Karnataka Athletic Association\nPRODUCTION COMPANY: Newsense\nCREATIVE DIRECTION: Sant Mote\nPRODUCER: Amyth Venkataramaiah\nDIRECTOR OF PHOTOGRAPHY: Suraj Singh Thakur, Amyth Venkataramaiah & Nagarjun Shetty\nVIDEO EDITING: Sant Mote\nANIMATION: Sant Mote & Akshay Bhimaya\nVOICE OVER ARTIST: Gnana Raghavendran",
+      "narrative_sections": [],
+      "outcome_sections": [],
+      "media": {
+        "cover_image": "/content-media/projects/kaa-cover.jpg",
+        "local_image_count": 11,
+        "local_video_count": 0,
+        "gallery_images": [
+          {
+            "id": "kaa-gallery-1",
+            "src": "/content-media/projects/kaa-cover.jpg",
+            "alt": "Karnataka Athletic Association frame 1",
+            "emphasis": "primary"
+          },
+          {
+            "id": "kaa-gallery-2",
+            "src": "/content-media/projects/kaa-gallery-2.jpg",
+            "alt": "Karnataka Athletic Association frame 2",
+            "emphasis": "support"
+          },
+          {
+            "id": "kaa-gallery-3",
+            "src": "/content-media/projects/kaa-gallery-3.jpg",
+            "alt": "Karnataka Athletic Association frame 3",
+            "emphasis": "support"
+          },
+          {
+            "id": "kaa-gallery-4",
+            "src": "/content-media/projects/kaa-gallery-4.jpg",
+            "alt": "Karnataka Athletic Association frame 4",
+            "emphasis": "support"
+          },
+          {
+            "id": "kaa-gallery-5",
+            "src": "/content-media/projects/kaa-gallery-5.jpg",
+            "alt": "Karnataka Athletic Association frame 5",
+            "emphasis": "support"
+          },
+          {
+            "id": "kaa-gallery-6",
+            "src": "/content-media/projects/kaa-gallery-6.jpg",
+            "alt": "Karnataka Athletic Association frame 6",
+            "emphasis": "support"
+          }
+        ],
+        "gallery_items": [
+          {
+            "id": "7f5b5be5-da45-4187-a158-a5c146efc894",
+            "title": "Karnataka Athletic Association",
+            "description": "Video and Animation",
+            "media_type": "video",
+            "quality_count": 3
+          }
+        ],
+        "source_image_assets": [
+          "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+          "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/62c90e079e-dd4e19_1c4d4bc21b5841ada020a126a568efe7-mv2.jpg",
+          "assets/images/6848fdd94a-dd4e19_b33327b5160948dfa7084c8ea1ca09ef-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/74660d2a46-dd4e19_0d0969e4285b4596b68e32c28fabae1a-mv2.jpg",
+          "assets/images/80089db7e1-dd4e19_746e6bedd0734a9882ab9c7747437e7a-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/9b0fced86c-dd4e19_18b4a9dcd895419e8fd85c33a5a54575-mv2.jpg",
+          "assets/images/a1f5c33f0d-dd4e19_8a3304c7fadd45f4ab6e422a84419b6e-mv2_d_1986_1326_s_2.jpg",
+          "assets/images/a734ab5176-dd4e19_14be716bf1464e7895731be1c4a80c3f-mv2.jpg",
+          "assets/images/bf852dca99-dd4e19_cedf7c7c65604fe4b55695791e9f634c-mv2.png",
+          "assets/images/ef4ddfbf66-dd4e19_5984a86a008c496aa55e30fa1e978185-mv2.jpg"
+        ],
+        "source_video_assets": [],
+        "video_asset_ids": []
+      },
+      "clean_text": "Karnataka Athletic Association KAA wanted a modern video which would communicate their plans, goals & vision to stakeholders. We visualised their entire plan and made it easy to understand but hard to forget. SERVICE Video & Animation CLIENT KAA Play Video SERVICE Video, Photography & Web design Credits CLIENT Karnataka Athletic Association PRODUCTION COMPANY Newsense CREATIVE DIRECTION Sant Mote PRODUCER Amyth Venkataramaiah DIRECTOR OF PHOTOGRAPHY Suraj Singh Thakur, Amyth Venkataramaiah & Nagarjun Shetty VIDEO EDITING Sant Mote ANIMATION Sant Mote & Akshay Bhimaya VOICE OVER ARTIST Gnana Raghavendran",
+      "source_warnings": [
+        "Primary client section says 'KAA' but credit block says 'Karnataka Athletic Association'."
+      ],
+      "source_refs": [
+        "sources/old-website/data/projects.json#kaa",
+        "sources/old-website/content/pages/kaa.md"
+      ],
+      "placeholder": false
+    },
+    {
+      "id": "oneplus-experience-store",
+      "slug": "oneplus-experience-store",
+      "route": "/projects/oneplus-experience-store",
+      "title": "OnePlus Experience Store",
+      "status": "featured",
+      "case_study_type": "editorial-stills",
+      "page_kind": "portfolio",
+      "hero_heading": "OnePlus Experience Store",
+      "hero_summary": "OnePlus experience store in Bangalore is not just a phone store, but a venue for OnePlus community to gather, interact with the latest tech and attend events. We shot photos inspired by the architecture and decor of the place to give it a warm and positive vibe.",
+      "primary_client": "OnePlus",
+      "clients": [
+        "OnePlus"
+      ],
+      "primary_service": "Photography",
+      "services": [
+        "Photography"
+      ],
+      "year": null,
+      "years": [],
+      "featured_rank": 6,
+      "gallery_mode": "stills-first",
+      "credits": {
+        "CLIENT": "AGM",
+        "PHOTOGRAPHY": "Amyth Venkataramaiah",
+        "PRODUCTION COMPANY": "Newsense"
+      },
+      "credits_text": "CLIENT: AGM\nPHOTOGRAPHY: Amyth Venkataramaiah\nPRODUCTION COMPANY: Newsense",
+      "narrative_sections": [],
+      "outcome_sections": [],
+      "media": {
+        "cover_image": "/content-media/projects/oneplus-experience-store-cover.jpg",
+        "local_image_count": 23,
+        "local_video_count": 0,
+        "gallery_images": [
+          {
+            "id": "oneplus-experience-store-gallery-1",
+            "src": "/content-media/projects/oneplus-experience-store-cover.jpg",
+            "alt": "OnePlus Experience Store frame 1",
+            "emphasis": "primary"
+          },
+          {
+            "id": "oneplus-experience-store-gallery-2",
+            "src": "/content-media/projects/oneplus-experience-store-gallery-2.jpg",
+            "alt": "OnePlus Experience Store frame 2",
+            "emphasis": "support"
+          },
+          {
+            "id": "oneplus-experience-store-gallery-3",
+            "src": "/content-media/projects/oneplus-experience-store-gallery-3.jpg",
+            "alt": "OnePlus Experience Store frame 3",
+            "emphasis": "support"
+          },
+          {
+            "id": "oneplus-experience-store-gallery-4",
+            "src": "/content-media/projects/oneplus-experience-store-gallery-4.jpg",
+            "alt": "OnePlus Experience Store frame 4",
+            "emphasis": "support"
+          },
+          {
+            "id": "oneplus-experience-store-gallery-5",
+            "src": "/content-media/projects/oneplus-experience-store-gallery-5.jpg",
+            "alt": "OnePlus Experience Store frame 5",
+            "emphasis": "support"
+          },
+          {
+            "id": "oneplus-experience-store-gallery-6",
+            "src": "/content-media/projects/oneplus-experience-store-gallery-6.jpg",
+            "alt": "OnePlus Experience Store frame 6",
+            "emphasis": "support"
+          }
+        ],
+        "gallery_items": [
+          {
+            "id": "370e07ee-aae3-48cd-8d61-93fe689bc9b7",
+            "title": "OnePlus Experience Store",
+            "description": "Photography",
+            "media_type": "image",
+            "quality_count": 0
+          }
+        ],
+        "source_image_assets": [
+          "assets/images/12270c603b-dd4e19_60309273b3ee498cb27a112ce396e814-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/4df3fca15b-dd4e19_47721e6e07684e309652fbe7d1e71c94-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/5040e79a91-dd4e19_b15bb2b58d4d414587a2fec871b24591-mv2_d_1920_1288_s_2.jpg",
+          "assets/images/56e436193b-dd4e19_1cf64753dfd144068d89faeac56df4a8-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/57bd106ece-dd4e19_74b814bfe6514c7e8d09d4932f83107d-mv2_d_1200_1800_s_2.jpg",
+          "assets/images/62c90e079e-dd4e19_1c4d4bc21b5841ada020a126a568efe7-mv2.jpg",
+          "assets/images/6848fdd94a-dd4e19_b33327b5160948dfa7084c8ea1ca09ef-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/6f69e093ab-dd4e19_704ebda7425d4c63bcadf1adf9772fa0-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/74660d2a46-dd4e19_0d0969e4285b4596b68e32c28fabae1a-mv2.jpg",
+          "assets/images/80089db7e1-dd4e19_746e6bedd0734a9882ab9c7747437e7a-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/9b0fced86c-dd4e19_18b4a9dcd895419e8fd85c33a5a54575-mv2.jpg"
+        ],
+        "source_video_assets": [],
+        "video_asset_ids": []
+      },
+      "clean_text": "OnePlus Experience Store OnePlus experience store in Bangalore is not just a phone store, but a venue for OnePlus community to gather, interact with the latest tech and attend events. We shot photos inspired by the architecture and decor of the place to give it a warm and positive vibe. SERVICE Photography CLIENT OnePlus SERVICE Video, Photography & Web design Credits CLIENT AGM PHOTOGRAPHY Amyth Venkataramaiah PRODUCTION COMPANY Newsense",
+      "source_warnings": [
+        "Primary client section says 'OnePlus' but credit block says 'AGM'."
+      ],
+      "source_refs": [
+        "sources/old-website/data/projects.json#oneplus-experience-store",
+        "sources/old-website/content/pages/oneplus-experience-store.md"
+      ],
+      "placeholder": false
+    },
+    {
+      "id": "oneplus-lava-red",
+      "slug": "oneplus-lava-red",
+      "route": "/projects/oneplus-lava-red",
+      "title": "OnePlus Lava Red",
+      "status": "featured",
+      "case_study_type": "campaign-system",
+      "page_kind": "portfolio",
+      "hero_heading": "OnePlus 5 Lava Red",
+      "hero_summary": "OnePlus approached us for a video campaign focused on the colour 'Red' we couldn't contain our excitement to get creative. ​ We strategised a video campaign which builds anticipation for the launch of the OnePlus 5 Lava Red without revealing too much of the phone. We collaborated with Little Fox Films to make a series of fun, red, stop-motion videos.",
+      "primary_client": "OnePlus",
+      "clients": [
+        "OnePlus"
+      ],
+      "primary_service": "Video",
+      "services": [
+        "Video"
+      ],
+      "year": null,
+      "years": [],
+      "featured_rank": 3,
+      "gallery_mode": "story-first",
+      "credits": {
+        "CLIENT": "OnePlus",
+        "PRODUCTION COMPANY": "Newsense & Little Fox Films",
+        "ART DIRECTION, STORYBOARD, ANIMATION": "Joanna Davala",
+        "ANIMATION, SOUND DESIGN": "Nihal Anand",
+        "CREATIVE DIRECTION": "Sant Mote",
+        "PRODUCER": "Amyth Venkataramaiah"
+      },
+      "credits_text": "CLIENT: OnePlus\nPRODUCTION COMPANY: Newsense & Little Fox Films\nART DIRECTION, STORYBOARD, ANIMATION: Joanna Davala\nANIMATION, SOUND DESIGN: Nihal Anand\nCREATIVE DIRECTION: Sant Mote\nPRODUCER: Amyth Venkataramaiah",
+      "narrative_sections": [
+        {
+          "heading": "Curiosity killed the Cat, but sold a lot of phones.",
+          "content": "Our concept was to use everyday objects as props in the video with a sense of anticipation and reward the audience with an unexpected outcome. Like a short amusing joke which piques your interest. Creative collaborations lead to greater discoveries. Little Fox Films brought their expertise in Stop-motion animation and a quirky style which was exactly what this project called for."
+        },
+        {
+          "heading": "It's time!",
+          "content": "We picked 3 of our best ideas and presented it to the OnePlus team in the form of storyboards. After the concepts were approved, we sourced props needed for the 3 videos. First of which was a Red Alarm Clock. We picked the exact colour of red to match the phone and setup up lights to achieve a dark contrast background, focusing on the action in the foreground. Alarm Storyboard Test Shot Final Shot"
+        },
+        {
+          "heading": "Did someone say Tea Party?",
+          "content": "Our next idea was a Mystical Red Teapot which pours turns everything into red glitter. This required the right timing from our hand model coupled with smooth hand-drawn animation to accentuate the actions. Could we get more projects where we can spray paint everything Red?"
+        },
+        {
+          "heading": "Dynamite Red",
+          "content": "Unlike the other props in the video, we had to make the Dynamites from scratch. The exploding confetti proved to be a fun challenge and the hand-drawn flame animation put all the pieces together for this fun video. Dynamite Storyboard Joanna Davala from Little Fox Films working on set. Lights, Camera, Action!"
+        }
+      ],
+      "outcome_sections": [],
+      "media": {
+        "cover_image": "/content-media/projects/oneplus-lava-red-cover.jpg",
+        "local_image_count": 35,
+        "local_video_count": 0,
+        "gallery_images": [
+          {
+            "id": "oneplus-lava-red-gallery-1",
+            "src": "/content-media/projects/oneplus-lava-red-cover.jpg",
+            "alt": "OnePlus 5 Lava Red frame 1",
+            "emphasis": "primary"
+          },
+          {
+            "id": "oneplus-lava-red-gallery-2",
+            "src": "/content-media/projects/oneplus-lava-red-gallery-2.jpg",
+            "alt": "OnePlus 5 Lava Red frame 2",
+            "emphasis": "support"
+          },
+          {
+            "id": "oneplus-lava-red-gallery-3",
+            "src": "/content-media/projects/oneplus-lava-red-gallery-3.jpg",
+            "alt": "OnePlus 5 Lava Red frame 3",
+            "emphasis": "support"
+          },
+          {
+            "id": "oneplus-lava-red-gallery-4",
+            "src": "/content-media/projects/oneplus-lava-red-gallery-4.jpg",
+            "alt": "OnePlus 5 Lava Red frame 4",
+            "emphasis": "support"
+          },
+          {
+            "id": "oneplus-lava-red-gallery-5",
+            "src": "/content-media/projects/oneplus-lava-red-gallery-5.jpg",
+            "alt": "OnePlus 5 Lava Red frame 5",
+            "emphasis": "support"
+          },
+          {
+            "id": "oneplus-lava-red-gallery-6",
+            "src": "/content-media/projects/oneplus-lava-red-gallery-6.jpg",
+            "alt": "OnePlus 5 Lava Red frame 6",
+            "emphasis": "support"
+          }
+        ],
+        "gallery_items": [
+          {
+            "id": "466a6084-2f0e-4c5f-b12a-a3f3db613336",
+            "title": "OnePlus 5 Lava Red",
+            "description": "Video Campaign",
+            "media_type": "video",
+            "quality_count": 3
+          }
+        ],
+        "source_image_assets": [
+          "assets/images/0d3fa856fd-dd4e19_5e00ec785c554716b02e1ab5728c2715-mv2.jpg",
+          "assets/images/0d62d4eb12-dd4e19_c8d85b98d0c543b7aac9f8344b6baa41f001.jpg",
+          "assets/images/135de83abc-dd4e19_e8e7ba9faf4341ce854420ee1f414b4cf002.jpg",
+          "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+          "assets/images/212c5511e3-dd4e19_a11ba906dee0466499bb886a55a890cb-mv2_d_1806_1209_s_2.jpg",
+          "assets/images/23f4860b84-dd4e19_e8e7ba9faf4341ce854420ee1f414b4cf000.jpg",
+          "assets/images/356e7bfb4f-dd4e19_8e583e1f611743799146287d43837b55f000.jpg",
+          "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/62c90e079e-dd4e19_1c4d4bc21b5841ada020a126a568efe7-mv2.jpg",
+          "assets/images/65ec21f4e2-dd4e19_6f5272ff3ec944e08463b3be6c5927c0f000.jpg",
+          "assets/images/6848fdd94a-dd4e19_b33327b5160948dfa7084c8ea1ca09ef-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/74660d2a46-dd4e19_0d0969e4285b4596b68e32c28fabae1a-mv2.jpg"
+        ],
+        "source_video_assets": [],
+        "video_asset_ids": [
+          "dd4e19_6f5272ff3ec944e08463b3be6c5927c0",
+          "dd4e19_8e583e1f611743799146287d43837b55",
+          "dd4e19_c8d85b98d0c543b7aac9f8344b6baa41",
+          "dd4e19_e8e7ba9faf4341ce854420ee1f414b4c"
+        ]
+      },
+      "clean_text": "OnePlus 5 Lava Red OnePlus approached us for a video campaign focused on the colour 'Red' we couldn't contain our excitement to get creative. ​ We strategised a video campaign which builds anticipation for the launch of the OnePlus 5 Lava Red without revealing too much of the phone. We collaborated with Little Fox Films to make a series of fun, red, stop-motion videos. SERVICES Video CLIENT OnePlus Play Video Curiosity killed the Cat, but sold a lot of phones. Our concept was to use everyday objects as props in the video with a sense of anticipation and reward the audience with an unexpected outcome. Like a short amusing joke which piques your interest. Creative collaborations lead to greater discoveries. Little Fox Films brought their expertise in Stop-motion animation and a quirky style which was exactly what this project called for. It's time! We picked 3 of our best ideas and presented it to the OnePlus team in the form of storyboards. After the concepts were approved, we sourced props needed for the 3 videos. First of which was a Red Alarm Clock. We picked the exact colour of red to match the phone and setup up lights to achieve a dark contrast background, focusing on the action in the foreground. Alarm Storyboard Test Shot Final Shot Did someone say Tea Party? Our next idea was a Mystical Red Teapot which pours turns everything into red glitter. This required the right timing from our hand model coupled with smooth hand-drawn animation to accentuate the actions. Could we get more projects where we can spray paint everything Red? Dynamite Red Unlike the other props in the video, we had to make the Dynamites from scratch. The exploding confetti proved to be a fun challenge and the hand-drawn flame animation put all the pieces together for this fun video. Dynamite Storyboard Joanna Davala from Little Fox Films working on set. Lights, Camera, Action! SERVICE Video, Photography & Web design Credits CLIENT OnePlus PRODUCTION COMPANY Newsense & Little Fox Films ART DIRECTION, STORYBOARD, ANIMATION Joanna Davala ANIMATION, SOUND DESIGN Nihal Anand CREATIVE DIRECTION Sant Mote PRODUCER Amyth Venkataramaiah Let's work together. NEWSENSE leverages years of experience in Design, Film and Brand management to craft experiences that inspire action. Join our growing list of clients to collaborate on strategy-driven and design-led brand solutions that speaks to the modern audience. Contact us",
+      "source_warnings": [],
+      "source_refs": [
+        "sources/old-website/data/projects.json#oneplus-lava-red",
+        "sources/old-website/content/pages/oneplus-lava-red.md"
+      ],
+      "placeholder": false
+    },
+    {
+      "id": "oneplus-softgold",
+      "slug": "oneplus-softgold",
+      "route": "/projects/oneplus-softgold",
+      "title": "OnePlus Soft Gold",
+      "status": "featured",
+      "case_study_type": "campaign-system",
+      "page_kind": "portfolio",
+      "hero_heading": "OnePlus 5 Soft Gold",
+      "hero_summary": "We were tasked with the responsibility of creating a fresh, hilarious and vibrant animated video for the launch of the OnePlus 5 Soft Gold. ​ The project brief had us juxtaposing ancient India with modern tech. Creating a quirky contrast, complimented by a love story and rich Indian aesthetics.",
+      "primary_client": "OnePlus",
+      "clients": [
+        "OnePlus"
+      ],
+      "primary_service": "Animation",
+      "services": [
+        "Animation"
+      ],
+      "year": null,
+      "years": [],
+      "featured_rank": 2,
+      "gallery_mode": "story-first",
+      "credits": {
+        "CLIENT": "OnePlus",
+        "PRODUCTION COMPANY": "Newsense",
+        "ANIMATION, STORYBOARD": "Aditya Vipparthy",
+        "CONCEPT, CREATIVE DIRECTION": "Sant Mote & Amyth Venkataramaiah",
+        "ART DIRECTION": "Aditya Vipparthy",
+        "PRODUCER": "Amyth Venkataramaiah"
+      },
+      "credits_text": "CLIENT: OnePlus\nPRODUCTION COMPANY: Newsense\nANIMATION, STORYBOARD: Aditya Vipparthy\nCONCEPT, CREATIVE DIRECTION: Sant Mote & Amyth Venkataramaiah\nART DIRECTION: Aditya Vipparthy\nPRODUCER: Amyth Venkataramaiah",
+      "narrative_sections": [
+        {
+          "heading": "In a world where Vimanas, Maharajas & Gold Phones exist.",
+          "content": "Our concept was to create a visually striking story which captures people's imagination and entertains them thoroughly while focusing on the Phone. The project got our creative juices flowing and had us weaving unlikely scenarios into a seamless love story which celebrates Indian heritage and folklore."
+        },
+        {
+          "heading": "Making it Larger than Life",
+          "content": "We were certain that the product had to be a major focus of the video. One way we achieved that was by making the phone unusually big, which added to the humour."
+        },
+        {
+          "heading": "Grandest Gift in the Kingdom",
+          "content": "Who doesn't love a surprise? Indian kings were known to buy extravagant gifts from far-way places. It can't better than a huge phone made of gold, delivered from outer space just for the queen."
+        },
+        {
+          "heading": "A Portrait for the Ages",
+          "content": "What better way to cherish this memory than a Royal portrait?"
+        },
+        {
+          "heading": "11.5 Million Views and Comments to Die for.",
+          "content": "The video proved to be impactful, amassing 11.5 million views within the first 3 days. It also connected with the OnePlus community who appreciated the creativity, humour and personality of the brand."
+        }
+      ],
+      "outcome_sections": [
+        {
+          "heading": "11.5 Million Views and Comments to Die for.",
+          "content": "The video proved to be impactful, amassing 11.5 million views within the first 3 days. It also connected with the OnePlus community who appreciated the creativity, humour and personality of the brand."
+        }
+      ],
+      "media": {
+        "cover_image": "/content-media/projects/oneplus-softgold-cover.jpg",
+        "local_image_count": 41,
+        "local_video_count": 0,
+        "gallery_images": [
+          {
+            "id": "oneplus-softgold-gallery-1",
+            "src": "/content-media/projects/oneplus-softgold-cover.jpg",
+            "alt": "OnePlus 5 Soft Gold frame 1",
+            "emphasis": "primary"
+          },
+          {
+            "id": "oneplus-softgold-gallery-2",
+            "src": "/content-media/projects/oneplus-softgold-gallery-2.jpg",
+            "alt": "OnePlus 5 Soft Gold frame 2",
+            "emphasis": "support"
+          },
+          {
+            "id": "oneplus-softgold-gallery-3",
+            "src": "/content-media/projects/oneplus-softgold-gallery-3.jpg",
+            "alt": "OnePlus 5 Soft Gold frame 3",
+            "emphasis": "support"
+          },
+          {
+            "id": "oneplus-softgold-gallery-4",
+            "src": "/content-media/projects/oneplus-softgold-gallery-4.jpg",
+            "alt": "OnePlus 5 Soft Gold frame 4",
+            "emphasis": "support"
+          },
+          {
+            "id": "oneplus-softgold-gallery-5",
+            "src": "/content-media/projects/oneplus-softgold-gallery-5.jpg",
+            "alt": "OnePlus 5 Soft Gold frame 5",
+            "emphasis": "support"
+          },
+          {
+            "id": "oneplus-softgold-gallery-6",
+            "src": "/content-media/projects/oneplus-softgold-gallery-6.jpg",
+            "alt": "OnePlus 5 Soft Gold frame 6",
+            "emphasis": "support"
+          }
+        ],
+        "gallery_items": [
+          {
+            "id": "cb72bafa-d4e0-11e9-9ac2-063f49e9a7e4",
+            "title": "OnePlus 5 Soft Gold",
+            "description": "Animation",
+            "media_type": "video",
+            "quality_count": 3
+          }
+        ],
+        "source_image_assets": [
+          "assets/images/0062ac6d03-dd4e19_4eaa12654c084665b448fe23a178e99b-mv2.jpg",
+          "assets/images/098aa35c06-dd4e19_8cc1810a46574b05b10bd5723fd21e8e-mv2_d_2393_1543_s_2.jpg",
+          "assets/images/10ed6e5fd2-dd4e19_0dfcca81758b4eb8b62bde92d48de438f002.jpg",
+          "assets/images/1548018865-dd4e19_938f1f18347f4e579b8a58b8c4d912f8-mv2.jpg",
+          "assets/images/1bdf47623a-dd4e19_47e42d2a45de4ccca6cebf502de1a0ae-mv2.jpg",
+          "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+          "assets/images/23e7c6e201-dd4e19_bab587aaceb84d5f8ee4774b700b1ce4f002.jpg",
+          "assets/images/275271791e-dd4e19_a89101fff92b40cebe5ff910d0b469e3-mv2.jpg",
+          "assets/images/30fffd037c-dd4e19_f17d88b5735144bcad573b955aedd3eef000.jpg",
+          "assets/images/3717476c53-dd4e19_bab587aaceb84d5f8ee4774b700b1ce4f003.jpg",
+          "assets/images/45524dd276-dd4e19_f17d88b5735144bcad573b955aedd3eef003.jpg",
+          "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg"
+        ],
+        "source_video_assets": [],
+        "video_asset_ids": [
+          "dd4e19_1ef7ac8e8cd349da9a018c12005505d3",
+          "dd4e19_bab587aaceb84d5f8ee4774b700b1ce4",
+          "dd4e19_f17d88b5735144bcad573b955aedd3ee"
+        ]
+      },
+      "clean_text": "OnePlus 5 Soft Gold We were tasked with the responsibility of creating a fresh, hilarious and vibrant animated video for the launch of the OnePlus 5 Soft Gold. ​ The project brief had us juxtaposing ancient India with modern tech. Creating a quirky contrast, complimented by a love story and rich Indian aesthetics. SERVICES Animation CLIENT OnePlus Play Video In a world where Vimanas, Maharajas & Gold Phones exist. Our concept was to create a visually striking story which captures people's imagination and entertains them thoroughly while focusing on the Phone. The project got our creative juices flowing and had us weaving unlikely scenarios into a seamless love story which celebrates Indian heritage and folklore. Making it Larger than Life We were certain that the product had to be a major focus of the video. One way we achieved that was by making the phone unusually big, which added to the humour. Grandest Gift in the Kingdom Who doesn't love a surprise? Indian kings were known to buy extravagant gifts from far-way places. It can't better than a huge phone made of gold, delivered from outer space just for the queen. A Portrait for the Ages What better way to cherish this memory than a Royal portrait? 11.5 Million Views and Comments to Die for. The video proved to be impactful, amassing 11.5 million views within the first 3 days. It also connected with the OnePlus community who appreciated the creativity, humour and personality of the brand. SERVICE Video, Photography & Web design Credits CLIENT OnePlus PRODUCTION COMPANY Newsense ANIMATION, STORYBOARD Aditya Vipparthy CONCEPT, CREATIVE DIRECTION Sant Mote & Amyth Venkataramaiah ART DIRECTION Aditya Vipparthy PRODUCER Amyth Venkataramaiah Let's work together. NEWSENSE leverages years of experience in Design, Film and Brand management to craft experiences that inspire action. Join our growing list of clients to collaborate on strategy-driven and design-led brand solutions that speaks to the modern audience. Contact us",
+      "source_warnings": [],
+      "source_refs": [
+        "sources/old-website/data/projects.json#oneplus-softgold",
+        "sources/old-website/content/pages/oneplus-softgold.md"
+      ],
+      "placeholder": false
+    },
+    {
+      "id": "op-roadtrip",
+      "slug": "op-roadtrip",
+      "route": "/projects/op-roadtrip",
+      "title": "OnePlus Roadtrip",
+      "status": "live",
+      "case_study_type": "motion",
+      "page_kind": "portfolio",
+      "hero_heading": "OnePlus Roadtrip",
+      "hero_summary": "A community drive to engage OnePlus fans across India to get Futurebound. ​ Our video production crew followed the OnePlus van across many different cities to document the pop-up events in a large scale fan building campaign. Find the highlights of the video below.",
+      "primary_client": "OnePlus",
+      "clients": [
+        "OnePlus"
+      ],
+      "primary_service": "End to end video production",
+      "services": [
+        "End to end video production"
+      ],
+      "year": null,
+      "years": [],
+      "featured_rank": null,
+      "gallery_mode": "video-first",
+      "credits": {
+        "CLIENT": "OnePlus",
+        "PRODUCTION COMPANY": "Newsense",
+        "Video Editing": "Ronnie",
+        "PRODUCER": "Suraj Thakur",
+        "DIRECTOR OF PHOTOGRAPHY": "Suraj Thakur & Nikhil Vinay Goswami",
+        "TITLE GRAPHICS": "Sant Mote"
+      },
+      "credits_text": "CLIENT: OnePlus\nPRODUCTION COMPANY: Newsense\nVideo Editing: Ronnie\nPRODUCER: Suraj Thakur\nDIRECTOR OF PHOTOGRAPHY: Suraj Thakur & Nikhil Vinay Goswami\nTITLE GRAPHICS: Sant Mote",
+      "narrative_sections": [],
+      "outcome_sections": [],
+      "media": {
+        "cover_image": "/content-media/projects/op-roadtrip-cover.jpg",
+        "local_image_count": 21,
+        "local_video_count": 2,
+        "gallery_images": [
+          {
+            "id": "op-roadtrip-gallery-1",
+            "src": "/content-media/projects/op-roadtrip-cover.jpg",
+            "alt": "OnePlus Roadtrip frame 1",
+            "emphasis": "primary"
+          },
+          {
+            "id": "op-roadtrip-gallery-2",
+            "src": "/content-media/projects/op-roadtrip-gallery-2.jpg",
+            "alt": "OnePlus Roadtrip frame 2",
+            "emphasis": "support"
+          },
+          {
+            "id": "op-roadtrip-gallery-3",
+            "src": "/content-media/projects/op-roadtrip-gallery-3.jpg",
+            "alt": "OnePlus Roadtrip frame 3",
+            "emphasis": "support"
+          },
+          {
+            "id": "op-roadtrip-gallery-4",
+            "src": "/content-media/projects/op-roadtrip-gallery-4.jpg",
+            "alt": "OnePlus Roadtrip frame 4",
+            "emphasis": "support"
+          },
+          {
+            "id": "op-roadtrip-gallery-5",
+            "src": "/content-media/projects/op-roadtrip-gallery-5.jpg",
+            "alt": "OnePlus Roadtrip frame 5",
+            "emphasis": "support"
+          },
+          {
+            "id": "op-roadtrip-gallery-6",
+            "src": "/content-media/projects/op-roadtrip-gallery-6.jpg",
+            "alt": "OnePlus Roadtrip frame 6",
+            "emphasis": "support"
+          }
+        ],
+        "gallery_items": [
+          {
+            "id": "4f71ead4-0e96-4c4c-8239-f0e037d745ad",
+            "title": "OnePlus Roadtrip",
+            "description": "",
+            "media_type": "video",
+            "quality_count": 4
+          }
+        ],
+        "source_image_assets": [
+          "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+          "assets/images/19c245669b-dd4e19_bd491b319a5e4157abaa73441d56fb12f001.jpg",
+          "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+          "assets/images/247975d8ff-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f003.jpg",
+          "assets/images/404afb4751-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f000.jpg",
+          "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/4cf39c49b8-dd4e19_bd491b319a5e4157abaa73441d56fb12f003.jpg",
+          "assets/images/5375150ff3-dd4e19_bd491b319a5e4157abaa73441d56fb12f000.jpg",
+          "assets/images/62c90e079e-dd4e19_1c4d4bc21b5841ada020a126a568efe7-mv2.jpg",
+          "assets/images/6848fdd94a-dd4e19_b33327b5160948dfa7084c8ea1ca09ef-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/72cb99a68e-dd4e19_aa9ad73c11da4a908ed55315a0804d51f002.jpg",
+          "assets/images/74660d2a46-dd4e19_0d0969e4285b4596b68e32c28fabae1a-mv2.jpg"
+        ],
+        "source_video_assets": [
+          "assets/videos/0e77c92ada-file.mp4",
+          "assets/videos/e71f343427-file.mp4"
+        ],
+        "video_asset_ids": [
+          "dd4e19_0a2cc4fe1a18480395e31d8c82832b67",
+          "dd4e19_bd491b319a5e4157abaa73441d56fb12"
+        ]
+      },
+      "clean_text": "OnePlus Roadtrip A community drive to engage OnePlus fans across India to get Futurebound. ​ Our video production crew followed the OnePlus van across many different cities to document the pop-up events in a large scale fan building campaign. Find the highlights of the video below. SERVICE End to end video production CLIENT OnePlus Play Video SERVICE Video, Photography & Web design Credits CLIENT OnePlus PRODUCTION COMPANY Newsense Video Editing Ronnie PRODUCER Suraj Thakur DIRECTOR OF PHOTOGRAPHY Suraj Thakur & Nikhil Vinay Goswami TITLE GRAPHICS Sant Mote",
+      "source_warnings": [],
+      "source_refs": [
+        "sources/old-website/data/projects.json#op-roadtrip",
+        "sources/old-website/content/pages/op-roadtrip.md"
+      ],
+      "placeholder": false
+    },
+    {
+      "id": "re-outland",
+      "slug": "re-outland",
+      "route": "/projects/re-outland",
+      "title": "Royal Enfield - Outland",
+      "status": "featured",
+      "case_study_type": "campaign-system",
+      "page_kind": "portfolio",
+      "hero_heading": "Royal Enfield Outland",
+      "hero_summary": "Royal Enfield is a house hold name among bikers. Known for their classic yet modern designs. It has gained a loyal customer base for their well crafted bikes and the lifestyle that comes with a Royal Enfield bike. We worked with the team at Royal Enfield, Bangalore to create an identity and a campaign for a 2 day biking adventure franchise called 'Outland'. We crafted the strategy and a plan of action which engaged with their audience before, during & after the event.",
+      "primary_client": "Royal Enfield",
+      "clients": [
+        "Royal Enfield"
+      ],
+      "primary_service": "Identity & Branding, Video, Photography",
+      "services": [
+        "Identity & Branding, Video, Photography"
+      ],
+      "year": null,
+      "years": [],
+      "featured_rank": 1,
+      "gallery_mode": "story-first",
+      "credits": {
+        "CLIENT": "Royal Enfield",
+        "PRODUCTION COMPANY": "Newsense",
+        "CREATIVE DIRECTION, DESIGN": "Sant Mote",
+        "PRODUCER": "Amyth Venkataramiah",
+        "CINEMATOGRAPHY": "Suraj Singh Thakur & Amyth Venkataramiah",
+        "PHOTOGRAPHY": "Suraj Singh Thakur & Amyth Venkataramiah",
+        "PRODUCTION MANAGER": "Shreyas Yadav",
+        "VIDEO EDITING": "Sant Mote"
+      },
+      "credits_text": "CLIENT: Royal Enfield\nPRODUCTION COMPANY: Newsense\nCREATIVE DIRECTION, DESIGN: Sant Mote\nPRODUCER: Amyth Venkataramiah\nCINEMATOGRAPHY: Suraj Singh Thakur & Amyth Venkataramiah\nPHOTOGRAPHY: Suraj Singh Thakur & Amyth Venkataramiah\nPRODUCTION MANAGER: Shreyas Yadav\nVIDEO EDITING: Sant Mote",
+      "narrative_sections": [
+        {
+          "heading": "Our Process",
+          "content": "Define the unique qualities of Outland and strategise a plan based on the insights gained."
+        },
+        {
+          "heading": "1.",
+          "content": "Create engaging content through videos and photos to drive registrations."
+        },
+        {
+          "heading": "4.",
+          "content": "Create a strong visual identity using the strategy and insights gained from research."
+        },
+        {
+          "heading": "2.",
+          "content": "Deepen the audience connection with the brand by making merchandise & memorabilia."
+        },
+        {
+          "heading": "5.",
+          "content": "Extend the visual identity into design collaterals for digital & print promotion."
+        },
+        {
+          "heading": "Giving a face to the brand",
+          "content": "After a few conversations with the Royal Enfield team we narrowed down on 3 elements which defined 'Outland'. Riding, Camping and Community. We presented 3 options for the logo, our first option of the scenic view from the tent resonated with the vision of the brand."
+        },
+        {
+          "heading": "Design Collaterals",
+          "content": "Extending our visual identity into a digital and print campaign, we illustrated a fun, vibrant scene with glimpses of the event like Camping in the woods, Bon fire, Hikes, Workshops, BBQ, Arm Wrestling and Music. Online Event Poster Print Poster Approved logo"
+        },
+        {
+          "heading": "Deepening the connection with the brand.",
+          "content": "We created a custom line of merchandise for fans to buy as souvenirs to remind them of the great experiences, stories and memories from the event. Attaching intangible value to everyday object like T-shirts, Helmets, Wrist Bands & Bandanas; Fans feel more attached to the brand. Official Tee Open face Helmet Face Mask Wrist Bands Event Flag"
+        },
+        {
+          "heading": "Adventure's in the air",
+          "content": "To generate curiosity and engagement around the event we shot a series of photographs and short videos set against the beautiful backdrop of Chikmagalur."
+        }
+      ],
+      "outcome_sections": [
+        {
+          "heading": "Giving a face to the brand",
+          "content": "After a few conversations with the Royal Enfield team we narrowed down on 3 elements which defined 'Outland'. Riding, Camping and Community. We presented 3 options for the logo, our first option of the scenic view from the tent resonated with the vision of the brand."
+        },
+        {
+          "heading": "Adventure's in the air",
+          "content": "To generate curiosity and engagement around the event we shot a series of photographs and short videos set against the beautiful backdrop of Chikmagalur."
+        }
+      ],
+      "media": {
+        "cover_image": "/content-media/projects/re-outland-cover.jpg",
+        "local_image_count": 30,
+        "local_video_count": 0,
+        "gallery_images": [
+          {
+            "id": "re-outland-gallery-1",
+            "src": "/content-media/projects/re-outland-cover.jpg",
+            "alt": "Royal Enfield Outland frame 1",
+            "emphasis": "primary"
+          },
+          {
+            "id": "re-outland-gallery-2",
+            "src": "/content-media/projects/re-outland-gallery-2.jpg",
+            "alt": "Royal Enfield Outland frame 2",
+            "emphasis": "support"
+          },
+          {
+            "id": "re-outland-gallery-3",
+            "src": "/content-media/projects/re-outland-gallery-3.jpg",
+            "alt": "Royal Enfield Outland frame 3",
+            "emphasis": "support"
+          },
+          {
+            "id": "re-outland-gallery-4",
+            "src": "/content-media/projects/re-outland-gallery-4.jpg",
+            "alt": "Royal Enfield Outland frame 4",
+            "emphasis": "support"
+          },
+          {
+            "id": "re-outland-gallery-5",
+            "src": "/content-media/projects/re-outland-gallery-5.jpg",
+            "alt": "Royal Enfield Outland frame 5",
+            "emphasis": "support"
+          },
+          {
+            "id": "re-outland-gallery-6",
+            "src": "/content-media/projects/re-outland-gallery-6.jpg",
+            "alt": "Royal Enfield Outland frame 6",
+            "emphasis": "support"
+          }
+        ],
+        "gallery_items": [
+          {
+            "id": "54e8853d-b803-48e2-a568-744426ce369e",
+            "title": "Royal Enfield Outland",
+            "description": "Branding, Video & Photography",
+            "media_type": "video",
+            "quality_count": 3
+          }
+        ],
+        "source_image_assets": [
+          "assets/images/0c9aa68b06-dd4e19_7472751f8c1646de82a0e647adceac25-mv2.jpg",
+          "assets/images/0fc17709ea-dd4e19_79d4586e995c4e9baa57b6d7a05d3c0e-mv2_d_1920_1411_s_2.jpg",
+          "assets/images/1a414df5bb-dd4e19_0c67238d4ad4466aaee7c99080dea3fa-mv2.jpg",
+          "assets/images/1dd1b2413f-dd4e19_d6f5f3f9c67e419b8a719c4321769334f001.jpg",
+          "assets/images/408bd471dc-dd4e19_a5165affe86145a5b7a1fec20b6069ab-mv2.jpg",
+          "assets/images/42b8bf1413-dd4e19_17ff707ad67c47f8a3a7e565c2157c47-mv2_d_1920_1285_s_2.jpg",
+          "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/4e3e30b7c2-dd4e19_4ddd6005453f489a974669cd4031592bf002.jpg",
+          "assets/images/608f6704f8-dd4e19_b0309a85568a475e8fd3628249564d25-mv2_d_1920_1920_s_2.jpg",
+          "assets/images/62c90e079e-dd4e19_1c4d4bc21b5841ada020a126a568efe7-mv2.jpg",
+          "assets/images/6848fdd94a-dd4e19_b33327b5160948dfa7084c8ea1ca09ef-mv2_d_1920_1280_s_2.jpg",
+          "assets/images/74660d2a46-dd4e19_0d0969e4285b4596b68e32c28fabae1a-mv2.jpg"
+        ],
+        "source_video_assets": [],
+        "video_asset_ids": [
+          "dd4e19_4ddd6005453f489a974669cd4031592b",
+          "dd4e19_f600fd7d31bf4d1c88daba90cf43c5fd"
+        ]
+      },
+      "clean_text": "Royal Enfield Outland Royal Enfield is a house hold name among bikers. Known for their classic yet modern designs. It has gained a loyal customer base for their well crafted bikes and the lifestyle that comes with a Royal Enfield bike. We worked with the team at Royal Enfield, Bangalore to create an identity and a campaign for a 2 day biking adventure franchise called 'Outland'. We crafted the strategy and a plan of action which engaged with their audience before, during & after the event. SERVICE Identity & Branding, Video, Photography CLIENT Royal Enfield Our Process Define the unique qualities of Outland and strategise a plan based on the insights gained. 1. Create engaging content through videos and photos to drive registrations. 4. Create a strong visual identity using the strategy and insights gained from research. 2. Deepen the audience connection with the brand by making merchandise & memorabilia. 5. Extend the visual identity into design collaterals for digital & print promotion. 3. Play Video Giving a face to the brand After a few conversations with the Royal Enfield team we narrowed down on 3 elements which defined 'Outland'. Riding, Camping and Community. We presented 3 options for the logo, our first option of the scenic view from the tent resonated with the vision of the brand. Design Collaterals Extending our visual identity into a digital and print campaign, we illustrated a fun, vibrant scene with glimpses of the event like Camping in the woods, Bon fire, Hikes, Workshops, BBQ, Arm Wrestling and Music. Online Event Poster Print Poster Approved logo Deepening the connection with the brand. We created a custom line of merchandise for fans to buy as souvenirs to remind them of the great experiences, stories and memories from the event. Attaching intangible value to everyday object like T-shirts, Helmets, Wrist Bands & Bandanas; Fans feel more attached to the brand. Official Tee Open face Helmet Face Mask Wrist Bands Event Flag Adventure's in the air To generate curiosity and engagement around the event we shot a series of photographs and short videos set against the beautiful backdrop of Chikmagalur. SERVICE Video, Photography & Web design Credits CLIENT Royal Enfield PRODUCTION COMPANY Newsense CREATIVE DIRECTION, DESIGN Sant Mote PRODUCER Amyth Venkataramiah CINEMATOGRAPHY Suraj Singh Thakur & Amyth Venkataramiah PHOTOGRAPHY Suraj Singh Thakur & Amyth Venkataramiah PRODUCTION MANAGER Shreyas Yadav VIDEO EDITING Sant Mote Let's work together. NEWSENSE leverages years of experience in Design, Film and Brand Communications to craft experiences that inspire action. Join our growing list of clients to collaborate on strategy-driven and design-led creative solutions for the modern world. Contact us",
+      "source_warnings": [],
+      "source_refs": [
+        "sources/old-website/data/projects.json#re-outland",
+        "sources/old-website/content/pages/re-outland.md"
+      ],
+      "placeholder": false
+    }
+  ],
+  "archive": [
+    {
+      "id": "alpha-source",
+      "slug": "alpha-source",
+      "route": "/archive/alpha-source",
+      "title": "Alpha Source",
+      "status": "archive",
+      "case_study_type": "archive-fragment",
+      "page_kind": "portfolio",
+      "hero_heading": "Alpha Source",
+      "hero_summary": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+      "primary_client": "Alpha Source",
+      "clients": [
+        "Alpha Source"
+      ],
+      "primary_service": "Environmental & Exhibition, Print",
+      "services": [
+        "Environmental & Exhibition, Print"
+      ],
+      "year": "2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+      "years": [
+        "2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font."
+      ],
+      "featured_rank": null,
+      "gallery_mode": "story-first",
+      "credits": {},
+      "credits_text": "",
+      "narrative_sections": [
+        {
+          "heading": "The Logo",
+          "content": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font."
+        }
+      ],
+      "outcome_sections": [],
+      "media": {
+        "cover_image": "/content-media/projects/alpha-source-cover.jpg",
+        "local_image_count": 14,
+        "local_video_count": 0,
+        "gallery_images": [
+          {
+            "id": "alpha-source-gallery-1",
+            "src": "/content-media/projects/alpha-source-cover.jpg",
+            "alt": "Alpha Source frame 1",
+            "emphasis": "primary"
+          },
+          {
+            "id": "alpha-source-gallery-2",
+            "src": "/content-media/projects/alpha-source-gallery-2.jpg",
+            "alt": "Alpha Source frame 2",
+            "emphasis": "support"
+          },
+          {
+            "id": "alpha-source-gallery-3",
+            "src": "/content-media/projects/alpha-source-gallery-3.jpg",
+            "alt": "Alpha Source frame 3",
+            "emphasis": "support"
+          },
+          {
+            "id": "alpha-source-gallery-4",
+            "src": "/content-media/projects/alpha-source-gallery-4.jpg",
+            "alt": "Alpha Source frame 4",
+            "emphasis": "support"
+          },
+          {
+            "id": "alpha-source-gallery-5",
+            "src": "/content-media/projects/alpha-source-gallery-5.jpg",
+            "alt": "Alpha Source frame 5",
+            "emphasis": "support"
+          },
+          {
+            "id": "alpha-source-gallery-6",
+            "src": "/content-media/projects/alpha-source-gallery-6.jpg",
+            "alt": "Alpha Source frame 6",
+            "emphasis": "support"
+          }
+        ],
+        "gallery_items": [],
+        "source_image_assets": [
+          "assets/images/351c1f44aa-84770f_1af4da112fae4274aadc243dbbf52eff-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/43747557dd-84770f_ee622583ca164bde8c5bc48eee9b6c03-mv2_d_2346_1998_s_2.jpg",
+          "assets/images/445c665b7b-84770f_bce6b0f820304d6b9f89ff40c22d13d4-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/49dada2014-84770f_6dd4d6b485ae4c1d98c802379bb4ac4e-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/54574e2a8a-84770f_928ed17f2bfd4452941f5f563ce96002-mv2_d_3516_1332_s_2.jpg",
+          "assets/images/8f31beb943-84770f_37cc6bca0fa94fc0843452a5bea86aa5-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/9c1339eece-ea26fd_bf3badc069244db89a5b128f73796cd5-mv2.gif",
+          "assets/images/b7d10faa50-84770f_fcc015edf6204f50bc58739c595195e3-mv2_d_2346_1998_s_2.jpg",
+          "assets/images/b9e0f83d67-84770f_bf19e3d938c94366ba61b62ac4ebe272-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/bf852dca99-dd4e19_cedf7c7c65604fe4b55695791e9f634c-mv2.png",
+          "assets/images/ce31676bcb-84770f_26720976e50e42f7b9179558f6816c18-mv2_d_2346_1998_s_2.jpg",
+          "assets/images/d8ab37122e-84770f_05537fbefe4542e49a6b7a18dabde5b2-mv2_d_2840_2840_s_4_2.jpg"
+        ],
+        "source_video_assets": [],
+        "video_asset_ids": []
+      },
+      "clean_text": "Alpha Source I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Service Environmental & Exhibition, Print Client Alpha Source Year 2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. The Logo I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+      "source_warnings": [],
+      "source_refs": [
+        "sources/old-website/data/projects.json#alpha-source",
+        "sources/old-website/content/pages/alpha-source.md"
+      ],
+      "archive_reason": "placeholder-template-route",
+      "placeholder": true
+    },
+    {
+      "id": "arte-artifacts",
+      "slug": "arte-artifacts",
+      "route": "/archive/arte-artifacts",
+      "title": "Arte Artifacts",
+      "status": "archive",
+      "case_study_type": "archive-fragment",
+      "page_kind": "portfolio",
+      "hero_heading": "Arte Artifacts",
+      "hero_summary": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+      "primary_client": "Arte Museum",
+      "clients": [
+        "Arte Museum"
+      ],
+      "primary_service": "Environmental & Exhibition, Print",
+      "services": [
+        "Environmental & Exhibition, Print"
+      ],
+      "year": "2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+      "years": [
+        "2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font."
+      ],
+      "featured_rank": null,
+      "gallery_mode": "story-first",
+      "credits": {},
+      "credits_text": "",
+      "narrative_sections": [
+        {
+          "heading": "The Artifacts",
+          "content": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font."
+        }
+      ],
+      "outcome_sections": [],
+      "media": {
+        "cover_image": "/content-media/projects/arte-artifacts-cover.jpg",
+        "local_image_count": 14,
+        "local_video_count": 0,
+        "gallery_images": [
+          {
+            "id": "arte-artifacts-gallery-1",
+            "src": "/content-media/projects/arte-artifacts-cover.jpg",
+            "alt": "Arte Artifacts frame 1",
+            "emphasis": "primary"
+          },
+          {
+            "id": "arte-artifacts-gallery-2",
+            "src": "/content-media/projects/arte-artifacts-gallery-2.jpg",
+            "alt": "Arte Artifacts frame 2",
+            "emphasis": "support"
+          },
+          {
+            "id": "arte-artifacts-gallery-3",
+            "src": "/content-media/projects/arte-artifacts-gallery-3.jpg",
+            "alt": "Arte Artifacts frame 3",
+            "emphasis": "support"
+          },
+          {
+            "id": "arte-artifacts-gallery-4",
+            "src": "/content-media/projects/arte-artifacts-gallery-4.jpg",
+            "alt": "Arte Artifacts frame 4",
+            "emphasis": "support"
+          },
+          {
+            "id": "arte-artifacts-gallery-5",
+            "src": "/content-media/projects/arte-artifacts-gallery-5.jpg",
+            "alt": "Arte Artifacts frame 5",
+            "emphasis": "support"
+          },
+          {
+            "id": "arte-artifacts-gallery-6",
+            "src": "/content-media/projects/arte-artifacts-gallery-6.jpg",
+            "alt": "Arte Artifacts frame 6",
+            "emphasis": "support"
+          }
+        ],
+        "gallery_items": [],
+        "source_image_assets": [
+          "assets/images/2dd983ca28-84770f_0095fda520864c578de7314cea083ecd-mv2_d_2346_1998_s_2.jpg",
+          "assets/images/351c1f44aa-84770f_1af4da112fae4274aadc243dbbf52eff-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/445c665b7b-84770f_bce6b0f820304d6b9f89ff40c22d13d4-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/49dada2014-84770f_6dd4d6b485ae4c1d98c802379bb4ac4e-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/5c64f5d031-84770f_fb2753aefa0e46af8923f5b4adf47a1f-mv2_d_3516_1332_s_2.jpg",
+          "assets/images/770702f6aa-84770f_e1cb3414c10448de85f428faccc26303-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/820906a227-84770f_cdd6f91157d14248888eb306ea906060-mv2_d_2880_2127_s_2.jpg",
+          "assets/images/b305ef593b-84770f_c5c2bbc376c54fc99b584bf6b7592d7d-mv2_d_2346_1998_s_2.jpg",
+          "assets/images/b9e0f83d67-84770f_bf19e3d938c94366ba61b62ac4ebe272-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/bf852dca99-dd4e19_cedf7c7c65604fe4b55695791e9f634c-mv2.png",
+          "assets/images/d8ab37122e-84770f_05537fbefe4542e49a6b7a18dabde5b2-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/eb8d308b8e-84770f_ef5a388e4bf549fc827e7ea6abf47b97-mv2_d_2346_1998_s_2.jpg"
+        ],
+        "source_video_assets": [],
+        "video_asset_ids": []
+      },
+      "clean_text": "Arte Artifacts I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Service Environmental & Exhibition, Print Client Arte Museum Year 2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. The Artifacts I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+      "source_warnings": [],
+      "source_refs": [
+        "sources/old-website/data/projects.json#arte-artifacts",
+        "sources/old-website/content/pages/arte-artifacts.md"
+      ],
+      "archive_reason": "placeholder-template-route",
+      "placeholder": true
+    },
+    {
+      "id": "cider-and-milk",
+      "slug": "cider-and-milk",
+      "route": "/archive/cider-and-milk",
+      "title": "Cider & Milk",
+      "status": "archive",
+      "case_study_type": "archive-fragment",
+      "page_kind": "portfolio",
+      "hero_heading": "Cider & Milk",
+      "hero_summary": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+      "primary_client": "Cider & Milk",
+      "clients": [
+        "Cider & Milk"
+      ],
+      "primary_service": "Identity & Branding, Print, Digital & Web",
+      "services": [
+        "Identity & Branding, Print, Digital & Web"
+      ],
+      "year": "2023 Cider & Milk I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+      "years": [
+        "2023 Cider & Milk I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font."
+      ],
+      "featured_rank": null,
+      "gallery_mode": "story-first",
+      "credits": {},
+      "credits_text": "",
+      "narrative_sections": [
+        {
+          "heading": "Stationary",
+          "content": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font."
+        },
+        {
+          "heading": "Website Design",
+          "content": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Get 20% OFFFFFFFF"
+        }
+      ],
+      "outcome_sections": [],
+      "media": {
+        "cover_image": "/content-media/projects/cider-and-milk-cover.jpg",
+        "local_image_count": 20,
+        "local_video_count": 0,
+        "gallery_images": [
+          {
+            "id": "cider-and-milk-gallery-1",
+            "src": "/content-media/projects/cider-and-milk-cover.jpg",
+            "alt": "Cider & Milk frame 1",
+            "emphasis": "primary"
+          },
+          {
+            "id": "cider-and-milk-gallery-2",
+            "src": "/content-media/projects/cider-and-milk-gallery-2.jpg",
+            "alt": "Cider & Milk frame 2",
+            "emphasis": "support"
+          },
+          {
+            "id": "cider-and-milk-gallery-3",
+            "src": "/content-media/projects/cider-and-milk-gallery-3.jpg",
+            "alt": "Cider & Milk frame 3",
+            "emphasis": "support"
+          },
+          {
+            "id": "cider-and-milk-gallery-4",
+            "src": "/content-media/projects/cider-and-milk-gallery-4.jpg",
+            "alt": "Cider & Milk frame 4",
+            "emphasis": "support"
+          },
+          {
+            "id": "cider-and-milk-gallery-5",
+            "src": "/content-media/projects/cider-and-milk-gallery-5.jpg",
+            "alt": "Cider & Milk frame 5",
+            "emphasis": "support"
+          },
+          {
+            "id": "cider-and-milk-gallery-6",
+            "src": "/content-media/projects/cider-and-milk-gallery-6.jpg",
+            "alt": "Cider & Milk frame 6",
+            "emphasis": "support"
+          }
+        ],
+        "gallery_items": [],
+        "source_image_assets": [
+          "assets/images/27429fc522-84770f_73d3b7c36e7444659a116dcb7af8111a-mv2_d_2346_1998_s_2.jpg",
+          "assets/images/322308ae79-84770f_165a5bf35a7c4433916d479ef59fc892-mv2_d_1784_1397_s_2.jpg",
+          "assets/images/351c1f44aa-84770f_1af4da112fae4274aadc243dbbf52eff-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/3a906c38ce-84770f_705a500515b744fb999117d5f4c2255a-mv2_d_1347_1998_s_2.jpg",
+          "assets/images/423c0916ac-84770f_8207ddd48ca4462cb141670ccc8804d7-mv2_d_2220_1878_s_2.jpg",
+          "assets/images/49dada2014-84770f_6dd4d6b485ae4c1d98c802379bb4ac4e-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/4a0c1249bb-84770f_9813c7ae1d13444aba0993d9108677dc-mv2_d_2580_2478_s_4_2.jpg",
+          "assets/images/6222c72dcb-84770f_59fad4729656472bae0ca6f172abc8ab-mv2_d_2224_2224_s_2.jpg",
+          "assets/images/6a0f7d5041-ea26fd_6776507c83b849b28657a1b97cbaef8b-mv2_d_5237_2755_s_4_2.png",
+          "assets/images/770702f6aa-84770f_e1cb3414c10448de85f428faccc26303-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/7d247c71cb-84770f_a085bd57770a424c8efc882870d36273-mv2_d_1920_1244_s_2.jpg",
+          "assets/images/8f31beb943-84770f_37cc6bca0fa94fc0843452a5bea86aa5-mv2_d_2840_2840_s_4_2.jpg"
+        ],
+        "source_video_assets": [],
+        "video_asset_ids": []
+      },
+      "clean_text": "Cider & Milk I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Service Identity & Branding, Print, Digital & Web Client Cider & Milk Year 2023 Cider & Milk I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Stationary I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Website Design I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Get 20% OFFFFFFFF",
+      "source_warnings": [],
+      "source_refs": [
+        "sources/old-website/data/projects.json#cider-and-milk",
+        "sources/old-website/content/pages/cider-and-milk.md"
+      ],
+      "archive_reason": "placeholder-template-route",
+      "placeholder": true
+    },
+    {
+      "id": "seasalt",
+      "slug": "seasalt",
+      "route": "/archive/seasalt",
+      "title": "Seasalt",
+      "status": "archive",
+      "case_study_type": "archive-fragment",
+      "page_kind": "portfolio",
+      "hero_heading": "Seasalt",
+      "hero_summary": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+      "primary_client": "Seasalt Restaurant",
+      "clients": [
+        "Seasalt Restaurant"
+      ],
+      "primary_service": "Identity & Branding",
+      "services": [
+        "Identity & Branding"
+      ],
+      "year": "2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+      "years": [
+        "2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font."
+      ],
+      "featured_rank": null,
+      "gallery_mode": "story-first",
+      "credits": {},
+      "credits_text": "",
+      "narrative_sections": [
+        {
+          "heading": "Stationary",
+          "content": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font."
+        }
+      ],
+      "outcome_sections": [],
+      "media": {
+        "cover_image": "/content-media/projects/seasalt-cover.png",
+        "local_image_count": 15,
+        "local_video_count": 0,
+        "gallery_images": [
+          {
+            "id": "seasalt-gallery-1",
+            "src": "/content-media/projects/seasalt-cover.png",
+            "alt": "Seasalt frame 1",
+            "emphasis": "primary"
+          },
+          {
+            "id": "seasalt-gallery-2",
+            "src": "/content-media/projects/seasalt-gallery-2.jpg",
+            "alt": "Seasalt frame 2",
+            "emphasis": "support"
+          },
+          {
+            "id": "seasalt-gallery-3",
+            "src": "/content-media/projects/seasalt-gallery-3.jpg",
+            "alt": "Seasalt frame 3",
+            "emphasis": "support"
+          },
+          {
+            "id": "seasalt-gallery-4",
+            "src": "/content-media/projects/seasalt-gallery-4.jpg",
+            "alt": "Seasalt frame 4",
+            "emphasis": "support"
+          },
+          {
+            "id": "seasalt-gallery-5",
+            "src": "/content-media/projects/seasalt-gallery-5.jpg",
+            "alt": "Seasalt frame 5",
+            "emphasis": "support"
+          },
+          {
+            "id": "seasalt-gallery-6",
+            "src": "/content-media/projects/seasalt-gallery-6.jpg",
+            "alt": "Seasalt frame 6",
+            "emphasis": "support"
+          }
+        ],
+        "gallery_items": [],
+        "source_image_assets": [
+          "assets/images/12c9916d15-84770f_b15004725ba14c3da631b302377ade8e-mv2.png",
+          "assets/images/1979b79afd-84770f_3da701067133484a8174f9d001aef917-mv2_d_2346_1998_s_2.jpg",
+          "assets/images/19d2f3d521-84770f_cd4e5f04f07c4685bc6bf2a8e9a161eb-mv2_d_3516_1332_s_2.jpg",
+          "assets/images/445c665b7b-84770f_bce6b0f820304d6b9f89ff40c22d13d4-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/499a081f58-84770f_284e54a1f8d24697aaeff41b61cee214-mv2_d_3000_2000_s_2.jpg",
+          "assets/images/49dada2014-84770f_6dd4d6b485ae4c1d98c802379bb4ac4e-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/4f19d18c56-84770f_9e50f4b8eb8c40a4a85a194671562188-mv2_d_2346_1998_s_2.jpg",
+          "assets/images/770702f6aa-84770f_e1cb3414c10448de85f428faccc26303-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/80dc348526-84770f_449e44313e9f47ccb504e102a3643c7d-mv2_d_2346_1998_s_2.jpg",
+          "assets/images/8f31beb943-84770f_37cc6bca0fa94fc0843452a5bea86aa5-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/941eea0ce6-84770f_e6a3bc6aacd8489999890180f7a68dd2-mv2_d_2346_1998_s_2.jpg",
+          "assets/images/b9e0f83d67-84770f_bf19e3d938c94366ba61b62ac4ebe272-mv2_d_2840_2840_s_4_2.jpg"
+        ],
+        "source_video_assets": [],
+        "video_asset_ids": []
+      },
+      "clean_text": "Seasalt I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Service Identity & Branding Client Seasalt Restaurant Year 2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Stationary I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+      "source_warnings": [],
+      "source_refs": [
+        "sources/old-website/data/projects.json#seasalt",
+        "sources/old-website/content/pages/seasalt.md"
+      ],
+      "archive_reason": "placeholder-template-route",
+      "placeholder": true
+    },
+    {
+      "id": "tune-speaker",
+      "slug": "tune-speaker",
+      "route": "/archive/tune-speaker",
+      "title": "Tune Speaker",
+      "status": "archive",
+      "case_study_type": "archive-fragment",
+      "page_kind": "portfolio",
+      "hero_heading": "Tune Speaker",
+      "hero_summary": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+      "primary_client": "Tune Sound",
+      "clients": [
+        "Tune Sound"
+      ],
+      "primary_service": "Art Direction, Print",
+      "services": [
+        "Art Direction, Print"
+      ],
+      "year": "2023",
+      "years": [
+        "2023"
+      ],
+      "featured_rank": null,
+      "gallery_mode": "story-first",
+      "credits": {},
+      "credits_text": "",
+      "narrative_sections": [
+        {
+          "heading": "I'm a paragraph. Click here to add your own text and edit me.",
+          "content": "It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me."
+        },
+        {
+          "heading": "The Campaign",
+          "content": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font."
+        }
+      ],
+      "outcome_sections": [],
+      "media": {
+        "cover_image": "/content-media/projects/tune-speaker-cover.jpg",
+        "local_image_count": 14,
+        "local_video_count": 0,
+        "gallery_images": [
+          {
+            "id": "tune-speaker-gallery-1",
+            "src": "/content-media/projects/tune-speaker-cover.jpg",
+            "alt": "Tune Speaker frame 1",
+            "emphasis": "primary"
+          },
+          {
+            "id": "tune-speaker-gallery-2",
+            "src": "/content-media/projects/tune-speaker-gallery-2.jpg",
+            "alt": "Tune Speaker frame 2",
+            "emphasis": "support"
+          },
+          {
+            "id": "tune-speaker-gallery-3",
+            "src": "/content-media/projects/tune-speaker-gallery-3.jpg",
+            "alt": "Tune Speaker frame 3",
+            "emphasis": "support"
+          },
+          {
+            "id": "tune-speaker-gallery-4",
+            "src": "/content-media/projects/tune-speaker-gallery-4.jpg",
+            "alt": "Tune Speaker frame 4",
+            "emphasis": "support"
+          },
+          {
+            "id": "tune-speaker-gallery-5",
+            "src": "/content-media/projects/tune-speaker-gallery-5.jpg",
+            "alt": "Tune Speaker frame 5",
+            "emphasis": "support"
+          },
+          {
+            "id": "tune-speaker-gallery-6",
+            "src": "/content-media/projects/tune-speaker-gallery-6.jpg",
+            "alt": "Tune Speaker frame 6",
+            "emphasis": "support"
+          }
+        ],
+        "gallery_items": [],
+        "source_image_assets": [
+          "assets/images/1244b7381e-84770f_f344940177124a7db1e7ce1164b3a6c5-mv2_d_2523_1588_s_2.jpg",
+          "assets/images/28bcf869ee-84770f_c5e037849674427daf208b2fb4c66f34-mv2_d_3135_1998_s_2.jpg",
+          "assets/images/351c1f44aa-84770f_1af4da112fae4274aadc243dbbf52eff-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/3f05be6883-84770f_a7177c20c4d04180814ad617f3ebb49c-mv2_d_2025_1998_s_2.jpg",
+          "assets/images/445c665b7b-84770f_bce6b0f820304d6b9f89ff40c22d13d4-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/49dada2014-84770f_6dd4d6b485ae4c1d98c802379bb4ac4e-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/627a2b3bae-84770f_b65ba589c9534bdf8f1ec68c544220e3-mv2.jpg",
+          "assets/images/770702f6aa-84770f_e1cb3414c10448de85f428faccc26303-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/7dd814ebbe-84770f_fe67b217054442539499eaa34078ca24-mv2_d_2782_1802_s_2.jpg",
+          "assets/images/8f31beb943-84770f_37cc6bca0fa94fc0843452a5bea86aa5-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/b9e0f83d67-84770f_bf19e3d938c94366ba61b62ac4ebe272-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/bf852dca99-dd4e19_cedf7c7c65604fe4b55695791e9f634c-mv2.png"
+        ],
+        "source_video_assets": [],
+        "video_asset_ids": []
+      },
+      "clean_text": "Tune Speaker I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Service Art Direction, Print Client Tune Sound Year 2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. The Campaign I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+      "source_warnings": [],
+      "source_refs": [
+        "sources/old-website/data/projects.json#tune-speaker",
+        "sources/old-website/content/pages/tune-speaker.md"
+      ],
+      "archive_reason": "placeholder-template-route",
+      "placeholder": true
+    },
+    {
+      "id": "vito-coffee",
+      "slug": "vito-coffee",
+      "route": "/archive/vito-coffee",
+      "title": "Vito Coffee",
+      "status": "archive",
+      "case_study_type": "archive-fragment",
+      "page_kind": "portfolio",
+      "hero_heading": "Vito Coffee",
+      "hero_summary": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+      "primary_client": "Vito Coffee",
+      "clients": [
+        "Vito Coffee"
+      ],
+      "primary_service": "Print, Art Direction",
+      "services": [
+        "Print, Art Direction"
+      ],
+      "year": "2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+      "years": [
+        "2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font."
+      ],
+      "featured_rank": null,
+      "gallery_mode": "story-first",
+      "credits": {},
+      "credits_text": "",
+      "narrative_sections": [
+        {
+          "heading": "Classic Edition",
+          "content": "I'm a paragraph. Click here to add your own text and edit me. Let your users get to know you."
+        },
+        {
+          "heading": "Strong Edition",
+          "content": "I'm a paragraph. Click here to add your own text and edit me. Let your users get to know you."
+        },
+        {
+          "heading": "Lite Edition",
+          "content": "I'm a paragraph. Click here to add your own text and edit me. Let your users get to know you."
+        },
+        {
+          "heading": "Fresh Coffee & More",
+          "content": "I'm a paragraph. Click here to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you."
+        }
+      ],
+      "outcome_sections": [],
+      "media": {
+        "cover_image": "/content-media/projects/vito-coffee-cover.jpg",
+        "local_image_count": 17,
+        "local_video_count": 0,
+        "gallery_images": [
+          {
+            "id": "vito-coffee-gallery-1",
+            "src": "/content-media/projects/vito-coffee-cover.jpg",
+            "alt": "Vito Coffee frame 1",
+            "emphasis": "primary"
+          },
+          {
+            "id": "vito-coffee-gallery-2",
+            "src": "/content-media/projects/vito-coffee-gallery-2.jpg",
+            "alt": "Vito Coffee frame 2",
+            "emphasis": "support"
+          },
+          {
+            "id": "vito-coffee-gallery-3",
+            "src": "/content-media/projects/vito-coffee-gallery-3.jpg",
+            "alt": "Vito Coffee frame 3",
+            "emphasis": "support"
+          },
+          {
+            "id": "vito-coffee-gallery-4",
+            "src": "/content-media/projects/vito-coffee-gallery-4.jpg",
+            "alt": "Vito Coffee frame 4",
+            "emphasis": "support"
+          },
+          {
+            "id": "vito-coffee-gallery-5",
+            "src": "/content-media/projects/vito-coffee-gallery-5.jpg",
+            "alt": "Vito Coffee frame 5",
+            "emphasis": "support"
+          },
+          {
+            "id": "vito-coffee-gallery-6",
+            "src": "/content-media/projects/vito-coffee-gallery-6.jpg",
+            "alt": "Vito Coffee frame 6",
+            "emphasis": "support"
+          }
+        ],
+        "gallery_items": [],
+        "source_image_assets": [
+          "assets/images/01e0bcaff8-84770f_188df6039ec54e28a5765d94902c243a-mv2_d_1347_1998_s_2.jpg",
+          "assets/images/15b2afec67-84770f_a1a7e183081344bfa3995427998b6866-mv2_d_1347_1998_s_2.jpg",
+          "assets/images/2457815fd4-84770f_9858a2b54c364aae91b12f2cfee92370-mv2_d_2346_1998_s_2.jpg",
+          "assets/images/351c1f44aa-84770f_1af4da112fae4274aadc243dbbf52eff-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/42f0b594d2-84770f_936b462406cb493e902f1be89805979c-mv2_d_2346_1998_s_2.jpg",
+          "assets/images/445c665b7b-84770f_bce6b0f820304d6b9f89ff40c22d13d4-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/4542f00460-84770f_14571f5a29174b2ea6e7bea4afbc4c24-mv2_d_1864_2984_s_2.jpg",
+          "assets/images/6dbeaeafea-84770f_ba7eddb41d60434080d63541f83ab526-mv2_d_3516_1332_s_2.jpg",
+          "assets/images/770702f6aa-84770f_e1cb3414c10448de85f428faccc26303-mv2_d_2840_2840_s_4_2.jpg",
+          "assets/images/7ca098c13e-84770f_66586890e2ba4152adcf89ab9bb96f70-mv2_d_1864_2984_s_2.jpg",
+          "assets/images/85e95dfc50-84770f_d8dc57b44c664855a34b6c0505c91f68-mv2_d_3000_2000_s_2.jpg",
+          "assets/images/8f31beb943-84770f_37cc6bca0fa94fc0843452a5bea86aa5-mv2_d_2840_2840_s_4_2.jpg"
+        ],
+        "source_video_assets": [],
+        "video_asset_ids": []
+      },
+      "clean_text": "Vito Coffee I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Service Print, Art Direction Client Vito Coffee Year 2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Classic Edition I'm a paragraph. Click here to add your own text and edit me. Let your users get to know you. Strong Edition I'm a paragraph. Click here to add your own text and edit me. Let your users get to know you. Lite Edition I'm a paragraph. Click here to add your own text and edit me. Let your users get to know you. Fresh Coffee & More I'm a paragraph. Click here to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you.",
+      "source_warnings": [],
+      "source_refs": [
+        "sources/old-website/data/projects.json#vito-coffee",
+        "sources/old-website/content/pages/vito-coffee.md"
+      ],
+      "archive_reason": "placeholder-template-route",
+      "placeholder": true
+    }
+  ],
+  "media_manifest": {
+    "images": [
+      {
+        "id": "cover-agm-glory",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-glory-cover.jpg",
+        "source_url": "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-glory",
+        "purpose": "cover",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-glory-2",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-glory-gallery-2.png",
+        "source_url": "assets/images/13bb937615-dd4e19_5df69d8fecd248aa8ea7c94afe5234ff-mv2.png",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-glory",
+        "purpose": "gallery-2",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-glory-3",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-glory-gallery-3.jpg",
+        "source_url": "assets/images/19c245669b-dd4e19_bd491b319a5e4157abaa73441d56fb12f001.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-glory",
+        "purpose": "gallery-3",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-glory-4",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-glory-gallery-4.jpg",
+        "source_url": "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-glory",
+        "purpose": "gallery-4",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-glory-5",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-glory-gallery-5.jpg",
+        "source_url": "assets/images/247975d8ff-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f003.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-glory",
+        "purpose": "gallery-5",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-glory-6",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-glory-gallery-6.jpg",
+        "source_url": "assets/images/35eb184aba-dd4e19_98842e4ea82f49e1bc9d63d48c241b15-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-glory",
+        "purpose": "gallery-6",
+        "status": "available-local"
+      },
+      {
+        "id": "cover-agm-x2",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x2-cover.jpg",
+        "source_url": "assets/images/05d65c8c40-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f000.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x2",
+        "purpose": "cover",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-x2-2",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x2-gallery-2.jpg",
+        "source_url": "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x2",
+        "purpose": "gallery-2",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-x2-3",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x2-gallery-3.jpg",
+        "source_url": "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x2",
+        "purpose": "gallery-3",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-x2-4",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x2-gallery-4.jpg",
+        "source_url": "assets/images/1dcde9307d-dd4e19_384b5fa2ff4546c68ec9c14a0cfe535e-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x2",
+        "purpose": "gallery-4",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-x2-5",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x2-gallery-5.jpg",
+        "source_url": "assets/images/247975d8ff-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f003.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x2",
+        "purpose": "gallery-5",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-x2-6",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x2-gallery-6.jpg",
+        "source_url": "assets/images/404afb4751-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f000.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x2",
+        "purpose": "gallery-6",
+        "status": "available-local"
+      },
+      {
+        "id": "cover-agm-x2-football",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x2-football-cover.jpg",
+        "source_url": "assets/images/107ddae5c1-dd4e19_7c355d5c0564468d8b19afb38c7c74b1-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x2-football",
+        "purpose": "cover",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-x2-football-2",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x2-football-gallery-2.jpg",
+        "source_url": "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x2-football",
+        "purpose": "gallery-2",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-x2-football-3",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x2-football-gallery-3.jpg",
+        "source_url": "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x2-football",
+        "purpose": "gallery-3",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-x2-football-4",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x2-football-gallery-4.jpg",
+        "source_url": "assets/images/62c90e079e-dd4e19_1c4d4bc21b5841ada020a126a568efe7-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x2-football",
+        "purpose": "gallery-4",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-x2-football-5",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x2-football-gallery-5.jpg",
+        "source_url": "assets/images/6848fdd94a-dd4e19_b33327b5160948dfa7084c8ea1ca09ef-mv2_d_1920_1280_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x2-football",
+        "purpose": "gallery-5",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-x2-football-6",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x2-football-gallery-6.jpg",
+        "source_url": "assets/images/74660d2a46-dd4e19_0d0969e4285b4596b68e32c28fabae1a-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x2-football",
+        "purpose": "gallery-6",
+        "status": "available-local"
+      },
+      {
+        "id": "cover-agm-x3",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x3-cover.jpg",
+        "source_url": "assets/images/05d65c8c40-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f000.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x3",
+        "purpose": "cover",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-x3-2",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x3-gallery-2.jpg",
+        "source_url": "assets/images/12676a6314-dd4e19_98c119e6779d47cb81b6d4df210f9cb0-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x3",
+        "purpose": "gallery-2",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-x3-3",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x3-gallery-3.jpg",
+        "source_url": "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x3",
+        "purpose": "gallery-3",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-x3-4",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x3-gallery-4.jpg",
+        "source_url": "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x3",
+        "purpose": "gallery-4",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-x3-5",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x3-gallery-5.jpg",
+        "source_url": "assets/images/247975d8ff-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f003.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x3",
+        "purpose": "gallery-5",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-x3-6",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x3-gallery-6.jpg",
+        "source_url": "assets/images/2f14f246f0-dd4e19_f50a7c290d8048bd900c3830a5836f84-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x3",
+        "purpose": "gallery-6",
+        "status": "available-local"
+      },
+      {
+        "id": "cover-agm-x5",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x5-cover.jpg",
+        "source_url": "assets/images/05d65c8c40-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f000.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x5",
+        "purpose": "cover",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-x5-2",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x5-gallery-2.jpg",
+        "source_url": "assets/images/084568a04e-dd4e19_b4023eaad6ca47288f78c8133963ad27-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x5",
+        "purpose": "gallery-2",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-x5-3",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x5-gallery-3.jpg",
+        "source_url": "assets/images/0a254575e1-dd4e19_00ac04a3aa164cdf80461824ba4a3e41-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x5",
+        "purpose": "gallery-3",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-x5-4",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x5-gallery-4.jpg",
+        "source_url": "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x5",
+        "purpose": "gallery-4",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-x5-5",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x5-gallery-5.jpg",
+        "source_url": "assets/images/19c245669b-dd4e19_bd491b319a5e4157abaa73441d56fb12f001.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x5",
+        "purpose": "gallery-5",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-agm-x5-6",
+        "kind": "image",
+        "local_path": "/content-media/projects/agm-x5-gallery-6.jpg",
+        "source_url": "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "agm-x5",
+        "purpose": "gallery-6",
+        "status": "available-local"
+      },
+      {
+        "id": "cover-alpha-source",
+        "kind": "image",
+        "local_path": "/content-media/projects/alpha-source-cover.jpg",
+        "source_url": "assets/images/351c1f44aa-84770f_1af4da112fae4274aadc243dbbf52eff-mv2_d_2840_2840_s_4_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "alpha-source",
+        "purpose": "cover",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-alpha-source-2",
+        "kind": "image",
+        "local_path": "/content-media/projects/alpha-source-gallery-2.jpg",
+        "source_url": "assets/images/43747557dd-84770f_ee622583ca164bde8c5bc48eee9b6c03-mv2_d_2346_1998_s_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "alpha-source",
+        "purpose": "gallery-2",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-alpha-source-3",
+        "kind": "image",
+        "local_path": "/content-media/projects/alpha-source-gallery-3.jpg",
+        "source_url": "assets/images/445c665b7b-84770f_bce6b0f820304d6b9f89ff40c22d13d4-mv2_d_2840_2840_s_4_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "alpha-source",
+        "purpose": "gallery-3",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-alpha-source-4",
+        "kind": "image",
+        "local_path": "/content-media/projects/alpha-source-gallery-4.jpg",
+        "source_url": "assets/images/49dada2014-84770f_6dd4d6b485ae4c1d98c802379bb4ac4e-mv2_d_2840_2840_s_4_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "alpha-source",
+        "purpose": "gallery-4",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-alpha-source-5",
+        "kind": "image",
+        "local_path": "/content-media/projects/alpha-source-gallery-5.jpg",
+        "source_url": "assets/images/54574e2a8a-84770f_928ed17f2bfd4452941f5f563ce96002-mv2_d_3516_1332_s_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "alpha-source",
+        "purpose": "gallery-5",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-alpha-source-6",
+        "kind": "image",
+        "local_path": "/content-media/projects/alpha-source-gallery-6.jpg",
+        "source_url": "assets/images/8f31beb943-84770f_37cc6bca0fa94fc0843452a5bea86aa5-mv2_d_2840_2840_s_4_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "alpha-source",
+        "purpose": "gallery-6",
+        "status": "available-local"
+      },
+      {
+        "id": "cover-arte-artifacts",
+        "kind": "image",
+        "local_path": "/content-media/projects/arte-artifacts-cover.jpg",
+        "source_url": "assets/images/2dd983ca28-84770f_0095fda520864c578de7314cea083ecd-mv2_d_2346_1998_s_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "arte-artifacts",
+        "purpose": "cover",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-arte-artifacts-2",
+        "kind": "image",
+        "local_path": "/content-media/projects/arte-artifacts-gallery-2.jpg",
+        "source_url": "assets/images/351c1f44aa-84770f_1af4da112fae4274aadc243dbbf52eff-mv2_d_2840_2840_s_4_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "arte-artifacts",
+        "purpose": "gallery-2",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-arte-artifacts-3",
+        "kind": "image",
+        "local_path": "/content-media/projects/arte-artifacts-gallery-3.jpg",
+        "source_url": "assets/images/445c665b7b-84770f_bce6b0f820304d6b9f89ff40c22d13d4-mv2_d_2840_2840_s_4_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "arte-artifacts",
+        "purpose": "gallery-3",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-arte-artifacts-4",
+        "kind": "image",
+        "local_path": "/content-media/projects/arte-artifacts-gallery-4.jpg",
+        "source_url": "assets/images/49dada2014-84770f_6dd4d6b485ae4c1d98c802379bb4ac4e-mv2_d_2840_2840_s_4_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "arte-artifacts",
+        "purpose": "gallery-4",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-arte-artifacts-5",
+        "kind": "image",
+        "local_path": "/content-media/projects/arte-artifacts-gallery-5.jpg",
+        "source_url": "assets/images/5c64f5d031-84770f_fb2753aefa0e46af8923f5b4adf47a1f-mv2_d_3516_1332_s_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "arte-artifacts",
+        "purpose": "gallery-5",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-arte-artifacts-6",
+        "kind": "image",
+        "local_path": "/content-media/projects/arte-artifacts-gallery-6.jpg",
+        "source_url": "assets/images/770702f6aa-84770f_e1cb3414c10448de85f428faccc26303-mv2_d_2840_2840_s_4_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "arte-artifacts",
+        "purpose": "gallery-6",
+        "status": "available-local"
+      },
+      {
+        "id": "cover-cider-and-milk",
+        "kind": "image",
+        "local_path": "/content-media/projects/cider-and-milk-cover.jpg",
+        "source_url": "assets/images/27429fc522-84770f_73d3b7c36e7444659a116dcb7af8111a-mv2_d_2346_1998_s_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "cider-and-milk",
+        "purpose": "cover",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-cider-and-milk-2",
+        "kind": "image",
+        "local_path": "/content-media/projects/cider-and-milk-gallery-2.jpg",
+        "source_url": "assets/images/322308ae79-84770f_165a5bf35a7c4433916d479ef59fc892-mv2_d_1784_1397_s_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "cider-and-milk",
+        "purpose": "gallery-2",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-cider-and-milk-3",
+        "kind": "image",
+        "local_path": "/content-media/projects/cider-and-milk-gallery-3.jpg",
+        "source_url": "assets/images/351c1f44aa-84770f_1af4da112fae4274aadc243dbbf52eff-mv2_d_2840_2840_s_4_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "cider-and-milk",
+        "purpose": "gallery-3",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-cider-and-milk-4",
+        "kind": "image",
+        "local_path": "/content-media/projects/cider-and-milk-gallery-4.jpg",
+        "source_url": "assets/images/3a906c38ce-84770f_705a500515b744fb999117d5f4c2255a-mv2_d_1347_1998_s_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "cider-and-milk",
+        "purpose": "gallery-4",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-cider-and-milk-5",
+        "kind": "image",
+        "local_path": "/content-media/projects/cider-and-milk-gallery-5.jpg",
+        "source_url": "assets/images/423c0916ac-84770f_8207ddd48ca4462cb141670ccc8804d7-mv2_d_2220_1878_s_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "cider-and-milk",
+        "purpose": "gallery-5",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-cider-and-milk-6",
+        "kind": "image",
+        "local_path": "/content-media/projects/cider-and-milk-gallery-6.jpg",
+        "source_url": "assets/images/49dada2014-84770f_6dd4d6b485ae4c1d98c802379bb4ac4e-mv2_d_2840_2840_s_4_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "cider-and-milk",
+        "purpose": "gallery-6",
+        "status": "available-local"
+      },
+      {
+        "id": "cover-divine-heritage",
+        "kind": "image",
+        "local_path": "/content-media/projects/divine-heritage-cover.jpg",
+        "source_url": "assets/images/16b447918a-dd4e19_6cc8b716007049519b6f21f97002dc3d-mv2_d_1920_1280_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "divine-heritage",
+        "purpose": "cover",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-divine-heritage-2",
+        "kind": "image",
+        "local_path": "/content-media/projects/divine-heritage-gallery-2.jpg",
+        "source_url": "assets/images/1cb1a6d29a-dd4e19_c17ad23cf4f54d50b4e0d6ce6f638714-mv2_d_1920_1332_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "divine-heritage",
+        "purpose": "gallery-2",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-divine-heritage-3",
+        "kind": "image",
+        "local_path": "/content-media/projects/divine-heritage-gallery-3.jpg",
+        "source_url": "assets/images/1fd6d7ede9-dd4e19_6a5e62c55c2447b58fe0e6e9573f8b2d-mv2_d_1920_1369_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "divine-heritage",
+        "purpose": "gallery-3",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-divine-heritage-4",
+        "kind": "image",
+        "local_path": "/content-media/projects/divine-heritage-gallery-4.jpg",
+        "source_url": "assets/images/22dbe59213-dd4e19_c1dc7f679406482a9fa9931adf16b5e9-mv2_d_1400_1707_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "divine-heritage",
+        "purpose": "gallery-4",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-divine-heritage-5",
+        "kind": "image",
+        "local_path": "/content-media/projects/divine-heritage-gallery-5.jpg",
+        "source_url": "assets/images/36f1a4465c-dd4e19_cca85880cd484c149c09235e6770feee-mv2_d_2261_2079_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "divine-heritage",
+        "purpose": "gallery-5",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-divine-heritage-6",
+        "kind": "image",
+        "local_path": "/content-media/projects/divine-heritage-gallery-6.jpg",
+        "source_url": "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "divine-heritage",
+        "purpose": "gallery-6",
+        "status": "available-local"
+      },
+      {
+        "id": "cover-ikodoo",
+        "kind": "image",
+        "local_path": "/content-media/projects/ikodoo-cover.png",
+        "source_url": "assets/images/08fbd137be-dd4e19_178f005e66d6490d83332cb6b985e5ff-mv2.png",
+        "owner_record_type": "project",
+        "owner_record_slug": "ikodoo",
+        "purpose": "cover",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-ikodoo-2",
+        "kind": "image",
+        "local_path": "/content-media/projects/ikodoo-gallery-2.jpg",
+        "source_url": "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "ikodoo",
+        "purpose": "gallery-2",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-ikodoo-3",
+        "kind": "image",
+        "local_path": "/content-media/projects/ikodoo-gallery-3.png",
+        "source_url": "assets/images/13f7c55ed6-dd4e19_c75acad09c144ead8b87965d23a5834f-mv2.png",
+        "owner_record_type": "project",
+        "owner_record_slug": "ikodoo",
+        "purpose": "gallery-3",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-ikodoo-4",
+        "kind": "image",
+        "local_path": "/content-media/projects/ikodoo-gallery-4.png",
+        "source_url": "assets/images/160b3cbf73-dd4e19_1c24fde0a02f4af1b83c5149cfaed881-mv2.png",
+        "owner_record_type": "project",
+        "owner_record_slug": "ikodoo",
+        "purpose": "gallery-4",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-ikodoo-5",
+        "kind": "image",
+        "local_path": "/content-media/projects/ikodoo-gallery-5.png",
+        "source_url": "assets/images/17fd9b65d0-dd4e19_9cc518a34b9244409510ee4ec25f6728-mv2.png",
+        "owner_record_type": "project",
+        "owner_record_slug": "ikodoo",
+        "purpose": "gallery-5",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-ikodoo-6",
+        "kind": "image",
+        "local_path": "/content-media/projects/ikodoo-gallery-6.png",
+        "source_url": "assets/images/18bf4bf419-dd4e19_ab20afa4d6b84ca393c808df644750f6-mv2.png",
+        "owner_record_type": "project",
+        "owner_record_slug": "ikodoo",
+        "purpose": "gallery-6",
+        "status": "available-local"
+      },
+      {
+        "id": "cover-kaa",
+        "kind": "image",
+        "local_path": "/content-media/projects/kaa-cover.jpg",
+        "source_url": "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "kaa",
+        "purpose": "cover",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-kaa-2",
+        "kind": "image",
+        "local_path": "/content-media/projects/kaa-gallery-2.jpg",
+        "source_url": "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "kaa",
+        "purpose": "gallery-2",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-kaa-3",
+        "kind": "image",
+        "local_path": "/content-media/projects/kaa-gallery-3.jpg",
+        "source_url": "assets/images/62c90e079e-dd4e19_1c4d4bc21b5841ada020a126a568efe7-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "kaa",
+        "purpose": "gallery-3",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-kaa-4",
+        "kind": "image",
+        "local_path": "/content-media/projects/kaa-gallery-4.jpg",
+        "source_url": "assets/images/6848fdd94a-dd4e19_b33327b5160948dfa7084c8ea1ca09ef-mv2_d_1920_1280_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "kaa",
+        "purpose": "gallery-4",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-kaa-5",
+        "kind": "image",
+        "local_path": "/content-media/projects/kaa-gallery-5.jpg",
+        "source_url": "assets/images/74660d2a46-dd4e19_0d0969e4285b4596b68e32c28fabae1a-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "kaa",
+        "purpose": "gallery-5",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-kaa-6",
+        "kind": "image",
+        "local_path": "/content-media/projects/kaa-gallery-6.jpg",
+        "source_url": "assets/images/80089db7e1-dd4e19_746e6bedd0734a9882ab9c7747437e7a-mv2_d_1920_1280_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "kaa",
+        "purpose": "gallery-6",
+        "status": "available-local"
+      },
+      {
+        "id": "cover-oneplus-experience-store",
+        "kind": "image",
+        "local_path": "/content-media/projects/oneplus-experience-store-cover.jpg",
+        "source_url": "assets/images/12270c603b-dd4e19_60309273b3ee498cb27a112ce396e814-mv2_d_1920_1280_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "oneplus-experience-store",
+        "purpose": "cover",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-oneplus-experience-store-2",
+        "kind": "image",
+        "local_path": "/content-media/projects/oneplus-experience-store-gallery-2.jpg",
+        "source_url": "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "oneplus-experience-store",
+        "purpose": "gallery-2",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-oneplus-experience-store-3",
+        "kind": "image",
+        "local_path": "/content-media/projects/oneplus-experience-store-gallery-3.jpg",
+        "source_url": "assets/images/4df3fca15b-dd4e19_47721e6e07684e309652fbe7d1e71c94-mv2_d_1920_1280_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "oneplus-experience-store",
+        "purpose": "gallery-3",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-oneplus-experience-store-4",
+        "kind": "image",
+        "local_path": "/content-media/projects/oneplus-experience-store-gallery-4.jpg",
+        "source_url": "assets/images/5040e79a91-dd4e19_b15bb2b58d4d414587a2fec871b24591-mv2_d_1920_1288_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "oneplus-experience-store",
+        "purpose": "gallery-4",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-oneplus-experience-store-5",
+        "kind": "image",
+        "local_path": "/content-media/projects/oneplus-experience-store-gallery-5.jpg",
+        "source_url": "assets/images/56e436193b-dd4e19_1cf64753dfd144068d89faeac56df4a8-mv2_d_1920_1280_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "oneplus-experience-store",
+        "purpose": "gallery-5",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-oneplus-experience-store-6",
+        "kind": "image",
+        "local_path": "/content-media/projects/oneplus-experience-store-gallery-6.jpg",
+        "source_url": "assets/images/57bd106ece-dd4e19_74b814bfe6514c7e8d09d4932f83107d-mv2_d_1200_1800_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "oneplus-experience-store",
+        "purpose": "gallery-6",
+        "status": "available-local"
+      },
+      {
+        "id": "cover-oneplus-lava-red",
+        "kind": "image",
+        "local_path": "/content-media/projects/oneplus-lava-red-cover.jpg",
+        "source_url": "assets/images/0d3fa856fd-dd4e19_5e00ec785c554716b02e1ab5728c2715-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "oneplus-lava-red",
+        "purpose": "cover",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-oneplus-lava-red-2",
+        "kind": "image",
+        "local_path": "/content-media/projects/oneplus-lava-red-gallery-2.jpg",
+        "source_url": "assets/images/0d62d4eb12-dd4e19_c8d85b98d0c543b7aac9f8344b6baa41f001.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "oneplus-lava-red",
+        "purpose": "gallery-2",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-oneplus-lava-red-3",
+        "kind": "image",
+        "local_path": "/content-media/projects/oneplus-lava-red-gallery-3.jpg",
+        "source_url": "assets/images/135de83abc-dd4e19_e8e7ba9faf4341ce854420ee1f414b4cf002.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "oneplus-lava-red",
+        "purpose": "gallery-3",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-oneplus-lava-red-4",
+        "kind": "image",
+        "local_path": "/content-media/projects/oneplus-lava-red-gallery-4.jpg",
+        "source_url": "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "oneplus-lava-red",
+        "purpose": "gallery-4",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-oneplus-lava-red-5",
+        "kind": "image",
+        "local_path": "/content-media/projects/oneplus-lava-red-gallery-5.jpg",
+        "source_url": "assets/images/212c5511e3-dd4e19_a11ba906dee0466499bb886a55a890cb-mv2_d_1806_1209_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "oneplus-lava-red",
+        "purpose": "gallery-5",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-oneplus-lava-red-6",
+        "kind": "image",
+        "local_path": "/content-media/projects/oneplus-lava-red-gallery-6.jpg",
+        "source_url": "assets/images/23f4860b84-dd4e19_e8e7ba9faf4341ce854420ee1f414b4cf000.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "oneplus-lava-red",
+        "purpose": "gallery-6",
+        "status": "available-local"
+      },
+      {
+        "id": "cover-oneplus-softgold",
+        "kind": "image",
+        "local_path": "/content-media/projects/oneplus-softgold-cover.jpg",
+        "source_url": "assets/images/0062ac6d03-dd4e19_4eaa12654c084665b448fe23a178e99b-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "oneplus-softgold",
+        "purpose": "cover",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-oneplus-softgold-2",
+        "kind": "image",
+        "local_path": "/content-media/projects/oneplus-softgold-gallery-2.jpg",
+        "source_url": "assets/images/098aa35c06-dd4e19_8cc1810a46574b05b10bd5723fd21e8e-mv2_d_2393_1543_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "oneplus-softgold",
+        "purpose": "gallery-2",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-oneplus-softgold-3",
+        "kind": "image",
+        "local_path": "/content-media/projects/oneplus-softgold-gallery-3.jpg",
+        "source_url": "assets/images/10ed6e5fd2-dd4e19_0dfcca81758b4eb8b62bde92d48de438f002.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "oneplus-softgold",
+        "purpose": "gallery-3",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-oneplus-softgold-4",
+        "kind": "image",
+        "local_path": "/content-media/projects/oneplus-softgold-gallery-4.jpg",
+        "source_url": "assets/images/1548018865-dd4e19_938f1f18347f4e579b8a58b8c4d912f8-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "oneplus-softgold",
+        "purpose": "gallery-4",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-oneplus-softgold-5",
+        "kind": "image",
+        "local_path": "/content-media/projects/oneplus-softgold-gallery-5.jpg",
+        "source_url": "assets/images/1bdf47623a-dd4e19_47e42d2a45de4ccca6cebf502de1a0ae-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "oneplus-softgold",
+        "purpose": "gallery-5",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-oneplus-softgold-6",
+        "kind": "image",
+        "local_path": "/content-media/projects/oneplus-softgold-gallery-6.jpg",
+        "source_url": "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "oneplus-softgold",
+        "purpose": "gallery-6",
+        "status": "available-local"
+      },
+      {
+        "id": "cover-op-roadtrip",
+        "kind": "image",
+        "local_path": "/content-media/projects/op-roadtrip-cover.jpg",
+        "source_url": "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "op-roadtrip",
+        "purpose": "cover",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-op-roadtrip-2",
+        "kind": "image",
+        "local_path": "/content-media/projects/op-roadtrip-gallery-2.jpg",
+        "source_url": "assets/images/19c245669b-dd4e19_bd491b319a5e4157abaa73441d56fb12f001.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "op-roadtrip",
+        "purpose": "gallery-2",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-op-roadtrip-3",
+        "kind": "image",
+        "local_path": "/content-media/projects/op-roadtrip-gallery-3.jpg",
+        "source_url": "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "op-roadtrip",
+        "purpose": "gallery-3",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-op-roadtrip-4",
+        "kind": "image",
+        "local_path": "/content-media/projects/op-roadtrip-gallery-4.jpg",
+        "source_url": "assets/images/247975d8ff-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f003.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "op-roadtrip",
+        "purpose": "gallery-4",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-op-roadtrip-5",
+        "kind": "image",
+        "local_path": "/content-media/projects/op-roadtrip-gallery-5.jpg",
+        "source_url": "assets/images/404afb4751-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f000.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "op-roadtrip",
+        "purpose": "gallery-5",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-op-roadtrip-6",
+        "kind": "image",
+        "local_path": "/content-media/projects/op-roadtrip-gallery-6.jpg",
+        "source_url": "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "op-roadtrip",
+        "purpose": "gallery-6",
+        "status": "available-local"
+      },
+      {
+        "id": "cover-re-outland",
+        "kind": "image",
+        "local_path": "/content-media/projects/re-outland-cover.jpg",
+        "source_url": "assets/images/0c9aa68b06-dd4e19_7472751f8c1646de82a0e647adceac25-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "re-outland",
+        "purpose": "cover",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-re-outland-2",
+        "kind": "image",
+        "local_path": "/content-media/projects/re-outland-gallery-2.jpg",
+        "source_url": "assets/images/0fc17709ea-dd4e19_79d4586e995c4e9baa57b6d7a05d3c0e-mv2_d_1920_1411_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "re-outland",
+        "purpose": "gallery-2",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-re-outland-3",
+        "kind": "image",
+        "local_path": "/content-media/projects/re-outland-gallery-3.jpg",
+        "source_url": "assets/images/1a414df5bb-dd4e19_0c67238d4ad4466aaee7c99080dea3fa-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "re-outland",
+        "purpose": "gallery-3",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-re-outland-4",
+        "kind": "image",
+        "local_path": "/content-media/projects/re-outland-gallery-4.jpg",
+        "source_url": "assets/images/1dd1b2413f-dd4e19_d6f5f3f9c67e419b8a719c4321769334f001.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "re-outland",
+        "purpose": "gallery-4",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-re-outland-5",
+        "kind": "image",
+        "local_path": "/content-media/projects/re-outland-gallery-5.jpg",
+        "source_url": "assets/images/408bd471dc-dd4e19_a5165affe86145a5b7a1fec20b6069ab-mv2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "re-outland",
+        "purpose": "gallery-5",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-re-outland-6",
+        "kind": "image",
+        "local_path": "/content-media/projects/re-outland-gallery-6.jpg",
+        "source_url": "assets/images/42b8bf1413-dd4e19_17ff707ad67c47f8a3a7e565c2157c47-mv2_d_1920_1285_s_2.jpg",
+        "owner_record_type": "project",
+        "owner_record_slug": "re-outland",
+        "purpose": "gallery-6",
+        "status": "available-local"
+      },
+      {
+        "id": "cover-seasalt",
+        "kind": "image",
+        "local_path": "/content-media/projects/seasalt-cover.png",
+        "source_url": "assets/images/12c9916d15-84770f_b15004725ba14c3da631b302377ade8e-mv2.png",
+        "owner_record_type": "archive",
+        "owner_record_slug": "seasalt",
+        "purpose": "cover",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-seasalt-2",
+        "kind": "image",
+        "local_path": "/content-media/projects/seasalt-gallery-2.jpg",
+        "source_url": "assets/images/1979b79afd-84770f_3da701067133484a8174f9d001aef917-mv2_d_2346_1998_s_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "seasalt",
+        "purpose": "gallery-2",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-seasalt-3",
+        "kind": "image",
+        "local_path": "/content-media/projects/seasalt-gallery-3.jpg",
+        "source_url": "assets/images/19d2f3d521-84770f_cd4e5f04f07c4685bc6bf2a8e9a161eb-mv2_d_3516_1332_s_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "seasalt",
+        "purpose": "gallery-3",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-seasalt-4",
+        "kind": "image",
+        "local_path": "/content-media/projects/seasalt-gallery-4.jpg",
+        "source_url": "assets/images/445c665b7b-84770f_bce6b0f820304d6b9f89ff40c22d13d4-mv2_d_2840_2840_s_4_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "seasalt",
+        "purpose": "gallery-4",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-seasalt-5",
+        "kind": "image",
+        "local_path": "/content-media/projects/seasalt-gallery-5.jpg",
+        "source_url": "assets/images/499a081f58-84770f_284e54a1f8d24697aaeff41b61cee214-mv2_d_3000_2000_s_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "seasalt",
+        "purpose": "gallery-5",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-seasalt-6",
+        "kind": "image",
+        "local_path": "/content-media/projects/seasalt-gallery-6.jpg",
+        "source_url": "assets/images/49dada2014-84770f_6dd4d6b485ae4c1d98c802379bb4ac4e-mv2_d_2840_2840_s_4_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "seasalt",
+        "purpose": "gallery-6",
+        "status": "available-local"
+      },
+      {
+        "id": "cover-tune-speaker",
+        "kind": "image",
+        "local_path": "/content-media/projects/tune-speaker-cover.jpg",
+        "source_url": "assets/images/1244b7381e-84770f_f344940177124a7db1e7ce1164b3a6c5-mv2_d_2523_1588_s_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "tune-speaker",
+        "purpose": "cover",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-tune-speaker-2",
+        "kind": "image",
+        "local_path": "/content-media/projects/tune-speaker-gallery-2.jpg",
+        "source_url": "assets/images/28bcf869ee-84770f_c5e037849674427daf208b2fb4c66f34-mv2_d_3135_1998_s_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "tune-speaker",
+        "purpose": "gallery-2",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-tune-speaker-3",
+        "kind": "image",
+        "local_path": "/content-media/projects/tune-speaker-gallery-3.jpg",
+        "source_url": "assets/images/351c1f44aa-84770f_1af4da112fae4274aadc243dbbf52eff-mv2_d_2840_2840_s_4_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "tune-speaker",
+        "purpose": "gallery-3",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-tune-speaker-4",
+        "kind": "image",
+        "local_path": "/content-media/projects/tune-speaker-gallery-4.jpg",
+        "source_url": "assets/images/3f05be6883-84770f_a7177c20c4d04180814ad617f3ebb49c-mv2_d_2025_1998_s_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "tune-speaker",
+        "purpose": "gallery-4",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-tune-speaker-5",
+        "kind": "image",
+        "local_path": "/content-media/projects/tune-speaker-gallery-5.jpg",
+        "source_url": "assets/images/445c665b7b-84770f_bce6b0f820304d6b9f89ff40c22d13d4-mv2_d_2840_2840_s_4_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "tune-speaker",
+        "purpose": "gallery-5",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-tune-speaker-6",
+        "kind": "image",
+        "local_path": "/content-media/projects/tune-speaker-gallery-6.jpg",
+        "source_url": "assets/images/49dada2014-84770f_6dd4d6b485ae4c1d98c802379bb4ac4e-mv2_d_2840_2840_s_4_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "tune-speaker",
+        "purpose": "gallery-6",
+        "status": "available-local"
+      },
+      {
+        "id": "cover-vito-coffee",
+        "kind": "image",
+        "local_path": "/content-media/projects/vito-coffee-cover.jpg",
+        "source_url": "assets/images/01e0bcaff8-84770f_188df6039ec54e28a5765d94902c243a-mv2_d_1347_1998_s_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "vito-coffee",
+        "purpose": "cover",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-vito-coffee-2",
+        "kind": "image",
+        "local_path": "/content-media/projects/vito-coffee-gallery-2.jpg",
+        "source_url": "assets/images/15b2afec67-84770f_a1a7e183081344bfa3995427998b6866-mv2_d_1347_1998_s_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "vito-coffee",
+        "purpose": "gallery-2",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-vito-coffee-3",
+        "kind": "image",
+        "local_path": "/content-media/projects/vito-coffee-gallery-3.jpg",
+        "source_url": "assets/images/2457815fd4-84770f_9858a2b54c364aae91b12f2cfee92370-mv2_d_2346_1998_s_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "vito-coffee",
+        "purpose": "gallery-3",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-vito-coffee-4",
+        "kind": "image",
+        "local_path": "/content-media/projects/vito-coffee-gallery-4.jpg",
+        "source_url": "assets/images/351c1f44aa-84770f_1af4da112fae4274aadc243dbbf52eff-mv2_d_2840_2840_s_4_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "vito-coffee",
+        "purpose": "gallery-4",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-vito-coffee-5",
+        "kind": "image",
+        "local_path": "/content-media/projects/vito-coffee-gallery-5.jpg",
+        "source_url": "assets/images/42f0b594d2-84770f_936b462406cb493e902f1be89805979c-mv2_d_2346_1998_s_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "vito-coffee",
+        "purpose": "gallery-5",
+        "status": "available-local"
+      },
+      {
+        "id": "gallery-vito-coffee-6",
+        "kind": "image",
+        "local_path": "/content-media/projects/vito-coffee-gallery-6.jpg",
+        "source_url": "assets/images/445c665b7b-84770f_bce6b0f820304d6b9f89ff40c22d13d4-mv2_d_2840_2840_s_4_2.jpg",
+        "owner_record_type": "archive",
+        "owner_record_slug": "vito-coffee",
+        "purpose": "gallery-6",
+        "status": "available-local"
+      }
+    ],
+    "videos": [],
+    "missing_assets": [],
+    "source_warnings": []
+  }
+}
