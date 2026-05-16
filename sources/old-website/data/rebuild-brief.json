@@ -1,0 +1,60 @@
+{
+  "primary_goal": "Use the preserved Newsense legacy site as source material for a replacement website and digital-asset upgrade pass.",
+  "core_routes": [
+    "about",
+    "contact",
+    "home"
+  ],
+  "portfolio_routes": [
+    "agm-glory",
+    "agm-x2",
+    "agm-x2-football",
+    "agm-x3",
+    "agm-x5",
+    "alpha-source",
+    "arte-artifacts",
+    "cider-and-milk",
+    "divine-heritage",
+    "ikodoo",
+    "kaa",
+    "oneplus-experience-store",
+    "oneplus-lava-red",
+    "oneplus-softgold",
+    "op-roadtrip",
+    "re-outland",
+    "seasalt",
+    "tune-speaker",
+    "vito-coffee"
+  ],
+  "hidden_routes_recovered": [
+    "agm-x2",
+    "agm-x2-football",
+    "divine-heritage",
+    "fullscreen-page",
+    "oneplus-experience-store",
+    "oneplus-softgold"
+  ],
+  "placeholder_routes": [
+    "alpha-source",
+    "arte-artifacts",
+    "cider-and-milk",
+    "seasalt",
+    "tune-speaker",
+    "vito-coffee"
+  ],
+  "contact": {
+    "emails": [
+      "newsense.xyz@gmail.com"
+    ],
+    "phones": [
+      "+91 80952 59587"
+    ],
+    "address": "#6, MS Layout, Jaraganahalli, JP Nagar 6th phase, Bengaluru - 560078",
+    "form_prompt": "Budget Estimate Submit Thanks for reaching out to us!"
+  },
+  "team_count": 3,
+  "portfolio_route_count": 19,
+  "image_asset_count": 297,
+  "video_binary_count": 13,
+  "video_asset_reference_count": 21
+}

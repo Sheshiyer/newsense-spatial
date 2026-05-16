@@ -1,0 +1,1147 @@
+{
+  "images": [
+    {
+      "id": "cover-agm-glory",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-glory-cover.jpg",
+      "source_url": "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-glory",
+      "purpose": "cover",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-glory-2",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-glory-gallery-2.png",
+      "source_url": "assets/images/13bb937615-dd4e19_5df69d8fecd248aa8ea7c94afe5234ff-mv2.png",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-glory",
+      "purpose": "gallery-2",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-glory-3",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-glory-gallery-3.jpg",
+      "source_url": "assets/images/19c245669b-dd4e19_bd491b319a5e4157abaa73441d56fb12f001.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-glory",
+      "purpose": "gallery-3",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-glory-4",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-glory-gallery-4.jpg",
+      "source_url": "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-glory",
+      "purpose": "gallery-4",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-glory-5",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-glory-gallery-5.jpg",
+      "source_url": "assets/images/247975d8ff-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f003.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-glory",
+      "purpose": "gallery-5",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-glory-6",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-glory-gallery-6.jpg",
+      "source_url": "assets/images/35eb184aba-dd4e19_98842e4ea82f49e1bc9d63d48c241b15-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-glory",
+      "purpose": "gallery-6",
+      "status": "available-local"
+    },
+    {
+      "id": "cover-agm-x2",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x2-cover.jpg",
+      "source_url": "assets/images/05d65c8c40-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f000.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x2",
+      "purpose": "cover",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-x2-2",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x2-gallery-2.jpg",
+      "source_url": "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x2",
+      "purpose": "gallery-2",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-x2-3",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x2-gallery-3.jpg",
+      "source_url": "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x2",
+      "purpose": "gallery-3",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-x2-4",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x2-gallery-4.jpg",
+      "source_url": "assets/images/1dcde9307d-dd4e19_384b5fa2ff4546c68ec9c14a0cfe535e-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x2",
+      "purpose": "gallery-4",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-x2-5",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x2-gallery-5.jpg",
+      "source_url": "assets/images/247975d8ff-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f003.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x2",
+      "purpose": "gallery-5",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-x2-6",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x2-gallery-6.jpg",
+      "source_url": "assets/images/404afb4751-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f000.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x2",
+      "purpose": "gallery-6",
+      "status": "available-local"
+    },
+    {
+      "id": "cover-agm-x2-football",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x2-football-cover.jpg",
+      "source_url": "assets/images/107ddae5c1-dd4e19_7c355d5c0564468d8b19afb38c7c74b1-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x2-football",
+      "purpose": "cover",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-x2-football-2",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x2-football-gallery-2.jpg",
+      "source_url": "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x2-football",
+      "purpose": "gallery-2",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-x2-football-3",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x2-football-gallery-3.jpg",
+      "source_url": "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x2-football",
+      "purpose": "gallery-3",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-x2-football-4",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x2-football-gallery-4.jpg",
+      "source_url": "assets/images/62c90e079e-dd4e19_1c4d4bc21b5841ada020a126a568efe7-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x2-football",
+      "purpose": "gallery-4",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-x2-football-5",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x2-football-gallery-5.jpg",
+      "source_url": "assets/images/6848fdd94a-dd4e19_b33327b5160948dfa7084c8ea1ca09ef-mv2_d_1920_1280_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x2-football",
+      "purpose": "gallery-5",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-x2-football-6",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x2-football-gallery-6.jpg",
+      "source_url": "assets/images/74660d2a46-dd4e19_0d0969e4285b4596b68e32c28fabae1a-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x2-football",
+      "purpose": "gallery-6",
+      "status": "available-local"
+    },
+    {
+      "id": "cover-agm-x3",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x3-cover.jpg",
+      "source_url": "assets/images/05d65c8c40-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f000.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x3",
+      "purpose": "cover",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-x3-2",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x3-gallery-2.jpg",
+      "source_url": "assets/images/12676a6314-dd4e19_98c119e6779d47cb81b6d4df210f9cb0-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x3",
+      "purpose": "gallery-2",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-x3-3",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x3-gallery-3.jpg",
+      "source_url": "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x3",
+      "purpose": "gallery-3",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-x3-4",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x3-gallery-4.jpg",
+      "source_url": "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x3",
+      "purpose": "gallery-4",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-x3-5",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x3-gallery-5.jpg",
+      "source_url": "assets/images/247975d8ff-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f003.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x3",
+      "purpose": "gallery-5",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-x3-6",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x3-gallery-6.jpg",
+      "source_url": "assets/images/2f14f246f0-dd4e19_f50a7c290d8048bd900c3830a5836f84-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x3",
+      "purpose": "gallery-6",
+      "status": "available-local"
+    },
+    {
+      "id": "cover-agm-x5",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x5-cover.jpg",
+      "source_url": "assets/images/05d65c8c40-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f000.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x5",
+      "purpose": "cover",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-x5-2",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x5-gallery-2.jpg",
+      "source_url": "assets/images/084568a04e-dd4e19_b4023eaad6ca47288f78c8133963ad27-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x5",
+      "purpose": "gallery-2",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-x5-3",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x5-gallery-3.jpg",
+      "source_url": "assets/images/0a254575e1-dd4e19_00ac04a3aa164cdf80461824ba4a3e41-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x5",
+      "purpose": "gallery-3",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-x5-4",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x5-gallery-4.jpg",
+      "source_url": "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x5",
+      "purpose": "gallery-4",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-x5-5",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x5-gallery-5.jpg",
+      "source_url": "assets/images/19c245669b-dd4e19_bd491b319a5e4157abaa73441d56fb12f001.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x5",
+      "purpose": "gallery-5",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-agm-x5-6",
+      "kind": "image",
+      "local_path": "/content-media/projects/agm-x5-gallery-6.jpg",
+      "source_url": "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "agm-x5",
+      "purpose": "gallery-6",
+      "status": "available-local"
+    },
+    {
+      "id": "cover-alpha-source",
+      "kind": "image",
+      "local_path": "/content-media/projects/alpha-source-cover.jpg",
+      "source_url": "assets/images/351c1f44aa-84770f_1af4da112fae4274aadc243dbbf52eff-mv2_d_2840_2840_s_4_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "alpha-source",
+      "purpose": "cover",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-alpha-source-2",
+      "kind": "image",
+      "local_path": "/content-media/projects/alpha-source-gallery-2.jpg",
+      "source_url": "assets/images/43747557dd-84770f_ee622583ca164bde8c5bc48eee9b6c03-mv2_d_2346_1998_s_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "alpha-source",
+      "purpose": "gallery-2",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-alpha-source-3",
+      "kind": "image",
+      "local_path": "/content-media/projects/alpha-source-gallery-3.jpg",
+      "source_url": "assets/images/445c665b7b-84770f_bce6b0f820304d6b9f89ff40c22d13d4-mv2_d_2840_2840_s_4_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "alpha-source",
+      "purpose": "gallery-3",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-alpha-source-4",
+      "kind": "image",
+      "local_path": "/content-media/projects/alpha-source-gallery-4.jpg",
+      "source_url": "assets/images/49dada2014-84770f_6dd4d6b485ae4c1d98c802379bb4ac4e-mv2_d_2840_2840_s_4_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "alpha-source",
+      "purpose": "gallery-4",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-alpha-source-5",
+      "kind": "image",
+      "local_path": "/content-media/projects/alpha-source-gallery-5.jpg",
+      "source_url": "assets/images/54574e2a8a-84770f_928ed17f2bfd4452941f5f563ce96002-mv2_d_3516_1332_s_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "alpha-source",
+      "purpose": "gallery-5",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-alpha-source-6",
+      "kind": "image",
+      "local_path": "/content-media/projects/alpha-source-gallery-6.jpg",
+      "source_url": "assets/images/8f31beb943-84770f_37cc6bca0fa94fc0843452a5bea86aa5-mv2_d_2840_2840_s_4_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "alpha-source",
+      "purpose": "gallery-6",
+      "status": "available-local"
+    },
+    {
+      "id": "cover-arte-artifacts",
+      "kind": "image",
+      "local_path": "/content-media/projects/arte-artifacts-cover.jpg",
+      "source_url": "assets/images/2dd983ca28-84770f_0095fda520864c578de7314cea083ecd-mv2_d_2346_1998_s_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "arte-artifacts",
+      "purpose": "cover",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-arte-artifacts-2",
+      "kind": "image",
+      "local_path": "/content-media/projects/arte-artifacts-gallery-2.jpg",
+      "source_url": "assets/images/351c1f44aa-84770f_1af4da112fae4274aadc243dbbf52eff-mv2_d_2840_2840_s_4_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "arte-artifacts",
+      "purpose": "gallery-2",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-arte-artifacts-3",
+      "kind": "image",
+      "local_path": "/content-media/projects/arte-artifacts-gallery-3.jpg",
+      "source_url": "assets/images/445c665b7b-84770f_bce6b0f820304d6b9f89ff40c22d13d4-mv2_d_2840_2840_s_4_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "arte-artifacts",
+      "purpose": "gallery-3",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-arte-artifacts-4",
+      "kind": "image",
+      "local_path": "/content-media/projects/arte-artifacts-gallery-4.jpg",
+      "source_url": "assets/images/49dada2014-84770f_6dd4d6b485ae4c1d98c802379bb4ac4e-mv2_d_2840_2840_s_4_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "arte-artifacts",
+      "purpose": "gallery-4",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-arte-artifacts-5",
+      "kind": "image",
+      "local_path": "/content-media/projects/arte-artifacts-gallery-5.jpg",
+      "source_url": "assets/images/5c64f5d031-84770f_fb2753aefa0e46af8923f5b4adf47a1f-mv2_d_3516_1332_s_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "arte-artifacts",
+      "purpose": "gallery-5",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-arte-artifacts-6",
+      "kind": "image",
+      "local_path": "/content-media/projects/arte-artifacts-gallery-6.jpg",
+      "source_url": "assets/images/770702f6aa-84770f_e1cb3414c10448de85f428faccc26303-mv2_d_2840_2840_s_4_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "arte-artifacts",
+      "purpose": "gallery-6",
+      "status": "available-local"
+    },
+    {
+      "id": "cover-cider-and-milk",
+      "kind": "image",
+      "local_path": "/content-media/projects/cider-and-milk-cover.jpg",
+      "source_url": "assets/images/27429fc522-84770f_73d3b7c36e7444659a116dcb7af8111a-mv2_d_2346_1998_s_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "cider-and-milk",
+      "purpose": "cover",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-cider-and-milk-2",
+      "kind": "image",
+      "local_path": "/content-media/projects/cider-and-milk-gallery-2.jpg",
+      "source_url": "assets/images/322308ae79-84770f_165a5bf35a7c4433916d479ef59fc892-mv2_d_1784_1397_s_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "cider-and-milk",
+      "purpose": "gallery-2",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-cider-and-milk-3",
+      "kind": "image",
+      "local_path": "/content-media/projects/cider-and-milk-gallery-3.jpg",
+      "source_url": "assets/images/351c1f44aa-84770f_1af4da112fae4274aadc243dbbf52eff-mv2_d_2840_2840_s_4_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "cider-and-milk",
+      "purpose": "gallery-3",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-cider-and-milk-4",
+      "kind": "image",
+      "local_path": "/content-media/projects/cider-and-milk-gallery-4.jpg",
+      "source_url": "assets/images/3a906c38ce-84770f_705a500515b744fb999117d5f4c2255a-mv2_d_1347_1998_s_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "cider-and-milk",
+      "purpose": "gallery-4",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-cider-and-milk-5",
+      "kind": "image",
+      "local_path": "/content-media/projects/cider-and-milk-gallery-5.jpg",
+      "source_url": "assets/images/423c0916ac-84770f_8207ddd48ca4462cb141670ccc8804d7-mv2_d_2220_1878_s_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "cider-and-milk",
+      "purpose": "gallery-5",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-cider-and-milk-6",
+      "kind": "image",
+      "local_path": "/content-media/projects/cider-and-milk-gallery-6.jpg",
+      "source_url": "assets/images/49dada2014-84770f_6dd4d6b485ae4c1d98c802379bb4ac4e-mv2_d_2840_2840_s_4_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "cider-and-milk",
+      "purpose": "gallery-6",
+      "status": "available-local"
+    },
+    {
+      "id": "cover-divine-heritage",
+      "kind": "image",
+      "local_path": "/content-media/projects/divine-heritage-cover.jpg",
+      "source_url": "assets/images/16b447918a-dd4e19_6cc8b716007049519b6f21f97002dc3d-mv2_d_1920_1280_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "divine-heritage",
+      "purpose": "cover",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-divine-heritage-2",
+      "kind": "image",
+      "local_path": "/content-media/projects/divine-heritage-gallery-2.jpg",
+      "source_url": "assets/images/1cb1a6d29a-dd4e19_c17ad23cf4f54d50b4e0d6ce6f638714-mv2_d_1920_1332_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "divine-heritage",
+      "purpose": "gallery-2",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-divine-heritage-3",
+      "kind": "image",
+      "local_path": "/content-media/projects/divine-heritage-gallery-3.jpg",
+      "source_url": "assets/images/1fd6d7ede9-dd4e19_6a5e62c55c2447b58fe0e6e9573f8b2d-mv2_d_1920_1369_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "divine-heritage",
+      "purpose": "gallery-3",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-divine-heritage-4",
+      "kind": "image",
+      "local_path": "/content-media/projects/divine-heritage-gallery-4.jpg",
+      "source_url": "assets/images/22dbe59213-dd4e19_c1dc7f679406482a9fa9931adf16b5e9-mv2_d_1400_1707_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "divine-heritage",
+      "purpose": "gallery-4",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-divine-heritage-5",
+      "kind": "image",
+      "local_path": "/content-media/projects/divine-heritage-gallery-5.jpg",
+      "source_url": "assets/images/36f1a4465c-dd4e19_cca85880cd484c149c09235e6770feee-mv2_d_2261_2079_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "divine-heritage",
+      "purpose": "gallery-5",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-divine-heritage-6",
+      "kind": "image",
+      "local_path": "/content-media/projects/divine-heritage-gallery-6.jpg",
+      "source_url": "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "divine-heritage",
+      "purpose": "gallery-6",
+      "status": "available-local"
+    },
+    {
+      "id": "cover-ikodoo",
+      "kind": "image",
+      "local_path": "/content-media/projects/ikodoo-cover.png",
+      "source_url": "assets/images/08fbd137be-dd4e19_178f005e66d6490d83332cb6b985e5ff-mv2.png",
+      "owner_record_type": "project",
+      "owner_record_slug": "ikodoo",
+      "purpose": "cover",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-ikodoo-2",
+      "kind": "image",
+      "local_path": "/content-media/projects/ikodoo-gallery-2.jpg",
+      "source_url": "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "ikodoo",
+      "purpose": "gallery-2",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-ikodoo-3",
+      "kind": "image",
+      "local_path": "/content-media/projects/ikodoo-gallery-3.png",
+      "source_url": "assets/images/13f7c55ed6-dd4e19_c75acad09c144ead8b87965d23a5834f-mv2.png",
+      "owner_record_type": "project",
+      "owner_record_slug": "ikodoo",
+      "purpose": "gallery-3",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-ikodoo-4",
+      "kind": "image",
+      "local_path": "/content-media/projects/ikodoo-gallery-4.png",
+      "source_url": "assets/images/160b3cbf73-dd4e19_1c24fde0a02f4af1b83c5149cfaed881-mv2.png",
+      "owner_record_type": "project",
+      "owner_record_slug": "ikodoo",
+      "purpose": "gallery-4",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-ikodoo-5",
+      "kind": "image",
+      "local_path": "/content-media/projects/ikodoo-gallery-5.png",
+      "source_url": "assets/images/17fd9b65d0-dd4e19_9cc518a34b9244409510ee4ec25f6728-mv2.png",
+      "owner_record_type": "project",
+      "owner_record_slug": "ikodoo",
+      "purpose": "gallery-5",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-ikodoo-6",
+      "kind": "image",
+      "local_path": "/content-media/projects/ikodoo-gallery-6.png",
+      "source_url": "assets/images/18bf4bf419-dd4e19_ab20afa4d6b84ca393c808df644750f6-mv2.png",
+      "owner_record_type": "project",
+      "owner_record_slug": "ikodoo",
+      "purpose": "gallery-6",
+      "status": "available-local"
+    },
+    {
+      "id": "cover-kaa",
+      "kind": "image",
+      "local_path": "/content-media/projects/kaa-cover.jpg",
+      "source_url": "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "kaa",
+      "purpose": "cover",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-kaa-2",
+      "kind": "image",
+      "local_path": "/content-media/projects/kaa-gallery-2.jpg",
+      "source_url": "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "kaa",
+      "purpose": "gallery-2",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-kaa-3",
+      "kind": "image",
+      "local_path": "/content-media/projects/kaa-gallery-3.jpg",
+      "source_url": "assets/images/62c90e079e-dd4e19_1c4d4bc21b5841ada020a126a568efe7-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "kaa",
+      "purpose": "gallery-3",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-kaa-4",
+      "kind": "image",
+      "local_path": "/content-media/projects/kaa-gallery-4.jpg",
+      "source_url": "assets/images/6848fdd94a-dd4e19_b33327b5160948dfa7084c8ea1ca09ef-mv2_d_1920_1280_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "kaa",
+      "purpose": "gallery-4",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-kaa-5",
+      "kind": "image",
+      "local_path": "/content-media/projects/kaa-gallery-5.jpg",
+      "source_url": "assets/images/74660d2a46-dd4e19_0d0969e4285b4596b68e32c28fabae1a-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "kaa",
+      "purpose": "gallery-5",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-kaa-6",
+      "kind": "image",
+      "local_path": "/content-media/projects/kaa-gallery-6.jpg",
+      "source_url": "assets/images/80089db7e1-dd4e19_746e6bedd0734a9882ab9c7747437e7a-mv2_d_1920_1280_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "kaa",
+      "purpose": "gallery-6",
+      "status": "available-local"
+    },
+    {
+      "id": "cover-oneplus-experience-store",
+      "kind": "image",
+      "local_path": "/content-media/projects/oneplus-experience-store-cover.jpg",
+      "source_url": "assets/images/12270c603b-dd4e19_60309273b3ee498cb27a112ce396e814-mv2_d_1920_1280_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "oneplus-experience-store",
+      "purpose": "cover",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-oneplus-experience-store-2",
+      "kind": "image",
+      "local_path": "/content-media/projects/oneplus-experience-store-gallery-2.jpg",
+      "source_url": "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "oneplus-experience-store",
+      "purpose": "gallery-2",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-oneplus-experience-store-3",
+      "kind": "image",
+      "local_path": "/content-media/projects/oneplus-experience-store-gallery-3.jpg",
+      "source_url": "assets/images/4df3fca15b-dd4e19_47721e6e07684e309652fbe7d1e71c94-mv2_d_1920_1280_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "oneplus-experience-store",
+      "purpose": "gallery-3",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-oneplus-experience-store-4",
+      "kind": "image",
+      "local_path": "/content-media/projects/oneplus-experience-store-gallery-4.jpg",
+      "source_url": "assets/images/5040e79a91-dd4e19_b15bb2b58d4d414587a2fec871b24591-mv2_d_1920_1288_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "oneplus-experience-store",
+      "purpose": "gallery-4",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-oneplus-experience-store-5",
+      "kind": "image",
+      "local_path": "/content-media/projects/oneplus-experience-store-gallery-5.jpg",
+      "source_url": "assets/images/56e436193b-dd4e19_1cf64753dfd144068d89faeac56df4a8-mv2_d_1920_1280_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "oneplus-experience-store",
+      "purpose": "gallery-5",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-oneplus-experience-store-6",
+      "kind": "image",
+      "local_path": "/content-media/projects/oneplus-experience-store-gallery-6.jpg",
+      "source_url": "assets/images/57bd106ece-dd4e19_74b814bfe6514c7e8d09d4932f83107d-mv2_d_1200_1800_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "oneplus-experience-store",
+      "purpose": "gallery-6",
+      "status": "available-local"
+    },
+    {
+      "id": "cover-oneplus-lava-red",
+      "kind": "image",
+      "local_path": "/content-media/projects/oneplus-lava-red-cover.jpg",
+      "source_url": "assets/images/0d3fa856fd-dd4e19_5e00ec785c554716b02e1ab5728c2715-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "oneplus-lava-red",
+      "purpose": "cover",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-oneplus-lava-red-2",
+      "kind": "image",
+      "local_path": "/content-media/projects/oneplus-lava-red-gallery-2.jpg",
+      "source_url": "assets/images/0d62d4eb12-dd4e19_c8d85b98d0c543b7aac9f8344b6baa41f001.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "oneplus-lava-red",
+      "purpose": "gallery-2",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-oneplus-lava-red-3",
+      "kind": "image",
+      "local_path": "/content-media/projects/oneplus-lava-red-gallery-3.jpg",
+      "source_url": "assets/images/135de83abc-dd4e19_e8e7ba9faf4341ce854420ee1f414b4cf002.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "oneplus-lava-red",
+      "purpose": "gallery-3",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-oneplus-lava-red-4",
+      "kind": "image",
+      "local_path": "/content-media/projects/oneplus-lava-red-gallery-4.jpg",
+      "source_url": "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "oneplus-lava-red",
+      "purpose": "gallery-4",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-oneplus-lava-red-5",
+      "kind": "image",
+      "local_path": "/content-media/projects/oneplus-lava-red-gallery-5.jpg",
+      "source_url": "assets/images/212c5511e3-dd4e19_a11ba906dee0466499bb886a55a890cb-mv2_d_1806_1209_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "oneplus-lava-red",
+      "purpose": "gallery-5",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-oneplus-lava-red-6",
+      "kind": "image",
+      "local_path": "/content-media/projects/oneplus-lava-red-gallery-6.jpg",
+      "source_url": "assets/images/23f4860b84-dd4e19_e8e7ba9faf4341ce854420ee1f414b4cf000.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "oneplus-lava-red",
+      "purpose": "gallery-6",
+      "status": "available-local"
+    },
+    {
+      "id": "cover-oneplus-softgold",
+      "kind": "image",
+      "local_path": "/content-media/projects/oneplus-softgold-cover.jpg",
+      "source_url": "assets/images/0062ac6d03-dd4e19_4eaa12654c084665b448fe23a178e99b-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "oneplus-softgold",
+      "purpose": "cover",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-oneplus-softgold-2",
+      "kind": "image",
+      "local_path": "/content-media/projects/oneplus-softgold-gallery-2.jpg",
+      "source_url": "assets/images/098aa35c06-dd4e19_8cc1810a46574b05b10bd5723fd21e8e-mv2_d_2393_1543_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "oneplus-softgold",
+      "purpose": "gallery-2",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-oneplus-softgold-3",
+      "kind": "image",
+      "local_path": "/content-media/projects/oneplus-softgold-gallery-3.jpg",
+      "source_url": "assets/images/10ed6e5fd2-dd4e19_0dfcca81758b4eb8b62bde92d48de438f002.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "oneplus-softgold",
+      "purpose": "gallery-3",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-oneplus-softgold-4",
+      "kind": "image",
+      "local_path": "/content-media/projects/oneplus-softgold-gallery-4.jpg",
+      "source_url": "assets/images/1548018865-dd4e19_938f1f18347f4e579b8a58b8c4d912f8-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "oneplus-softgold",
+      "purpose": "gallery-4",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-oneplus-softgold-5",
+      "kind": "image",
+      "local_path": "/content-media/projects/oneplus-softgold-gallery-5.jpg",
+      "source_url": "assets/images/1bdf47623a-dd4e19_47e42d2a45de4ccca6cebf502de1a0ae-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "oneplus-softgold",
+      "purpose": "gallery-5",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-oneplus-softgold-6",
+      "kind": "image",
+      "local_path": "/content-media/projects/oneplus-softgold-gallery-6.jpg",
+      "source_url": "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "oneplus-softgold",
+      "purpose": "gallery-6",
+      "status": "available-local"
+    },
+    {
+      "id": "cover-op-roadtrip",
+      "kind": "image",
+      "local_path": "/content-media/projects/op-roadtrip-cover.jpg",
+      "source_url": "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "op-roadtrip",
+      "purpose": "cover",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-op-roadtrip-2",
+      "kind": "image",
+      "local_path": "/content-media/projects/op-roadtrip-gallery-2.jpg",
+      "source_url": "assets/images/19c245669b-dd4e19_bd491b319a5e4157abaa73441d56fb12f001.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "op-roadtrip",
+      "purpose": "gallery-2",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-op-roadtrip-3",
+      "kind": "image",
+      "local_path": "/content-media/projects/op-roadtrip-gallery-3.jpg",
+      "source_url": "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "op-roadtrip",
+      "purpose": "gallery-3",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-op-roadtrip-4",
+      "kind": "image",
+      "local_path": "/content-media/projects/op-roadtrip-gallery-4.jpg",
+      "source_url": "assets/images/247975d8ff-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f003.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "op-roadtrip",
+      "purpose": "gallery-4",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-op-roadtrip-5",
+      "kind": "image",
+      "local_path": "/content-media/projects/op-roadtrip-gallery-5.jpg",
+      "source_url": "assets/images/404afb4751-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f000.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "op-roadtrip",
+      "purpose": "gallery-5",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-op-roadtrip-6",
+      "kind": "image",
+      "local_path": "/content-media/projects/op-roadtrip-gallery-6.jpg",
+      "source_url": "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "op-roadtrip",
+      "purpose": "gallery-6",
+      "status": "available-local"
+    },
+    {
+      "id": "cover-re-outland",
+      "kind": "image",
+      "local_path": "/content-media/projects/re-outland-cover.jpg",
+      "source_url": "assets/images/0c9aa68b06-dd4e19_7472751f8c1646de82a0e647adceac25-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "re-outland",
+      "purpose": "cover",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-re-outland-2",
+      "kind": "image",
+      "local_path": "/content-media/projects/re-outland-gallery-2.jpg",
+      "source_url": "assets/images/0fc17709ea-dd4e19_79d4586e995c4e9baa57b6d7a05d3c0e-mv2_d_1920_1411_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "re-outland",
+      "purpose": "gallery-2",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-re-outland-3",
+      "kind": "image",
+      "local_path": "/content-media/projects/re-outland-gallery-3.jpg",
+      "source_url": "assets/images/1a414df5bb-dd4e19_0c67238d4ad4466aaee7c99080dea3fa-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "re-outland",
+      "purpose": "gallery-3",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-re-outland-4",
+      "kind": "image",
+      "local_path": "/content-media/projects/re-outland-gallery-4.jpg",
+      "source_url": "assets/images/1dd1b2413f-dd4e19_d6f5f3f9c67e419b8a719c4321769334f001.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "re-outland",
+      "purpose": "gallery-4",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-re-outland-5",
+      "kind": "image",
+      "local_path": "/content-media/projects/re-outland-gallery-5.jpg",
+      "source_url": "assets/images/408bd471dc-dd4e19_a5165affe86145a5b7a1fec20b6069ab-mv2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "re-outland",
+      "purpose": "gallery-5",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-re-outland-6",
+      "kind": "image",
+      "local_path": "/content-media/projects/re-outland-gallery-6.jpg",
+      "source_url": "assets/images/42b8bf1413-dd4e19_17ff707ad67c47f8a3a7e565c2157c47-mv2_d_1920_1285_s_2.jpg",
+      "owner_record_type": "project",
+      "owner_record_slug": "re-outland",
+      "purpose": "gallery-6",
+      "status": "available-local"
+    },
+    {
+      "id": "cover-seasalt",
+      "kind": "image",
+      "local_path": "/content-media/projects/seasalt-cover.png",
+      "source_url": "assets/images/12c9916d15-84770f_b15004725ba14c3da631b302377ade8e-mv2.png",
+      "owner_record_type": "archive",
+      "owner_record_slug": "seasalt",
+      "purpose": "cover",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-seasalt-2",
+      "kind": "image",
+      "local_path": "/content-media/projects/seasalt-gallery-2.jpg",
+      "source_url": "assets/images/1979b79afd-84770f_3da701067133484a8174f9d001aef917-mv2_d_2346_1998_s_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "seasalt",
+      "purpose": "gallery-2",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-seasalt-3",
+      "kind": "image",
+      "local_path": "/content-media/projects/seasalt-gallery-3.jpg",
+      "source_url": "assets/images/19d2f3d521-84770f_cd4e5f04f07c4685bc6bf2a8e9a161eb-mv2_d_3516_1332_s_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "seasalt",
+      "purpose": "gallery-3",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-seasalt-4",
+      "kind": "image",
+      "local_path": "/content-media/projects/seasalt-gallery-4.jpg",
+      "source_url": "assets/images/445c665b7b-84770f_bce6b0f820304d6b9f89ff40c22d13d4-mv2_d_2840_2840_s_4_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "seasalt",
+      "purpose": "gallery-4",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-seasalt-5",
+      "kind": "image",
+      "local_path": "/content-media/projects/seasalt-gallery-5.jpg",
+      "source_url": "assets/images/499a081f58-84770f_284e54a1f8d24697aaeff41b61cee214-mv2_d_3000_2000_s_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "seasalt",
+      "purpose": "gallery-5",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-seasalt-6",
+      "kind": "image",
+      "local_path": "/content-media/projects/seasalt-gallery-6.jpg",
+      "source_url": "assets/images/49dada2014-84770f_6dd4d6b485ae4c1d98c802379bb4ac4e-mv2_d_2840_2840_s_4_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "seasalt",
+      "purpose": "gallery-6",
+      "status": "available-local"
+    },
+    {
+      "id": "cover-tune-speaker",
+      "kind": "image",
+      "local_path": "/content-media/projects/tune-speaker-cover.jpg",
+      "source_url": "assets/images/1244b7381e-84770f_f344940177124a7db1e7ce1164b3a6c5-mv2_d_2523_1588_s_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "tune-speaker",
+      "purpose": "cover",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-tune-speaker-2",
+      "kind": "image",
+      "local_path": "/content-media/projects/tune-speaker-gallery-2.jpg",
+      "source_url": "assets/images/28bcf869ee-84770f_c5e037849674427daf208b2fb4c66f34-mv2_d_3135_1998_s_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "tune-speaker",
+      "purpose": "gallery-2",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-tune-speaker-3",
+      "kind": "image",
+      "local_path": "/content-media/projects/tune-speaker-gallery-3.jpg",
+      "source_url": "assets/images/351c1f44aa-84770f_1af4da112fae4274aadc243dbbf52eff-mv2_d_2840_2840_s_4_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "tune-speaker",
+      "purpose": "gallery-3",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-tune-speaker-4",
+      "kind": "image",
+      "local_path": "/content-media/projects/tune-speaker-gallery-4.jpg",
+      "source_url": "assets/images/3f05be6883-84770f_a7177c20c4d04180814ad617f3ebb49c-mv2_d_2025_1998_s_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "tune-speaker",
+      "purpose": "gallery-4",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-tune-speaker-5",
+      "kind": "image",
+      "local_path": "/content-media/projects/tune-speaker-gallery-5.jpg",
+      "source_url": "assets/images/445c665b7b-84770f_bce6b0f820304d6b9f89ff40c22d13d4-mv2_d_2840_2840_s_4_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "tune-speaker",
+      "purpose": "gallery-5",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-tune-speaker-6",
+      "kind": "image",
+      "local_path": "/content-media/projects/tune-speaker-gallery-6.jpg",
+      "source_url": "assets/images/49dada2014-84770f_6dd4d6b485ae4c1d98c802379bb4ac4e-mv2_d_2840_2840_s_4_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "tune-speaker",
+      "purpose": "gallery-6",
+      "status": "available-local"
+    },
+    {
+      "id": "cover-vito-coffee",
+      "kind": "image",
+      "local_path": "/content-media/projects/vito-coffee-cover.jpg",
+      "source_url": "assets/images/01e0bcaff8-84770f_188df6039ec54e28a5765d94902c243a-mv2_d_1347_1998_s_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "vito-coffee",
+      "purpose": "cover",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-vito-coffee-2",
+      "kind": "image",
+      "local_path": "/content-media/projects/vito-coffee-gallery-2.jpg",
+      "source_url": "assets/images/15b2afec67-84770f_a1a7e183081344bfa3995427998b6866-mv2_d_1347_1998_s_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "vito-coffee",
+      "purpose": "gallery-2",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-vito-coffee-3",
+      "kind": "image",
+      "local_path": "/content-media/projects/vito-coffee-gallery-3.jpg",
+      "source_url": "assets/images/2457815fd4-84770f_9858a2b54c364aae91b12f2cfee92370-mv2_d_2346_1998_s_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "vito-coffee",
+      "purpose": "gallery-3",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-vito-coffee-4",
+      "kind": "image",
+      "local_path": "/content-media/projects/vito-coffee-gallery-4.jpg",
+      "source_url": "assets/images/351c1f44aa-84770f_1af4da112fae4274aadc243dbbf52eff-mv2_d_2840_2840_s_4_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "vito-coffee",
+      "purpose": "gallery-4",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-vito-coffee-5",
+      "kind": "image",
+      "local_path": "/content-media/projects/vito-coffee-gallery-5.jpg",
+      "source_url": "assets/images/42f0b594d2-84770f_936b462406cb493e902f1be89805979c-mv2_d_2346_1998_s_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "vito-coffee",
+      "purpose": "gallery-5",
+      "status": "available-local"
+    },
+    {
+      "id": "gallery-vito-coffee-6",
+      "kind": "image",
+      "local_path": "/content-media/projects/vito-coffee-gallery-6.jpg",
+      "source_url": "assets/images/445c665b7b-84770f_bce6b0f820304d6b9f89ff40c22d13d4-mv2_d_2840_2840_s_4_2.jpg",
+      "owner_record_type": "archive",
+      "owner_record_slug": "vito-coffee",
+      "purpose": "gallery-6",
+      "status": "available-local"
+    }
+  ],
+  "videos": [],
+  "missing_assets": [],
+  "source_warnings": []
+}

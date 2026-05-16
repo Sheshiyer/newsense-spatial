@@ -1,0 +1,123 @@
+{
+  "id": "agm-x3",
+  "slug": "agm-x3",
+  "route": "/projects/agm-x3",
+  "title": "AGM X3",
+  "status": "live",
+  "case_study_type": "motion",
+  "page_kind": "portfolio",
+  "hero_heading": "AGM X3: Outdoors Redefined",
+  "hero_summary": "AGM approached us to create a product video for their latest Outdoors Smartphone, the AGM X3. We followed a team of travellers to exotic beaches, forests, caves and tried to redefine the way we use our phones in the outdoors.",
+  "primary_client": "AGM",
+  "clients": [
+    "AGM"
+  ],
+  "primary_service": "Product Video",
+  "services": [
+    "Product Video"
+  ],
+  "year": null,
+  "years": [],
+  "featured_rank": null,
+  "gallery_mode": "video-first",
+  "credits": {
+    "CLIENT": "AGM",
+    "PRODUCTION COMPANY": "Newsense",
+    "CREATIVE DIRECTION": "Sant Mote",
+    "PRODUCER": "Amyth Venkataramaiah",
+    "DIRECTOR OF PHOTOGRAPHY": "Suraj Singh Thakur",
+    "VIDEO EDITING, MOTION GRAPHICS": "Sant Mote",
+    "ASSISTANT DIRECTOR": "Rohina S Chauhan",
+    "PRODUCTION MANAGER": "Shreyas Yadav",
+    "DRONE FOOTAGE": "Kameron Studio"
+  },
+  "credits_text": "CLIENT: AGM\nPRODUCTION COMPANY: Newsense\nCREATIVE DIRECTION: Sant Mote\nPRODUCER: Amyth Venkataramaiah\nDIRECTOR OF PHOTOGRAPHY: Suraj Singh Thakur\nVIDEO EDITING, MOTION GRAPHICS: Sant Mote\nASSISTANT DIRECTOR: Rohina S Chauhan\nPRODUCTION MANAGER: Shreyas Yadav\nDRONE FOOTAGE: Kameron Studio",
+  "narrative_sections": [
+    {
+      "heading": "Outdoor way of life",
+      "content": "Capturing moments of travellers being in their natural element."
+    }
+  ],
+  "outcome_sections": [],
+  "media": {
+    "cover_image": "/content-media/projects/agm-x3-cover.jpg",
+    "local_image_count": 31,
+    "local_video_count": 2,
+    "gallery_images": [
+      {
+        "id": "agm-x3-gallery-1",
+        "src": "/content-media/projects/agm-x3-cover.jpg",
+        "alt": "AGM X3: Outdoors Redefined frame 1",
+        "emphasis": "primary"
+      },
+      {
+        "id": "agm-x3-gallery-2",
+        "src": "/content-media/projects/agm-x3-gallery-2.jpg",
+        "alt": "AGM X3: Outdoors Redefined frame 2",
+        "emphasis": "support"
+      },
+      {
+        "id": "agm-x3-gallery-3",
+        "src": "/content-media/projects/agm-x3-gallery-3.jpg",
+        "alt": "AGM X3: Outdoors Redefined frame 3",
+        "emphasis": "support"
+      },
+      {
+        "id": "agm-x3-gallery-4",
+        "src": "/content-media/projects/agm-x3-gallery-4.jpg",
+        "alt": "AGM X3: Outdoors Redefined frame 4",
+        "emphasis": "support"
+      },
+      {
+        "id": "agm-x3-gallery-5",
+        "src": "/content-media/projects/agm-x3-gallery-5.jpg",
+        "alt": "AGM X3: Outdoors Redefined frame 5",
+        "emphasis": "support"
+      },
+      {
+        "id": "agm-x3-gallery-6",
+        "src": "/content-media/projects/agm-x3-gallery-6.jpg",
+        "alt": "AGM X3: Outdoors Redefined frame 6",
+        "emphasis": "support"
+      }
+    ],
+    "gallery_items": [
+      {
+        "id": "b13fe880-8c69-479b-9237-6d1bba675de9",
+        "title": "AGM X3 Outdoors Redefined",
+        "description": "Video Campaign",
+        "media_type": "video",
+        "quality_count": 3
+      }
+    ],
+    "source_image_assets": [
+      "assets/images/05d65c8c40-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f000.jpg",
+      "assets/images/12676a6314-dd4e19_98c119e6779d47cb81b6d4df210f9cb0-mv2.jpg",
+      "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+      "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+      "assets/images/247975d8ff-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f003.jpg",
+      "assets/images/2f14f246f0-dd4e19_f50a7c290d8048bd900c3830a5836f84-mv2.jpg",
+      "assets/images/330ae9fbc6-dd4e19_54bfab7bbdb34b5a90ba82c1022721d4-mv2.jpg",
+      "assets/images/3dca73836f-dd4e19_ddee7494bec8435a9f744847c8be5871-mv2.jpg",
+      "assets/images/404afb4751-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f000.jpg",
+      "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/56f72915ad-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f002.jpg",
+      "assets/images/62c90e079e-dd4e19_1c4d4bc21b5841ada020a126a568efe7-mv2.jpg"
+    ],
+    "source_video_assets": [
+      "assets/videos/0e77c92ada-file.mp4",
+      "assets/videos/ac84262451-file.mp4"
+    ],
+    "video_asset_ids": [
+      "dd4e19_0a2cc4fe1a18480395e31d8c82832b67",
+      "dd4e19_ae64d97603634d34b29fa0d8bbbeaae1"
+    ]
+  },
+  "clean_text": "AGM X3: Outdoors Redefined AGM approached us to create a product video for their latest Outdoors Smartphone, the AGM X3. We followed a team of travellers to exotic beaches, forests, caves and tried to redefine the way we use our phones in the outdoors. SERVICE Product Video CLIENT AGM Play Video Outdoor way of life Capturing moments of travellers being in their natural element. SERVICE Video, Photography & Web design Credits CLIENT AGM PRODUCTION COMPANY Newsense CREATIVE DIRECTION Sant Mote PRODUCER Amyth Venkataramaiah DIRECTOR OF PHOTOGRAPHY Suraj Singh Thakur VIDEO EDITING, MOTION GRAPHICS Sant Mote ASSISTANT DIRECTOR Rohina S Chauhan PRODUCTION MANAGER Shreyas Yadav DRONE FOOTAGE Kameron Studio",
+  "source_warnings": [],
+  "source_refs": [
+    "sources/old-website/data/projects.json#agm-x3",
+    "sources/old-website/content/pages/agm-x3.md"
+  ],
+  "placeholder": false
+}

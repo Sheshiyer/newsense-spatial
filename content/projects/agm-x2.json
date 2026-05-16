@@ -1,0 +1,117 @@
+{
+  "id": "agm-x2",
+  "slug": "agm-x2",
+  "route": "/projects/agm-x2",
+  "title": "AGM X2",
+  "status": "live",
+  "case_study_type": "motion",
+  "page_kind": "portfolio",
+  "hero_heading": "AGM X2",
+  "hero_summary": "A phone built for travellers should be adventurous, rugged and fun. We managed to pull off all these aspects and more in the video below.",
+  "primary_client": "AGM",
+  "clients": [
+    "AGM"
+  ],
+  "primary_service": "Product Video",
+  "services": [
+    "Product Video"
+  ],
+  "year": null,
+  "years": [],
+  "featured_rank": null,
+  "gallery_mode": "video-first",
+  "credits": {
+    "CLIENT": "AGM",
+    "PRODUCTION COMPANY": "Newsense",
+    "CREATIVE DIRECTION": "Sant Mote and Amyth Venkataramaiah",
+    "PRODUCER": "Amyth Venkataramaiah",
+    "DIRECTOR OF PHOTOGRAPHY": "Suraj Singh Thakur",
+    "VIDEO EDITING": "Sant Mote",
+    "ANIMATION": "Sant Mote",
+    "PRODUCTION MANAGER": "Sujith Venkataramaiah"
+  },
+  "credits_text": "CLIENT: AGM\nPRODUCTION COMPANY: Newsense\nCREATIVE DIRECTION: Sant Mote and Amyth Venkataramaiah\nPRODUCER: Amyth Venkataramaiah\nDIRECTOR OF PHOTOGRAPHY: Suraj Singh Thakur\nVIDEO EDITING: Sant Mote\nANIMATION: Sant Mote\nPRODUCTION MANAGER: Sujith Venkataramaiah",
+  "narrative_sections": [],
+  "outcome_sections": [],
+  "media": {
+    "cover_image": "/content-media/projects/agm-x2-cover.jpg",
+    "local_image_count": 21,
+    "local_video_count": 2,
+    "gallery_images": [
+      {
+        "id": "agm-x2-gallery-1",
+        "src": "/content-media/projects/agm-x2-cover.jpg",
+        "alt": "AGM X2 frame 1",
+        "emphasis": "primary"
+      },
+      {
+        "id": "agm-x2-gallery-2",
+        "src": "/content-media/projects/agm-x2-gallery-2.jpg",
+        "alt": "AGM X2 frame 2",
+        "emphasis": "support"
+      },
+      {
+        "id": "agm-x2-gallery-3",
+        "src": "/content-media/projects/agm-x2-gallery-3.jpg",
+        "alt": "AGM X2 frame 3",
+        "emphasis": "support"
+      },
+      {
+        "id": "agm-x2-gallery-4",
+        "src": "/content-media/projects/agm-x2-gallery-4.jpg",
+        "alt": "AGM X2 frame 4",
+        "emphasis": "support"
+      },
+      {
+        "id": "agm-x2-gallery-5",
+        "src": "/content-media/projects/agm-x2-gallery-5.jpg",
+        "alt": "AGM X2 frame 5",
+        "emphasis": "support"
+      },
+      {
+        "id": "agm-x2-gallery-6",
+        "src": "/content-media/projects/agm-x2-gallery-6.jpg",
+        "alt": "AGM X2 frame 6",
+        "emphasis": "support"
+      }
+    ],
+    "gallery_items": [
+      {
+        "id": "8943005e-8d65-400d-a075-602fdb5c2509",
+        "title": "AGM X2",
+        "description": "Product Video",
+        "media_type": "video",
+        "quality_count": 3
+      }
+    ],
+    "source_image_assets": [
+      "assets/images/05d65c8c40-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f000.jpg",
+      "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+      "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+      "assets/images/1dcde9307d-dd4e19_384b5fa2ff4546c68ec9c14a0cfe535e-mv2.jpg",
+      "assets/images/247975d8ff-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f003.jpg",
+      "assets/images/404afb4751-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f000.jpg",
+      "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/56f72915ad-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f002.jpg",
+      "assets/images/62c90e079e-dd4e19_1c4d4bc21b5841ada020a126a568efe7-mv2.jpg",
+      "assets/images/6848fdd94a-dd4e19_b33327b5160948dfa7084c8ea1ca09ef-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/74660d2a46-dd4e19_0d0969e4285b4596b68e32c28fabae1a-mv2.jpg",
+      "assets/images/80089db7e1-dd4e19_746e6bedd0734a9882ab9c7747437e7a-mv2_d_1920_1280_s_2.jpg"
+    ],
+    "source_video_assets": [
+      "assets/videos/0e77c92ada-file.mp4",
+      "assets/videos/ac84262451-file.mp4"
+    ],
+    "video_asset_ids": [
+      "dd4e19_0a2cc4fe1a18480395e31d8c82832b67",
+      "dd4e19_ae64d97603634d34b29fa0d8bbbeaae1"
+    ]
+  },
+  "clean_text": "AGM X2 A phone built for travellers should be adventurous, rugged and fun. We managed to pull off all these aspects and more in the video below. SERVICE Product Video CLIENT AGM Play Video SERVICE Video, Photography & Web design Credits CLIENT AGM PRODUCTION COMPANY Newsense CREATIVE DIRECTION Sant Mote and Amyth Venkataramaiah PRODUCER Amyth Venkataramaiah DIRECTOR OF PHOTOGRAPHY Suraj Singh Thakur VIDEO EDITING Sant Mote ANIMATION Sant Mote PRODUCTION MANAGER Sujith Venkataramaiah",
+  "source_warnings": [],
+  "source_refs": [
+    "sources/old-website/data/projects.json#agm-x2",
+    "sources/old-website/content/pages/agm-x2.md"
+  ],
+  "placeholder": false
+}

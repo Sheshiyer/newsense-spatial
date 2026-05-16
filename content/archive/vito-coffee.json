@@ -1,0 +1,114 @@
+{
+  "id": "vito-coffee",
+  "slug": "vito-coffee",
+  "route": "/archive/vito-coffee",
+  "title": "Vito Coffee",
+  "status": "archive",
+  "case_study_type": "archive-fragment",
+  "page_kind": "portfolio",
+  "hero_heading": "Vito Coffee",
+  "hero_summary": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+  "primary_client": "Vito Coffee",
+  "clients": [
+    "Vito Coffee"
+  ],
+  "primary_service": "Print, Art Direction",
+  "services": [
+    "Print, Art Direction"
+  ],
+  "year": "2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+  "years": [
+    "2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font."
+  ],
+  "featured_rank": null,
+  "gallery_mode": "story-first",
+  "credits": {},
+  "credits_text": "",
+  "narrative_sections": [
+    {
+      "heading": "Classic Edition",
+      "content": "I'm a paragraph. Click here to add your own text and edit me. Let your users get to know you."
+    },
+    {
+      "heading": "Strong Edition",
+      "content": "I'm a paragraph. Click here to add your own text and edit me. Let your users get to know you."
+    },
+    {
+      "heading": "Lite Edition",
+      "content": "I'm a paragraph. Click here to add your own text and edit me. Let your users get to know you."
+    },
+    {
+      "heading": "Fresh Coffee & More",
+      "content": "I'm a paragraph. Click here to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you."
+    }
+  ],
+  "outcome_sections": [],
+  "media": {
+    "cover_image": "/content-media/projects/vito-coffee-cover.jpg",
+    "local_image_count": 17,
+    "local_video_count": 0,
+    "gallery_images": [
+      {
+        "id": "vito-coffee-gallery-1",
+        "src": "/content-media/projects/vito-coffee-cover.jpg",
+        "alt": "Vito Coffee frame 1",
+        "emphasis": "primary"
+      },
+      {
+        "id": "vito-coffee-gallery-2",
+        "src": "/content-media/projects/vito-coffee-gallery-2.jpg",
+        "alt": "Vito Coffee frame 2",
+        "emphasis": "support"
+      },
+      {
+        "id": "vito-coffee-gallery-3",
+        "src": "/content-media/projects/vito-coffee-gallery-3.jpg",
+        "alt": "Vito Coffee frame 3",
+        "emphasis": "support"
+      },
+      {
+        "id": "vito-coffee-gallery-4",
+        "src": "/content-media/projects/vito-coffee-gallery-4.jpg",
+        "alt": "Vito Coffee frame 4",
+        "emphasis": "support"
+      },
+      {
+        "id": "vito-coffee-gallery-5",
+        "src": "/content-media/projects/vito-coffee-gallery-5.jpg",
+        "alt": "Vito Coffee frame 5",
+        "emphasis": "support"
+      },
+      {
+        "id": "vito-coffee-gallery-6",
+        "src": "/content-media/projects/vito-coffee-gallery-6.jpg",
+        "alt": "Vito Coffee frame 6",
+        "emphasis": "support"
+      }
+    ],
+    "gallery_items": [],
+    "source_image_assets": [
+      "assets/images/01e0bcaff8-84770f_188df6039ec54e28a5765d94902c243a-mv2_d_1347_1998_s_2.jpg",
+      "assets/images/15b2afec67-84770f_a1a7e183081344bfa3995427998b6866-mv2_d_1347_1998_s_2.jpg",
+      "assets/images/2457815fd4-84770f_9858a2b54c364aae91b12f2cfee92370-mv2_d_2346_1998_s_2.jpg",
+      "assets/images/351c1f44aa-84770f_1af4da112fae4274aadc243dbbf52eff-mv2_d_2840_2840_s_4_2.jpg",
+      "assets/images/42f0b594d2-84770f_936b462406cb493e902f1be89805979c-mv2_d_2346_1998_s_2.jpg",
+      "assets/images/445c665b7b-84770f_bce6b0f820304d6b9f89ff40c22d13d4-mv2_d_2840_2840_s_4_2.jpg",
+      "assets/images/4542f00460-84770f_14571f5a29174b2ea6e7bea4afbc4c24-mv2_d_1864_2984_s_2.jpg",
+      "assets/images/6dbeaeafea-84770f_ba7eddb41d60434080d63541f83ab526-mv2_d_3516_1332_s_2.jpg",
+      "assets/images/770702f6aa-84770f_e1cb3414c10448de85f428faccc26303-mv2_d_2840_2840_s_4_2.jpg",
+      "assets/images/7ca098c13e-84770f_66586890e2ba4152adcf89ab9bb96f70-mv2_d_1864_2984_s_2.jpg",
+      "assets/images/85e95dfc50-84770f_d8dc57b44c664855a34b6c0505c91f68-mv2_d_3000_2000_s_2.jpg",
+      "assets/images/8f31beb943-84770f_37cc6bca0fa94fc0843452a5bea86aa5-mv2_d_2840_2840_s_4_2.jpg"
+    ],
+    "source_video_assets": [],
+    "video_asset_ids": []
+  },
+  "clean_text": "Vito Coffee I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Service Print, Art Direction Client Vito Coffee Year 2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Classic Edition I'm a paragraph. Click here to add your own text and edit me. Let your users get to know you. Strong Edition I'm a paragraph. Click here to add your own text and edit me. Let your users get to know you. Lite Edition I'm a paragraph. Click here to add your own text and edit me. Let your users get to know you. Fresh Coffee & More I'm a paragraph. Click here to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you.",
+  "source_warnings": [],
+  "source_refs": [
+    "sources/old-website/data/projects.json#vito-coffee",
+    "sources/old-website/content/pages/vito-coffee.md"
+  ],
+  "archive_reason": "placeholder-template-route",
+  "placeholder": true
+}

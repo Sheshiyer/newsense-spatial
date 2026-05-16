@@ -1,0 +1,110 @@
+{
+  "id": "agm-x2-football",
+  "slug": "agm-x2-football",
+  "route": "/projects/agm-x2-football",
+  "title": "AGM Football",
+  "status": "live",
+  "case_study_type": "campaign-system",
+  "page_kind": "portfolio",
+  "hero_heading": "AGM Football",
+  "hero_summary": "AGM needed a football themed video to promote their phone during FIFA '18. Things got interesting when we combined Football with AGM's rugged phone.",
+  "primary_client": "AGM",
+  "clients": [
+    "AGM"
+  ],
+  "primary_service": "Video",
+  "services": [
+    "Video"
+  ],
+  "year": null,
+  "years": [],
+  "featured_rank": null,
+  "gallery_mode": "story-first",
+  "credits": {
+    "CLIENT": "AGM",
+    "PRODUCTION COMPANY": "Newsense",
+    "CREATIVE DIRECTION": "Sant Mote and Amyth Venkataramaiah",
+    "PRODUCER": "Amyth Venkataramaiah",
+    "DIRECTOR OF PHOTOGRAPHY": "Suraj Singh Thakur",
+    "VIDEO EDITING": "Sant Mote",
+    "SOUND DESIGN": "Gautam Ramdas",
+    "PRODUCTION MANAGER": "Shreyas Yadav"
+  },
+  "credits_text": "CLIENT: AGM\nPRODUCTION COMPANY: Newsense\nCREATIVE DIRECTION: Sant Mote and Amyth Venkataramaiah\nPRODUCER: Amyth Venkataramaiah\nDIRECTOR OF PHOTOGRAPHY: Suraj Singh Thakur\nVIDEO EDITING: Sant Mote\nSOUND DESIGN: Gautam Ramdas\nPRODUCTION MANAGER: Shreyas Yadav",
+  "narrative_sections": [],
+  "outcome_sections": [],
+  "media": {
+    "cover_image": "/content-media/projects/agm-x2-football-cover.jpg",
+    "local_image_count": 11,
+    "local_video_count": 0,
+    "gallery_images": [
+      {
+        "id": "agm-x2-football-gallery-1",
+        "src": "/content-media/projects/agm-x2-football-cover.jpg",
+        "alt": "AGM Football frame 1",
+        "emphasis": "primary"
+      },
+      {
+        "id": "agm-x2-football-gallery-2",
+        "src": "/content-media/projects/agm-x2-football-gallery-2.jpg",
+        "alt": "AGM Football frame 2",
+        "emphasis": "support"
+      },
+      {
+        "id": "agm-x2-football-gallery-3",
+        "src": "/content-media/projects/agm-x2-football-gallery-3.jpg",
+        "alt": "AGM Football frame 3",
+        "emphasis": "support"
+      },
+      {
+        "id": "agm-x2-football-gallery-4",
+        "src": "/content-media/projects/agm-x2-football-gallery-4.jpg",
+        "alt": "AGM Football frame 4",
+        "emphasis": "support"
+      },
+      {
+        "id": "agm-x2-football-gallery-5",
+        "src": "/content-media/projects/agm-x2-football-gallery-5.jpg",
+        "alt": "AGM Football frame 5",
+        "emphasis": "support"
+      },
+      {
+        "id": "agm-x2-football-gallery-6",
+        "src": "/content-media/projects/agm-x2-football-gallery-6.jpg",
+        "alt": "AGM Football frame 6",
+        "emphasis": "support"
+      }
+    ],
+    "gallery_items": [
+      {
+        "id": "169a97f1-cb7d-4ea2-a4cb-5218c360bc03",
+        "title": "AGM Football",
+        "description": "Video Compaign",
+        "media_type": "video",
+        "quality_count": 3
+      }
+    ],
+    "source_image_assets": [
+      "assets/images/107ddae5c1-dd4e19_7c355d5c0564468d8b19afb38c7c74b1-mv2.jpg",
+      "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+      "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/62c90e079e-dd4e19_1c4d4bc21b5841ada020a126a568efe7-mv2.jpg",
+      "assets/images/6848fdd94a-dd4e19_b33327b5160948dfa7084c8ea1ca09ef-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/74660d2a46-dd4e19_0d0969e4285b4596b68e32c28fabae1a-mv2.jpg",
+      "assets/images/80089db7e1-dd4e19_746e6bedd0734a9882ab9c7747437e7a-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/9b0fced86c-dd4e19_18b4a9dcd895419e8fd85c33a5a54575-mv2.jpg",
+      "assets/images/a1f5c33f0d-dd4e19_8a3304c7fadd45f4ab6e422a84419b6e-mv2_d_1986_1326_s_2.jpg",
+      "assets/images/a734ab5176-dd4e19_14be716bf1464e7895731be1c4a80c3f-mv2.jpg",
+      "assets/images/bf852dca99-dd4e19_cedf7c7c65604fe4b55695791e9f634c-mv2.png"
+    ],
+    "source_video_assets": [],
+    "video_asset_ids": []
+  },
+  "clean_text": "AGM Football AGM needed a football themed video to promote their phone during FIFA '18. Things got interesting when we combined Football with AGM's rugged phone. SERVICE Video CLIENT AGM Play Video SERVICE Video, Photography & Web design Credits CLIENT AGM PRODUCTION COMPANY Newsense CREATIVE DIRECTION Sant Mote and Amyth Venkataramaiah PRODUCER Amyth Venkataramaiah DIRECTOR OF PHOTOGRAPHY Suraj Singh Thakur VIDEO EDITING Sant Mote SOUND DESIGN Gautam Ramdas PRODUCTION MANAGER Shreyas Yadav",
+  "source_warnings": [],
+  "source_refs": [
+    "sources/old-website/data/projects.json#agm-x2-football",
+    "sources/old-website/content/pages/agm-x2-football.md"
+  ],
+  "placeholder": false
+}

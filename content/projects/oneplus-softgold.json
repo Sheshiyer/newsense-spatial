@@ -1,0 +1,139 @@
+{
+  "id": "oneplus-softgold",
+  "slug": "oneplus-softgold",
+  "route": "/projects/oneplus-softgold",
+  "title": "OnePlus Soft Gold",
+  "status": "featured",
+  "case_study_type": "campaign-system",
+  "page_kind": "portfolio",
+  "hero_heading": "OnePlus 5 Soft Gold",
+  "hero_summary": "We were tasked with the responsibility of creating a fresh, hilarious and vibrant animated video for the launch of the OnePlus 5 Soft Gold. ​ The project brief had us juxtaposing ancient India with modern tech. Creating a quirky contrast, complimented by a love story and rich Indian aesthetics.",
+  "primary_client": "OnePlus",
+  "clients": [
+    "OnePlus"
+  ],
+  "primary_service": "Animation",
+  "services": [
+    "Animation"
+  ],
+  "year": null,
+  "years": [],
+  "featured_rank": 2,
+  "gallery_mode": "story-first",
+  "credits": {
+    "CLIENT": "OnePlus",
+    "PRODUCTION COMPANY": "Newsense",
+    "ANIMATION, STORYBOARD": "Aditya Vipparthy",
+    "CONCEPT, CREATIVE DIRECTION": "Sant Mote & Amyth Venkataramaiah",
+    "ART DIRECTION": "Aditya Vipparthy",
+    "PRODUCER": "Amyth Venkataramaiah"
+  },
+  "credits_text": "CLIENT: OnePlus\nPRODUCTION COMPANY: Newsense\nANIMATION, STORYBOARD: Aditya Vipparthy\nCONCEPT, CREATIVE DIRECTION: Sant Mote & Amyth Venkataramaiah\nART DIRECTION: Aditya Vipparthy\nPRODUCER: Amyth Venkataramaiah",
+  "narrative_sections": [
+    {
+      "heading": "In a world where Vimanas, Maharajas & Gold Phones exist.",
+      "content": "Our concept was to create a visually striking story which captures people's imagination and entertains them thoroughly while focusing on the Phone. The project got our creative juices flowing and had us weaving unlikely scenarios into a seamless love story which celebrates Indian heritage and folklore."
+    },
+    {
+      "heading": "Making it Larger than Life",
+      "content": "We were certain that the product had to be a major focus of the video. One way we achieved that was by making the phone unusually big, which added to the humour."
+    },
+    {
+      "heading": "Grandest Gift in the Kingdom",
+      "content": "Who doesn't love a surprise? Indian kings were known to buy extravagant gifts from far-way places. It can't better than a huge phone made of gold, delivered from outer space just for the queen."
+    },
+    {
+      "heading": "A Portrait for the Ages",
+      "content": "What better way to cherish this memory than a Royal portrait?"
+    },
+    {
+      "heading": "11.5 Million Views and Comments to Die for.",
+      "content": "The video proved to be impactful, amassing 11.5 million views within the first 3 days. It also connected with the OnePlus community who appreciated the creativity, humour and personality of the brand."
+    }
+  ],
+  "outcome_sections": [
+    {
+      "heading": "11.5 Million Views and Comments to Die for.",
+      "content": "The video proved to be impactful, amassing 11.5 million views within the first 3 days. It also connected with the OnePlus community who appreciated the creativity, humour and personality of the brand."
+    }
+  ],
+  "media": {
+    "cover_image": "/content-media/projects/oneplus-softgold-cover.jpg",
+    "local_image_count": 41,
+    "local_video_count": 0,
+    "gallery_images": [
+      {
+        "id": "oneplus-softgold-gallery-1",
+        "src": "/content-media/projects/oneplus-softgold-cover.jpg",
+        "alt": "OnePlus 5 Soft Gold frame 1",
+        "emphasis": "primary"
+      },
+      {
+        "id": "oneplus-softgold-gallery-2",
+        "src": "/content-media/projects/oneplus-softgold-gallery-2.jpg",
+        "alt": "OnePlus 5 Soft Gold frame 2",
+        "emphasis": "support"
+      },
+      {
+        "id": "oneplus-softgold-gallery-3",
+        "src": "/content-media/projects/oneplus-softgold-gallery-3.jpg",
+        "alt": "OnePlus 5 Soft Gold frame 3",
+        "emphasis": "support"
+      },
+      {
+        "id": "oneplus-softgold-gallery-4",
+        "src": "/content-media/projects/oneplus-softgold-gallery-4.jpg",
+        "alt": "OnePlus 5 Soft Gold frame 4",
+        "emphasis": "support"
+      },
+      {
+        "id": "oneplus-softgold-gallery-5",
+        "src": "/content-media/projects/oneplus-softgold-gallery-5.jpg",
+        "alt": "OnePlus 5 Soft Gold frame 5",
+        "emphasis": "support"
+      },
+      {
+        "id": "oneplus-softgold-gallery-6",
+        "src": "/content-media/projects/oneplus-softgold-gallery-6.jpg",
+        "alt": "OnePlus 5 Soft Gold frame 6",
+        "emphasis": "support"
+      }
+    ],
+    "gallery_items": [
+      {
+        "id": "cb72bafa-d4e0-11e9-9ac2-063f49e9a7e4",
+        "title": "OnePlus 5 Soft Gold",
+        "description": "Animation",
+        "media_type": "video",
+        "quality_count": 3
+      }
+    ],
+    "source_image_assets": [
+      "assets/images/0062ac6d03-dd4e19_4eaa12654c084665b448fe23a178e99b-mv2.jpg",
+      "assets/images/098aa35c06-dd4e19_8cc1810a46574b05b10bd5723fd21e8e-mv2_d_2393_1543_s_2.jpg",
+      "assets/images/10ed6e5fd2-dd4e19_0dfcca81758b4eb8b62bde92d48de438f002.jpg",
+      "assets/images/1548018865-dd4e19_938f1f18347f4e579b8a58b8c4d912f8-mv2.jpg",
+      "assets/images/1bdf47623a-dd4e19_47e42d2a45de4ccca6cebf502de1a0ae-mv2.jpg",
+      "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+      "assets/images/23e7c6e201-dd4e19_bab587aaceb84d5f8ee4774b700b1ce4f002.jpg",
+      "assets/images/275271791e-dd4e19_a89101fff92b40cebe5ff910d0b469e3-mv2.jpg",
+      "assets/images/30fffd037c-dd4e19_f17d88b5735144bcad573b955aedd3eef000.jpg",
+      "assets/images/3717476c53-dd4e19_bab587aaceb84d5f8ee4774b700b1ce4f003.jpg",
+      "assets/images/45524dd276-dd4e19_f17d88b5735144bcad573b955aedd3eef003.jpg",
+      "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg"
+    ],
+    "source_video_assets": [],
+    "video_asset_ids": [
+      "dd4e19_1ef7ac8e8cd349da9a018c12005505d3",
+      "dd4e19_bab587aaceb84d5f8ee4774b700b1ce4",
+      "dd4e19_f17d88b5735144bcad573b955aedd3ee"
+    ]
+  },
+  "clean_text": "OnePlus 5 Soft Gold We were tasked with the responsibility of creating a fresh, hilarious and vibrant animated video for the launch of the OnePlus 5 Soft Gold. ​ The project brief had us juxtaposing ancient India with modern tech. Creating a quirky contrast, complimented by a love story and rich Indian aesthetics. SERVICES Animation CLIENT OnePlus Play Video In a world where Vimanas, Maharajas & Gold Phones exist. Our concept was to create a visually striking story which captures people's imagination and entertains them thoroughly while focusing on the Phone. The project got our creative juices flowing and had us weaving unlikely scenarios into a seamless love story which celebrates Indian heritage and folklore. Making it Larger than Life We were certain that the product had to be a major focus of the video. One way we achieved that was by making the phone unusually big, which added to the humour. Grandest Gift in the Kingdom Who doesn't love a surprise? Indian kings were known to buy extravagant gifts from far-way places. It can't better than a huge phone made of gold, delivered from outer space just for the queen. A Portrait for the Ages What better way to cherish this memory than a Royal portrait? 11.5 Million Views and Comments to Die for. The video proved to be impactful, amassing 11.5 million views within the first 3 days. It also connected with the OnePlus community who appreciated the creativity, humour and personality of the brand. SERVICE Video, Photography & Web design Credits CLIENT OnePlus PRODUCTION COMPANY Newsense ANIMATION, STORYBOARD Aditya Vipparthy CONCEPT, CREATIVE DIRECTION Sant Mote & Amyth Venkataramaiah ART DIRECTION Aditya Vipparthy PRODUCER Amyth Venkataramaiah Let's work together. NEWSENSE leverages years of experience in Design, Film and Brand management to craft experiences that inspire action. Join our growing list of clients to collaborate on strategy-driven and design-led brand solutions that speaks to the modern audience. Contact us",
+  "source_warnings": [],
+  "source_refs": [
+    "sources/old-website/data/projects.json#oneplus-softgold",
+    "sources/old-website/content/pages/oneplus-softgold.md"
+  ],
+  "placeholder": false
+}

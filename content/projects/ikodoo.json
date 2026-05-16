@@ -1,0 +1,120 @@
+{
+  "id": "ikodoo",
+  "slug": "ikodoo",
+  "route": "/projects/ikodoo",
+  "title": "Ikodoo Buds One",
+  "status": "featured",
+  "case_study_type": "motion",
+  "page_kind": "portfolio",
+  "hero_heading": "Ikodoo - Buds One",
+  "hero_summary": "IKODOO, a new-age consumer-tech brand approached us to create a one minute commercial for its maiden launch in India. We came up with the idea of showing the contrasting lifestyles of two working professional and how they balance work life with their passion. We identified early on that we wanted to acheive a seamless flow between the live action sequences and 3D renders, which meant meticulous planning before the shoot and bringing the whole crew together to realise the vision. The production involved defining the treatment for visuals, casting, set design, shooting on location with talent along with the extensive post production work of modeling, animation and compositing 3D renders.",
+  "primary_client": "Ikodoo",
+  "clients": [
+    "Ikodoo"
+  ],
+  "primary_service": "End to end video production",
+  "services": [
+    "End to end video production"
+  ],
+  "year": null,
+  "years": [],
+  "featured_rank": 4,
+  "gallery_mode": "video-first",
+  "credits": {
+    "CLIENT": "Ikodoo",
+    "PRODUCTION COMPANY": "Newsense",
+    "CREATIVE DIRECTION": "Sant Mote & Amyth Venkataramaiah",
+    "PRODUCER": "Amyth Venkataramaiah",
+    "DIRECTOR OF PHOTOGRAPHY": "Suraj Thakur",
+    "VIDEO EDITING, MOTION GRAPHICS": "Akshay Bhimaya & Sant Mote"
+  },
+  "credits_text": "CLIENT: Ikodoo\nPRODUCTION COMPANY: Newsense\nCREATIVE DIRECTION: Sant Mote & Amyth Venkataramaiah\nPRODUCER: Amyth Venkataramaiah\nDIRECTOR OF PHOTOGRAPHY: Suraj Thakur\nVIDEO EDITING, MOTION GRAPHICS: Akshay Bhimaya & Sant Mote",
+  "narrative_sections": [
+    {
+      "heading": "Ikodoo Buds One",
+      "content": "Balance business and play with Ikoodoo Buds One."
+    }
+  ],
+  "outcome_sections": [],
+  "media": {
+    "cover_image": "/content-media/projects/ikodoo-cover.png",
+    "local_image_count": 46,
+    "local_video_count": 2,
+    "gallery_images": [
+      {
+        "id": "ikodoo-gallery-1",
+        "src": "/content-media/projects/ikodoo-cover.png",
+        "alt": "Ikodoo - Buds One frame 1",
+        "emphasis": "primary"
+      },
+      {
+        "id": "ikodoo-gallery-2",
+        "src": "/content-media/projects/ikodoo-gallery-2.jpg",
+        "alt": "Ikodoo - Buds One frame 2",
+        "emphasis": "support"
+      },
+      {
+        "id": "ikodoo-gallery-3",
+        "src": "/content-media/projects/ikodoo-gallery-3.png",
+        "alt": "Ikodoo - Buds One frame 3",
+        "emphasis": "support"
+      },
+      {
+        "id": "ikodoo-gallery-4",
+        "src": "/content-media/projects/ikodoo-gallery-4.png",
+        "alt": "Ikodoo - Buds One frame 4",
+        "emphasis": "support"
+      },
+      {
+        "id": "ikodoo-gallery-5",
+        "src": "/content-media/projects/ikodoo-gallery-5.png",
+        "alt": "Ikodoo - Buds One frame 5",
+        "emphasis": "support"
+      },
+      {
+        "id": "ikodoo-gallery-6",
+        "src": "/content-media/projects/ikodoo-gallery-6.png",
+        "alt": "Ikodoo - Buds One frame 6",
+        "emphasis": "support"
+      }
+    ],
+    "gallery_items": [
+      {
+        "id": "3eb9ba40-7cd3-4fd7-86a4-13ecb2065263",
+        "title": "Ikodoo Buds One",
+        "description": "Product Video",
+        "media_type": "video",
+        "quality_count": 4
+      }
+    ],
+    "source_image_assets": [
+      "assets/images/08fbd137be-dd4e19_178f005e66d6490d83332cb6b985e5ff-mv2.png",
+      "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+      "assets/images/13f7c55ed6-dd4e19_c75acad09c144ead8b87965d23a5834f-mv2.png",
+      "assets/images/160b3cbf73-dd4e19_1c24fde0a02f4af1b83c5149cfaed881-mv2.png",
+      "assets/images/17fd9b65d0-dd4e19_9cc518a34b9244409510ee4ec25f6728-mv2.png",
+      "assets/images/18bf4bf419-dd4e19_ab20afa4d6b84ca393c808df644750f6-mv2.png",
+      "assets/images/19c245669b-dd4e19_bd491b319a5e4157abaa73441d56fb12f001.jpg",
+      "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+      "assets/images/1d11aeb89b-dd4e19_5a419bdf94bd4ccdafa7e8e3a183f948-mv2.png",
+      "assets/images/1ff6b5c22d-dd4e19_a1ad8eba3cfd4aeaad9fcafa7f8ffaf8-mv2.png",
+      "assets/images/247975d8ff-dd4e19_0a2cc4fe1a18480395e31d8c82832b67f003.jpg",
+      "assets/images/36bae4558d-dd4e19_9e63bef59f974e1ab299c34a2a640b3e-mv2.png"
+    ],
+    "source_video_assets": [
+      "assets/videos/0e77c92ada-file.mp4",
+      "assets/videos/e71f343427-file.mp4"
+    ],
+    "video_asset_ids": [
+      "dd4e19_0a2cc4fe1a18480395e31d8c82832b67",
+      "dd4e19_bd491b319a5e4157abaa73441d56fb12"
+    ]
+  },
+  "clean_text": "Ikodoo - Buds One IKODOO, a new-age consumer-tech brand approached us to create a one minute commercial for its maiden launch in India. We came up with the idea of showing the contrasting lifestyles of two working professional and how they balance work life with their passion. We identified early on that we wanted to acheive a seamless flow between the live action sequences and 3D renders, which meant meticulous planning before the shoot and bringing the whole crew together to realise the vision. The production involved defining the treatment for visuals, casting, set design, shooting on location with talent along with the extensive post production work of modeling, animation and compositing 3D renders. SERVICE End to end video production CLIENT Ikodoo Play Video Ikodoo Buds One Balance business and play with Ikoodoo Buds One. SERVICE Video, Photography & Web design Credits CLIENT Ikodoo PRODUCTION COMPANY Newsense CREATIVE DIRECTION Sant Mote & Amyth Venkataramaiah PRODUCER Amyth Venkataramaiah DIRECTOR OF PHOTOGRAPHY Suraj Thakur VIDEO EDITING, MOTION GRAPHICS Akshay Bhimaya & Sant Mote",
+  "source_warnings": [],
+  "source_refs": [
+    "sources/old-website/data/projects.json#ikodoo",
+    "sources/old-website/content/pages/ikodoo.md"
+  ],
+  "placeholder": false
+}

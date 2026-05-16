@@ -1,0 +1,121 @@
+{
+  "id": "agm-x5",
+  "slug": "agm-x5",
+  "route": "/projects/agm-x5",
+  "title": "AGM X5",
+  "status": "live",
+  "case_study_type": "motion",
+  "page_kind": "portfolio",
+  "hero_heading": "AGM X5: Inspired by Nature",
+  "hero_summary": "Focused on showcasing the unique design of AGM X5 coupled with the restrains of the pandemic meant that we couldn't travel to shoot on location. So we got creative and brought elements of nature into the confinement of our studio.",
+  "primary_client": "AGM",
+  "clients": [
+    "AGM"
+  ],
+  "primary_service": "Product Video",
+  "services": [
+    "Product Video"
+  ],
+  "year": null,
+  "years": [],
+  "featured_rank": null,
+  "gallery_mode": "video-first",
+  "credits": {
+    "CLIENT": "AGM",
+    "PRODUCTION COMPANY": "Newsense",
+    "CREATIVE DIRECTION": "Sant Mote & Amyth Venkataramiah",
+    "PRODUCER": "Amyth Venkataramiah",
+    "DIRECTOR OF PHOTOGRAPHY": "Amyth Venkataramiah",
+    "VIDEO EDITING, MOTION GRAPHICS": "Sant Mote",
+    "PRODUCTION MANAGER": "Shreyas Yadav"
+  },
+  "credits_text": "CLIENT: AGM\nPRODUCTION COMPANY: Newsense\nCREATIVE DIRECTION: Sant Mote & Amyth Venkataramiah\nPRODUCER: Amyth Venkataramiah\nDIRECTOR OF PHOTOGRAPHY: Amyth Venkataramiah\nVIDEO EDITING, MOTION GRAPHICS: Sant Mote\nPRODUCTION MANAGER: Shreyas Yadav",
+  "narrative_sections": [
+    {
+      "heading": "Designed by Nature",
+      "content": "The video utilised visual similarities found in nature and AGM X5 to showcase the unique features of the phone and the harmony of its design."
+    }
+  ],
+  "outcome_sections": [],
+  "media": {
+    "cover_image": "/content-media/projects/agm-x5-cover.jpg",
+    "local_image_count": 32,
+    "local_video_count": 2,
+    "gallery_images": [
+      {
+        "id": "agm-x5-gallery-1",
+        "src": "/content-media/projects/agm-x5-cover.jpg",
+        "alt": "AGM X5: Inspired by Nature frame 1",
+        "emphasis": "primary"
+      },
+      {
+        "id": "agm-x5-gallery-2",
+        "src": "/content-media/projects/agm-x5-gallery-2.jpg",
+        "alt": "AGM X5: Inspired by Nature frame 2",
+        "emphasis": "support"
+      },
+      {
+        "id": "agm-x5-gallery-3",
+        "src": "/content-media/projects/agm-x5-gallery-3.jpg",
+        "alt": "AGM X5: Inspired by Nature frame 3",
+        "emphasis": "support"
+      },
+      {
+        "id": "agm-x5-gallery-4",
+        "src": "/content-media/projects/agm-x5-gallery-4.jpg",
+        "alt": "AGM X5: Inspired by Nature frame 4",
+        "emphasis": "support"
+      },
+      {
+        "id": "agm-x5-gallery-5",
+        "src": "/content-media/projects/agm-x5-gallery-5.jpg",
+        "alt": "AGM X5: Inspired by Nature frame 5",
+        "emphasis": "support"
+      },
+      {
+        "id": "agm-x5-gallery-6",
+        "src": "/content-media/projects/agm-x5-gallery-6.jpg",
+        "alt": "AGM X5: Inspired by Nature frame 6",
+        "emphasis": "support"
+      }
+    ],
+    "gallery_items": [
+      {
+        "id": "9f8863d1-b31b-4416-8592-53a016142afe",
+        "title": "AGM X5",
+        "description": "Product Video",
+        "media_type": "video",
+        "quality_count": 3
+      }
+    ],
+    "source_image_assets": [
+      "assets/images/05d65c8c40-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f000.jpg",
+      "assets/images/084568a04e-dd4e19_b4023eaad6ca47288f78c8133963ad27-mv2.jpg",
+      "assets/images/0a254575e1-dd4e19_00ac04a3aa164cdf80461824ba4a3e41-mv2.jpg",
+      "assets/images/12a17ae240-dd4e19_7204a79437914f3a9e3a5a92b6f49288-mv2.jpg",
+      "assets/images/19c245669b-dd4e19_bd491b319a5e4157abaa73441d56fb12f001.jpg",
+      "assets/images/1c398b155a-dd4e19_29a5749872d94558bfa166c1ec91ac25-mv2_d_2400_1347_s_2.jpg",
+      "assets/images/1dcde9307d-dd4e19_384b5fa2ff4546c68ec9c14a0cfe535e-mv2.jpg",
+      "assets/images/4a9d950673-dd4e19_c2727bec9df640a1a6ca3d47b42ef7bb-mv2_d_1920_1280_s_2.jpg",
+      "assets/images/4cf39c49b8-dd4e19_bd491b319a5e4157abaa73441d56fb12f003.jpg",
+      "assets/images/5375150ff3-dd4e19_bd491b319a5e4157abaa73441d56fb12f000.jpg",
+      "assets/images/55ae4b0318-dd4e19_0b97da7010fe41669c2675f7b4a0d2ee-mv2.jpg",
+      "assets/images/56f72915ad-dd4e19_ae64d97603634d34b29fa0d8bbbeaae1f002.jpg"
+    ],
+    "source_video_assets": [
+      "assets/videos/ac84262451-file.mp4",
+      "assets/videos/e71f343427-file.mp4"
+    ],
+    "video_asset_ids": [
+      "dd4e19_ae64d97603634d34b29fa0d8bbbeaae1",
+      "dd4e19_bd491b319a5e4157abaa73441d56fb12"
+    ]
+  },
+  "clean_text": "AGM X5: Inspired by Nature Focused on showcasing the unique design of AGM X5 coupled with the restrains of the pandemic meant that we couldn't travel to shoot on location. So we got creative and brought elements of nature into the confinement of our studio. SERVICE Product Video CLIENT AGM Play Video Designed by Nature The video utilised visual similarities found in nature and AGM X5 to showcase the unique features of the phone and the harmony of its design. SERVICE Video, Photography & Web design Credits CLIENT AGM PRODUCTION COMPANY Newsense CREATIVE DIRECTION Sant Mote & Amyth Venkataramiah PRODUCER Amyth Venkataramiah DIRECTOR OF PHOTOGRAPHY Amyth Venkataramiah VIDEO EDITING, MOTION GRAPHICS Sant Mote PRODUCTION MANAGER Shreyas Yadav",
+  "source_warnings": [],
+  "source_refs": [
+    "sources/old-website/data/projects.json#agm-x5",
+    "sources/old-website/content/pages/agm-x5.md"
+  ],
+  "placeholder": false
+}

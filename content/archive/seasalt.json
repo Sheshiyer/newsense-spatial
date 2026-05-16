@@ -1,0 +1,102 @@
+{
+  "id": "seasalt",
+  "slug": "seasalt",
+  "route": "/archive/seasalt",
+  "title": "Seasalt",
+  "status": "archive",
+  "case_study_type": "archive-fragment",
+  "page_kind": "portfolio",
+  "hero_heading": "Seasalt",
+  "hero_summary": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+  "primary_client": "Seasalt Restaurant",
+  "clients": [
+    "Seasalt Restaurant"
+  ],
+  "primary_service": "Identity & Branding",
+  "services": [
+    "Identity & Branding"
+  ],
+  "year": "2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+  "years": [
+    "2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font."
+  ],
+  "featured_rank": null,
+  "gallery_mode": "story-first",
+  "credits": {},
+  "credits_text": "",
+  "narrative_sections": [
+    {
+      "heading": "Stationary",
+      "content": "I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font."
+    }
+  ],
+  "outcome_sections": [],
+  "media": {
+    "cover_image": "/content-media/projects/seasalt-cover.png",
+    "local_image_count": 15,
+    "local_video_count": 0,
+    "gallery_images": [
+      {
+        "id": "seasalt-gallery-1",
+        "src": "/content-media/projects/seasalt-cover.png",
+        "alt": "Seasalt frame 1",
+        "emphasis": "primary"
+      },
+      {
+        "id": "seasalt-gallery-2",
+        "src": "/content-media/projects/seasalt-gallery-2.jpg",
+        "alt": "Seasalt frame 2",
+        "emphasis": "support"
+      },
+      {
+        "id": "seasalt-gallery-3",
+        "src": "/content-media/projects/seasalt-gallery-3.jpg",
+        "alt": "Seasalt frame 3",
+        "emphasis": "support"
+      },
+      {
+        "id": "seasalt-gallery-4",
+        "src": "/content-media/projects/seasalt-gallery-4.jpg",
+        "alt": "Seasalt frame 4",
+        "emphasis": "support"
+      },
+      {
+        "id": "seasalt-gallery-5",
+        "src": "/content-media/projects/seasalt-gallery-5.jpg",
+        "alt": "Seasalt frame 5",
+        "emphasis": "support"
+      },
+      {
+        "id": "seasalt-gallery-6",
+        "src": "/content-media/projects/seasalt-gallery-6.jpg",
+        "alt": "Seasalt frame 6",
+        "emphasis": "support"
+      }
+    ],
+    "gallery_items": [],
+    "source_image_assets": [
+      "assets/images/12c9916d15-84770f_b15004725ba14c3da631b302377ade8e-mv2.png",
+      "assets/images/1979b79afd-84770f_3da701067133484a8174f9d001aef917-mv2_d_2346_1998_s_2.jpg",
+      "assets/images/19d2f3d521-84770f_cd4e5f04f07c4685bc6bf2a8e9a161eb-mv2_d_3516_1332_s_2.jpg",
+      "assets/images/445c665b7b-84770f_bce6b0f820304d6b9f89ff40c22d13d4-mv2_d_2840_2840_s_4_2.jpg",
+      "assets/images/499a081f58-84770f_284e54a1f8d24697aaeff41b61cee214-mv2_d_3000_2000_s_2.jpg",
+      "assets/images/49dada2014-84770f_6dd4d6b485ae4c1d98c802379bb4ac4e-mv2_d_2840_2840_s_4_2.jpg",
+      "assets/images/4f19d18c56-84770f_9e50f4b8eb8c40a4a85a194671562188-mv2_d_2346_1998_s_2.jpg",
+      "assets/images/770702f6aa-84770f_e1cb3414c10448de85f428faccc26303-mv2_d_2840_2840_s_4_2.jpg",
+      "assets/images/80dc348526-84770f_449e44313e9f47ccb504e102a3643c7d-mv2_d_2346_1998_s_2.jpg",
+      "assets/images/8f31beb943-84770f_37cc6bca0fa94fc0843452a5bea86aa5-mv2_d_2840_2840_s_4_2.jpg",
+      "assets/images/941eea0ce6-84770f_e6a3bc6aacd8489999890180f7a68dd2-mv2_d_2346_1998_s_2.jpg",
+      "assets/images/b9e0f83d67-84770f_bf19e3d938c94366ba61b62ac4ebe272-mv2_d_2840_2840_s_4_2.jpg"
+    ],
+    "source_video_assets": [],
+    "video_asset_ids": []
+  },
+  "clean_text": "Seasalt I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Service Identity & Branding Client Seasalt Restaurant Year 2023 I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Stationary I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font.",
+  "source_warnings": [],
+  "source_refs": [
+    "sources/old-website/data/projects.json#seasalt",
+    "sources/old-website/content/pages/seasalt.md"
+  ],
+  "archive_reason": "placeholder-template-route",
+  "placeholder": true
+}
