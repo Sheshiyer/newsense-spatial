@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T05:48:55.210Z",
+  "generated_at": "2026-06-03T12:15:39.260Z",
   "metadata": {
     "featured_order": [
       "re-outland",
@@ -95,7 +95,14 @@
       "bio_full": "Founder and Executive Producer A curious mind, with a deep interest in expressing oneself through art. Amyth began as a photographer & graphic designer with over 10 years of experience. He handles all of our productions and brings our ideas to life.",
       "bio_short": "A curious mind, with a deep interest in expressing oneself through art.",
       "order": 1,
-      "portrait_asset": null,
+      "portrait_asset": "/content-media/team/amyth-venkataramaiah/fallback.png",
+      "scene_asset": "/models/team/amyth-venkataramaiah/scene.glb",
+      "asset_status": "portrait-and-scene-ready",
+      "asset_notes": [
+        "Fallback portrait imported from the founder-provided local image.",
+        "Team GLB imported from the founder-provided local file.",
+        "Ready for the later portrait-to-3D member integration pass."
+      ],
       "specialties": [
         "Production",
         "Photography",
@@ -114,7 +121,14 @@
       "bio_full": "Creative Director A lover of all things art, Sant began his career as a graphic designer, with over 12 years of experience working with brands, he has since branched out into VFX and 3D animation. He leads our creative team, strategising campaigns that are unique and relevant to brands.",
       "bio_short": "A lover of all things art, Sant began his career as a graphic designer, with over 12 years of experience working with brands, he has since branched out into VFX and 3D animation.",
       "order": 2,
-      "portrait_asset": null,
+      "portrait_asset": "/content-media/team/sant-mote/fallback.png",
+      "scene_asset": "/models/team/sant-mote/scene.glb",
+      "asset_status": "portrait-and-scene-ready",
+      "asset_notes": [
+        "Fallback portrait imported from the founder-provided local image.",
+        "Team GLB imported from the founder-provided local file.",
+        "Ready for the later portrait-to-3D member integration pass."
+      ],
       "specialties": [
         "Campaign Strategy",
         "Design",
@@ -135,6 +149,12 @@
       "bio_short": "Behind every photo, there is a vision that adds life to it.",
       "order": 3,
       "portrait_asset": null,
+      "scene_asset": "/models/team/suraj-singh-thakur/scene.glb",
+      "asset_status": "scene-ready",
+      "asset_notes": [
+        "Fallback portrait has not been assigned yet.",
+        "Team GLB imported from the founder-provided local file."
+      ],
       "specialties": [
         "Cinematography",
         "Framing",
