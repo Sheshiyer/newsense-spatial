@@ -1,4 +1,4 @@
-# Newsense Launch
+# Newsense Spatial
 
 ![React](https://img.shields.io/badge/React-19-20232a?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178c6?style=flat-square&logo=typescript&logoColor=white)
@@ -6,30 +6,33 @@
 ![Three.js](https://img.shields.io/badge/Three.js-WebGPU-black?style=flat-square&logo=three.js)
 ![GSAP](https://img.shields.io/badge/GSAP-Motion-88ce02?style=flat-square)
 
-Standalone launch repository for the new Newsense website: a playable field
-experience with a floating editorial atlas, preserved studio wordmark, and a
-bundled subset of the recovered legacy website sources needed to regenerate the
-runtime content package.
+Spatial launch repository for Newsense: an immersive playable field runtime with
+an editorial atlas layer, bundled legacy provenance, and generated branding/media
+assets used for launch continuity.
+
+## Brand + Launch Visuals
+
+<p align="center">
+  <img src="public/content-media/brand/newsense-wordmark.png" alt="Newsense wordmark" width="520" />
+</p>
+
+| Surface | Preview |
+|---|---|
+| Desktop atmosphere | ![Desktop atmosphere poster](public/content-media/home/newsense-home-atmosphere-desktop-poster.jpg) |
+| Mobile atmosphere | ![Mobile atmosphere poster](public/content-media/home/newsense-home-atmosphere-mobile-poster.jpg) |
+
+Generated background motion assets are included in:
+- `public/content-media/home/newsense-home-atmosphere-desktop.{webm,mp4}`
+- `public/content-media/home/newsense-home-atmosphere-mobile.{webm,mp4}`
 
 ## What This Repo Holds
 
-- The live Newsense site implementation in `src/`
-- The generated runtime content package in `content/`
-- Runtime media, 3D objects, textures, and audio in `public/`
-- The focused legacy source bundle needed for rebuilds in `sources/old-website/`
-- Planning and architecture notes in `planning/`
-
-This repo is intended to stand on its own. It no longer requires the Obsidian
-vault path to run `content:build`.
-
-## Experience Thesis
-
-Newsense is framed as a move from nuisance into new sense.
-
-- The field is the atmospheric, explorable layer.
-- The atlas is the editorial, navigable layer.
-- The projects are the proof surface.
-- The preserved legacy source bundle keeps provenance and rebuildability intact.
+- `src/` — app runtime, field controls, overlays, route surfaces
+- `content/` — generated runtime content package consumed by the app
+- `public/` — launch media, 3D objects, textures, audio, and team assets
+- `sources/old-website/` — curated legacy source bundle for rebuild provenance
+- `sources/design-assets/` — generated ideation/reference packs for object design
+- `planning/` — launch architecture and narrative planning docs
 
 ## Architecture
 
@@ -46,24 +49,6 @@ flowchart LR
   H --> I
 ```
 
-## Repo Layout
-
-```text
-newsense-launch/
-├── content/                  Generated runtime data consumed by the app
-├── planning/                 Architecture and design notes
-├── public/
-│   ├── content-media/        Project media promoted for runtime use
-│   ├── models/               Meshy-generated and scene objects
-│   ├── textures/             false-earth and Newsense runtime textures
-│   └── audio/                World audio assets
-├── scripts/
-│   └── build-content.mjs     Rebuilds runtime content from the bundled source set
-├── sources/
-│   └── old-website/          Focused legacy source bundle extracted from the vault
-└── src/                      App, world, overlay, routing, and scene state
-```
-
 ## Quick Start
 
 ```bash
@@ -71,30 +56,33 @@ npm install
 npm run dev
 ```
 
-Build the production bundle:
+Production build:
 
 ```bash
 npm run build
 ```
 
-If you ever want to rebuild the content package from a different legacy source
-location, set:
+Rebuild content package from a different legacy source root:
 
 ```bash
 NEWSENSE_LEGACY_ROOT=/absolute/path/to/old-website npm run content:build
 ```
 
-## Key Surfaces
+## Runtime + Source Boundaries
 
-- `src/falseEarth/`: imported world runtime and controls
-- `src/ui/`: Newsense overlay, route content, and field-mode UX
-- `src/store/`: cross-layer scene state
-- `content/site-content.json`: consolidated runtime content payload
-- `sources/old-website/data/projects.json`: preserved project source data
+- Runtime-ready team media lives in `public/content-media/team/`
+- Runtime-ready team model candidates live in `public/models/team/`
+- `sources/team-asset-map.json` is used during content build to preserve selected mappings
+- `sources/design-assets/` is kept as source/reference material and not auto-loaded into runtime by default
 
-## Notes
+## Launch Notes (v0.1.0)
 
-- The Newsense wordmark remains the canonical logo.
-- The playable field stays intact; Newsense storytelling floats above it.
-- The repo includes generated media needed to run the current site, but avoids
-  shipping the full raw vault archive.
+- Added generated home atmosphere motion/video packs for desktop + mobile
+- Kept Newsense wordmark and launch visual identity assets in-repo
+- Preserved design ideation source packs under `sources/design-assets/`
+- Included team media/model fallback assets and curation map for build-time linking
+- Applied field/route runtime updates and nested-route texture URL fixes
+
+## License
+
+This repository currently has no explicit LICENSE file. Add one before external redistribution.

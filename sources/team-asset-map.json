@@ -1,0 +1,92 @@
+{
+  "members": {
+    "amyth-venkataramaiah": {
+      "portrait_asset": "/content-media/team/amyth-venkataramaiah/fallback.png",
+      "scene_asset": "/models/team/amyth-venkataramaiah/scene.glb",
+      "asset_status": "portrait-and-scene-ready",
+      "asset_notes": [
+        "Fallback portrait imported from the founder-provided local image.",
+        "Team GLB imported from the founder-provided local file.",
+        "Ready for the later portrait-to-3D member integration pass."
+      ]
+    },
+    "sant-mote": {
+      "portrait_asset": "/content-media/team/sant-mote/fallback.png",
+      "scene_asset": "/models/team/sant-mote/scene.glb",
+      "asset_status": "portrait-and-scene-ready",
+      "asset_notes": [
+        "Fallback portrait imported from the founder-provided local image.",
+        "Team GLB imported from the founder-provided local file.",
+        "Ready for the later portrait-to-3D member integration pass."
+      ]
+    },
+    "suraj-singh-thakur": {
+      "portrait_asset": null,
+      "scene_asset": "/models/team/suraj-singh-thakur/scene.glb",
+      "asset_status": "scene-ready",
+      "asset_notes": [
+        "Fallback portrait has not been assigned yet.",
+        "Team GLB imported from the founder-provided local file."
+      ]
+    }
+  },
+  "candidates": {
+    "portrait_images": [
+      {
+        "id": "anime-charc",
+        "path": "/content-media/team/candidates/anime-charc.png",
+        "status": "unassigned",
+        "notes": [
+          "Imported as an experimental character image.",
+          "Not mapped to a confirmed team member."
+        ]
+      }
+    ],
+    "scene_models": [
+      {
+        "id": "meshy-ai-portrait-texture",
+        "path": "/models/team/candidates/meshy-ai-portrait-texture.glb",
+        "status": "unassigned",
+        "notes": [
+          "Candidate team portrait GLB.",
+          "Member assignment still pending."
+        ]
+      },
+      {
+        "id": "meshy-ai-blue-scarf-portrait-texture",
+        "path": "/models/team/candidates/meshy-ai-blue-scarf-portrait-texture.glb",
+        "status": "unassigned",
+        "notes": [
+          "Candidate team portrait GLB.",
+          "Member assignment still pending."
+        ]
+      },
+      {
+        "id": "shesh",
+        "path": "/models/team/candidates/shesh.glb",
+        "status": "unassigned",
+        "notes": [
+          "Founder-provided team GLB imported into the repo.",
+          "No current public team roster record matches this asset yet."
+        ]
+      }
+    ],
+    "object_reference_packs": [
+      {
+        "id": "stage-support",
+        "path": "sources/design-assets/object-ideation/newsense-meshy-image-to-3d-2026-05-08",
+        "status": "imported"
+      },
+      {
+        "id": "motion-node",
+        "path": "sources/design-assets/object-ideation/newsense-motion-node-tightening-2026-05-08",
+        "status": "imported"
+      },
+      {
+        "id": "editorial-frame",
+        "path": "sources/design-assets/object-ideation/newsense-editorial-frame-2026-05-08",
+        "status": "imported"
+      }
+    ]
+  }
+}

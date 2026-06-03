@@ -68,6 +68,15 @@ function readJson(name) {
   return JSON.parse(fs.readFileSync(path.join(legacyDataRoot, `${name}.json`), "utf8"));
 }
 
+function readOptionalRepoJson(relativePath, fallbackValue) {
+  const targetPath = path.join(repoRoot, relativePath);
+  if (!fs.existsSync(targetPath)) {
+    return fallbackValue;
+  }
+
+  return JSON.parse(fs.readFileSync(targetPath, "utf8"));
+}
+
 function slugify(value) {
   return value
     .toLowerCase()
@@ -160,6 +169,10 @@ function main() {
   const services = readJson("services");
   const projects = readJson("projects");
   const rebuildBrief = readJson("rebuild-brief");
+  const teamAssetMap = readOptionalRepoJson("sources/team-asset-map.json", {
+    members: {},
+    candidates: {},
+  });
 
   ensureDir(contentRoot);
   ensureDir(path.join(contentRoot, "projects"));
@@ -206,15 +219,20 @@ function main() {
 
   const teamRecords = team.map((member, index) => {
     const role = TEAM_ROLE_BY_NAME[member.name] || "Team";
+    const slug = slugify(member.name);
+    const assetEntry = teamAssetMap.members?.[slug] || {};
     return {
-      id: `team-${slugify(member.name)}`,
-      slug: slugify(member.name),
+      id: `team-${slug}`,
+      slug,
       name: member.name,
       role,
       bio_full: member.bio,
       bio_short: makeShortBio(role, member.bio),
       order: index + 1,
-      portrait_asset: null,
+      portrait_asset: assetEntry.portrait_asset || null,
+      scene_asset: assetEntry.scene_asset || null,
+      asset_status: assetEntry.asset_status || "pending",
+      asset_notes: assetEntry.asset_notes || [],
       specialties:
         member.name === "Sant Mote"
           ? ["Campaign Strategy", "Design", "3D", "VFX"]

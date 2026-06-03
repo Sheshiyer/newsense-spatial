@@ -61,6 +61,9 @@ export type TeamRecord = {
   bio_short: string;
   order: number;
   portrait_asset: string | null;
+  scene_asset?: string | null;
+  asset_status?: string;
+  asset_notes?: string[];
   specialties: string[];
 };
 

@@ -1,4 +1,4 @@
-import { type ReactNode, useRef } from "react";
+import { type ReactNode, useRef, useState } from "react";
 import {
   getArchiveBySlug,
   getArchiveRecords,
@@ -13,6 +13,14 @@ import {
   type TeamRecord,
 } from "../content/siteContent";
 import { useSceneStore } from "../store/sceneStore";
+import { ExpansionTypography } from "./ExpansionTypography";
+import { TeamMemberScenePreview } from "./TeamMemberScenePreview";
+import { BrandClientChorus } from "./brand/BrandClientChorus";
+import { BrandDetailFactsStrip } from "./brand/BrandDetailFactsStrip";
+import { BrandImageGallery } from "./brand/BrandImageGallery";
+import { BrandNarrativeCard } from "./brand/BrandNarrativeCard";
+import { BrandShowcaseCard } from "./brand/BrandShowcaseCard";
+import { BrandStatementCard } from "./brand/BrandStatementCard";
 import { useRouteStoryMotion } from "./useRouteStoryMotion";
 import { useRouteScrollProgress } from "./useRouteScrollProgress";
 
@@ -211,69 +219,6 @@ function SignalFamilyCard({
   );
 }
 
-function ProjectCard({
-  project,
-  onOpen,
-  mode = "standard",
-}: {
-  project: ProjectRecord;
-  onOpen: (path: string) => void;
-  mode?: "standard" | "feature" | "archive";
-}) {
-  const imageStyle = project.media.cover_image
-    ? {
-        backgroundImage: `linear-gradient(180deg, rgba(8, 8, 10, 0.04), rgba(8, 8, 10, 0.86)), url(${project.media.cover_image})`,
-      }
-    : undefined;
-
-  return (
-    <button
-      className={`project-card project-card-${mode}`}
-      onClick={() => onOpen(project.route)}
-      type="button"
-    >
-      <div className="project-card-media" data-parallax="-8" style={imageStyle} />
-      <div className="project-card-chrome">
-        <div className="project-card-topline">
-          <span className="project-card-type">
-            {PROJECT_TYPE_LABELS[project.case_study_type] ?? project.case_study_type}
-          </span>
-          <span className="project-card-meta">
-            {project.primary_client} · {project.primary_service}
-          </span>
-        </div>
-        <div className="project-card-copy">
-          <strong>{project.hero_heading}</strong>
-          <p>{project.hero_summary}</p>
-        </div>
-      </div>
-    </button>
-  );
-}
-
-function StoryChapter({
-  chapter,
-  index,
-  kind,
-}: {
-  chapter: { heading: string; content: string };
-  index: string;
-  kind: string;
-}) {
-  return (
-    <article className="chapter-card" data-reveal="section">
-      <div className="chapter-card-head">
-        <span className="chapter-card-index">{index}</span>
-        <div>
-          <span className="section-kicker">{kind}</span>
-          <h3>{chapter.heading}</h3>
-        </div>
-      </div>
-      <p>{chapter.content}</p>
-    </article>
-  );
-}
-
 function PaletteToken({ label }: { label: string }) {
   return (
     <article className="palette-token" data-float="">
@@ -289,35 +234,59 @@ function PaletteToken({ label }: { label: string }) {
   );
 }
 
-function ProjectImageGallery({ project }: { project: ProjectRecord }) {
-  const images = project.media.gallery_images.slice(0, 5);
-  if (images.length === 0) {
-    return null;
-  }
-
-  return (
-    <section className="detail-gallery-grid" data-stagger="">
-      {images.map((image, index) => (
-        <figure
-          key={image.id}
-          className={`detail-gallery-card ${index === 0 ? "primary" : "support"}`}
-          data-parallax={index === 0 ? "-4" : "-8"}
-        >
-          <img alt={image.alt} src={image.src} />
-        </figure>
-      ))}
-    </section>
-  );
-}
-
 function TeamStageCard({ member, index }: { member: TeamRecord; index: number }) {
+  const hasPortrait = Boolean(member.portrait_asset);
+  const hasScene = Boolean(member.scene_asset);
+  const canTogglePreview = hasPortrait && hasScene;
+  const [showScene, setShowScene] = useState(Boolean(hasScene && !hasPortrait));
+
   return (
     <article className="team-stage-card" data-reveal="section">
       <span className="team-stage-index">{String(index + 1).padStart(2, "0")}</span>
       <span className="team-role">{member.role}</span>
+      <div className={`team-stage-preview ${showScene ? "scene-visible" : "portrait-visible"}`}>
+        {hasPortrait ? (
+          <div className="team-stage-portrait">
+            <img alt={member.name} src={member.portrait_asset ?? undefined} />
+          </div>
+        ) : null}
+        {showScene && member.scene_asset ? (
+          <div className="team-stage-scene">
+            <TeamMemberScenePreview name={member.name} path={member.scene_asset} />
+          </div>
+        ) : null}
+        {!hasPortrait && !hasScene ? (
+          <div className="team-stage-placeholder" aria-hidden="true">
+            {member.name
+              .split(" ")
+              .slice(0, 2)
+              .map((part) => part[0])
+              .join("")}
+          </div>
+        ) : null}
+      </div>
+      {canTogglePreview ? (
+        <button
+          className="team-stage-toggle"
+          onClick={() => setShowScene((value) => !value)}
+          type="button"
+        >
+          {showScene ? "Show portrait" : "View object"}
+        </button>
+      ) : null}
       <h2>{member.name}</h2>
       <p className="team-summary">{member.bio_short}</p>
       <p className="team-detail">{member.bio_full}</p>
+      {member.asset_status || member.scene_asset ? (
+        <div className="team-stage-meta">
+          {member.scene_asset ? (
+            <span className="info-pill">3D identity asset ready</span>
+          ) : null}
+          {member.asset_status ? (
+            <span className="info-pill subtle">{member.asset_status.split("-").join(" ")}</span>
+          ) : null}
+        </div>
+      ) : null}
       <div className="team-monogram" aria-hidden="true">
         {member.name
           .split(" ")
@@ -342,37 +311,37 @@ function HomeContent({ navigate }: { navigate: (path: string) => void }) {
   return (
     <>
       <StoryHero
-        aside="The field opens with atmosphere. The editorial layer has to answer with clarity, restraint, and narrative pull."
-        body="Newsense is a design and film studio shaping launches, campaigns, spaces, and moving image into clearer form."
+        aside="The field opens as atmosphere. The reading layer adds clarity, restraint, and a deliberate path through the work."
+        body="Newsense shapes launches, campaigns, spaces, and moving image into clearer brand systems."
         eyebrow="Threshold into signal"
         index="00"
         metrics={[
           {
             label: "Live signals",
             value: String(siteContent.metadata.total_projects),
-            note: "Project routes currently carried into the atlas.",
+            note: "Project routes carried into the first atlas.",
           },
           {
             label: "Client proof",
             value: String(getClientProofCount()),
-            note: "Brands already preserved inside the recovered archive.",
+            note: "Brands preserved inside the recovered archive.",
           },
           {
             label: "Base mode",
             value: "Field",
-            note: "Astronaut, grassland, and traversal stay active underneath.",
+            note: "Astronaut, grassland, and traversal stay live underneath.",
           },
         ]}
-        title="We turn brand noise into signal."
+        title="Brand noise, shaped into signal."
         variant="manifesto"
       />
 
       <StorySection
-        aside="The landing page establishes atmosphere. The route system must establish legibility without losing that atmosphere."
-        body="The strongest paths through the work are already visible: campaign systems, motion releases, and editorial framing. The question is how to let them unfold as a story."
+        aside="The landing page can hold atmosphere without losing the path through the work."
+        body="Campaign systems, motion releases, and editorial framing give the archive a clear spine. The page lets them unfold as a paced story."
         index="01"
         kicker="Route thesis"
-        title="The world should unfold in chapters, not panels."
+        title="The world unfolds in chapters, not panels."
       >
         <div className="cta-row story-cta-row" data-stagger="">
           <button className="cta-button primary" onClick={() => navigate("/projects")} type="button">
@@ -388,15 +357,20 @@ function HomeContent({ navigate }: { navigate: (path: string) => void }) {
       </StorySection>
 
       <StorySection
-        aside="These are the first four signals the site should place in front of the visitor without flattening them into generic tiles."
-        body="The atlas should feel curated from the first scroll. Featured work must arrive as a sequence with weight, not as a wall of equally loud cards."
+        aside="The first four signals give the visitor a strong read before the wider atlas opens."
+        body="Featured work arrives as a sequence with weight and air, not as a wall of equally loud cards."
         index="02"
         kicker="First-wave signals"
-        title="Featured work should open the field with conviction."
+        title="Featured work opens the field with conviction."
       >
         <div className="atlas-feature-grid" data-stagger="">
           {featured.map((project) => (
-            <ProjectCard key={project.slug} mode="feature" onOpen={navigate} project={project} />
+            <BrandShowcaseCard
+              key={project.slug}
+              mode="feature"
+              onOpen={navigate}
+              project={project}
+            />
           ))}
         </div>
       </StorySection>
@@ -407,6 +381,11 @@ function HomeContent({ navigate }: { navigate: (path: string) => void }) {
 function ProjectsIndexContent({ navigate }: { navigate: (path: string) => void }) {
   const featured = getFeaturedProjects();
   const groups = getProjectsByType();
+  const featuredCover =
+    featured[0]?.media.cover_image ??
+    groups[0]?.projects[0]?.media.cover_image ??
+    siteContent.studio.wordmark_asset ??
+    "";
   const familySummaries = PROJECT_TYPE_ORDER.map((type) => ({
     type,
     label: PROJECT_TYPE_LABELS[type],
@@ -415,46 +394,54 @@ function ProjectsIndexContent({ navigate }: { navigate: (path: string) => void }
 
   return (
     <>
-      <StoryHero
-        aside="This page should sell the studio before it explains the archive. The work has to feel authored, calm, and immediately credible."
-        body="Across campaigns, launches, and image-making, the work is built to sharpen attention rather than add noise."
+      <ExpansionTypography
+        body="Newsense builds campaigns, launches, and image systems that sharpen attention rather than add more noise to the field."
         eyebrow="Signal field"
         index="01"
-        metrics={[
-          {
-            label: "Featured",
-            value: String(featured.length),
-            note: "Projects carrying the first narrative weight.",
-          },
-          {
-            label: "Field state",
-            value: "Explorable",
-            note: "The atlas floats above the live field.",
-          },
-          {
-            label: "Project families",
-            value: String(familySummaries.length),
-            note: "Clusters that should read as distinct forms of signal.",
-          },
+        lines={[
+          [{ kind: "text", text: "Campaigns" }],
+          [{ kind: "text", text: "that cut" }],
+          [
+            {
+              kind: "expand",
+              image: featuredCover,
+              alt: "Featured Newsense project detail",
+              text: "through.",
+              motion: "skewed",
+            },
+          ],
         ]}
-        title="Campaigns, launches, and images that land clearly."
-        variant="atlas"
+        metrics={
+          <>
+            <StoryMetric
+              label="Featured"
+              note="Projects carrying the first narrative weight."
+              value={String(featured.length)}
+            />
+            <StoryMetric
+              label="Field state"
+              note="The atlas floats above the live field."
+              value="Explorable"
+            />
+            <StoryMetric
+              label="Project families"
+              note="Clusters with distinct forms of signal."
+              value={String(familySummaries.length)}
+            />
+          </>
+        }
+        note="The work arrives as authored proof, not as a flat media wall. The world stays visible underneath while the atlas sharpens into view."
+        variant="projects"
       />
 
-      <section className="story-marquee" data-reveal="section">
-        <div className="story-marquee-track">
-          {siteContent.studio.client_roster.concat(siteContent.studio.client_roster).map((client, index) => (
-            <span key={`${client}-${index}`}>{client}</span>
-          ))}
-        </div>
-      </section>
+      <BrandClientChorus clients={siteContent.studio.client_roster} />
 
       <StorySection
-        aside="These are the pieces that should stop the scroll immediately. They deserve more air, more rhythm, and more cinematic weight."
-        body="The featured strip acts like the studio’s opening argument. It should establish authority before the route opens into taxonomy."
+        aside="These pieces stop the scroll quickly. They deserve more air, more rhythm, and more cinematic weight."
+        body="The featured strip acts like the studio’s opening argument. It establishes authority before the route opens into taxonomy."
         index="02"
         kicker="Opening argument"
-        title="Featured work should establish the studio before the field expands."
+        title="Featured work establishes the studio before the field expands."
       >
         <div className="signal-family-grid" data-stagger="">
           {familySummaries.map((group) => (
@@ -469,7 +456,12 @@ function ProjectsIndexContent({ navigate }: { navigate: (path: string) => void }
         </div>
         <div className="atlas-feature-grid" data-stagger="">
           {featured.map((project) => (
-            <ProjectCard key={project.slug} mode="feature" onOpen={navigate} project={project} />
+            <BrandShowcaseCard
+              key={project.slug}
+              mode="feature"
+              onOpen={navigate}
+              project={project}
+            />
           ))}
         </div>
       </StorySection>
@@ -485,7 +477,7 @@ function ProjectsIndexContent({ navigate }: { navigate: (path: string) => void }
         >
           <div className="atlas-band-grid" data-stagger="">
             {group.projects.map((project) => (
-              <ProjectCard key={project.slug} onOpen={navigate} project={project} />
+              <BrandShowcaseCard key={project.slug} onOpen={navigate} project={project} />
             ))}
           </div>
         </StorySection>
@@ -504,7 +496,7 @@ function ProjectDetailContent({
   return (
     <>
       <StoryHero
-        aside="The case-study route should feel like the camera has stopped moving long enough for one signal to come fully into focus."
+        aside="The case-study route lets the camera stop moving long enough for one signal to come fully into focus."
         body={project.hero_summary}
         eyebrow={PROJECT_TYPE_LABELS[project.case_study_type] ?? project.case_study_type}
         index="02"
@@ -529,23 +521,7 @@ function ProjectDetailContent({
         variant="detail"
       />
 
-      <section className="detail-facts-strip" data-stagger="">
-        <article className="story-metric detail-fact-card">
-          <span className="story-metric-label">Clients</span>
-          <strong>{project.clients.join(", ") || project.primary_client}</strong>
-          <p>The brands or entities carried by this route.</p>
-        </article>
-        <article className="story-metric detail-fact-card">
-          <span className="story-metric-label">Services</span>
-          <strong>{project.services.join(" · ") || project.primary_service}</strong>
-          <p>The main surfaces through which the signal was built and released.</p>
-        </article>
-        <article className="story-metric detail-fact-card">
-          <span className="story-metric-label">Reading mode</span>
-          <strong>{project.gallery_mode.replace("-", " ")}</strong>
-          <p>The current rebuilt mode for telling this story inside the atlas.</p>
-        </article>
-      </section>
+      <BrandDetailFactsStrip project={project} />
 
       <section className="detail-layout" data-reveal="section">
         <aside className="detail-rail">
@@ -580,11 +556,11 @@ function ProjectDetailContent({
         </aside>
 
         <div className="detail-scroll">
-          <ProjectImageGallery project={project} />
+          <BrandImageGallery project={project} />
 
           <StorySection
             aside="The image field keeps the route from collapsing into text-only documentation. It lets the preserved asset memory carry part of the story."
-            body="The case study should unfold like a sequence of surfaces, not a single poster image followed by plain notes. Preserved imagery gives each route atmosphere and proof."
+            body="The case study unfolds like a sequence of surfaces, not a single poster image followed by plain notes. Preserved imagery gives each route atmosphere and proof."
             index="03"
             kicker="Image field"
             title="Recovered media now participates in the story."
@@ -599,7 +575,7 @@ function ProjectDetailContent({
           >
             <div className="chapter-list" data-stagger="">
               {project.narrative_sections.map((chapter, index) => (
-                <StoryChapter
+                <BrandNarrativeCard
                   key={`narrative-${chapter.heading}`}
                   chapter={chapter}
                   index={String(index + 1).padStart(2, "0")}
@@ -619,7 +595,7 @@ function ProjectDetailContent({
             >
               <div className="chapter-list" data-stagger="">
                 {project.outcome_sections.map((chapter, index) => (
-                  <StoryChapter
+                  <BrandNarrativeCard
                     key={`outcome-${chapter.heading}`}
                     chapter={chapter}
                     index={String(index + 1).padStart(2, "0")}
@@ -664,6 +640,11 @@ function ProjectDetailContent({
 }
 
 function StudioContent({ navigate }: { navigate: (path: string) => void }) {
+  const studioCover =
+    getFeaturedProjects()[1]?.media.cover_image ??
+    getFeaturedProjects()[0]?.media.cover_image ??
+    siteContent.studio.wordmark_asset ??
+    "";
   const methodSteps = [
     {
       title: "Sense the brief",
@@ -681,30 +662,45 @@ function StudioContent({ navigate }: { navigate: (path: string) => void }) {
 
   return (
     <>
-      <StoryHero
-        aside="This page should explain how the studio thinks, not just what it lists."
-        body="Newsense is based in Bengaluru and works across design, film, and brand storytelling to bring distinct ideas into sharper form."
+      <ExpansionTypography
+        body="Newsense works across design, film, motion, and brand storytelling to bring unresolved ideas into clearer systems."
         eyebrow="Interpretation engine"
         index="03"
-        metrics={[
-          {
-            label: "Base",
-            value: siteContent.studio.location_city,
-            note: "Physical grounding for the current studio identity.",
-          },
-          {
-            label: "Services",
-            value: String(siteContent.services.studio_services.length),
-            note: "Capabilities currently preserved from the original site.",
-          },
-          {
-            label: "Clients",
-            value: String(siteContent.studio.client_roster.length),
-            note: "Names already carried into the rebuilt content runtime.",
-          },
+        lines={[
+          [{ kind: "text", text: "Sense" }],
+          [{ kind: "text", text: "before" }],
+          [
+            {
+              kind: "expand",
+              image: studioCover,
+              alt: "Newsense studio project still",
+              text: "style.",
+              motion: "plain",
+              ratio: "strip",
+            },
+          ],
         ]}
-        title="Design and film, shaped into clearer systems."
-        variant="statement"
+        metrics={
+          <>
+            <StoryMetric
+              label="Base"
+              note="Physical grounding for the current studio identity."
+              value={siteContent.studio.location_city}
+            />
+            <StoryMetric
+              label="Services"
+              note="Capabilities currently preserved from the original site."
+              value={String(siteContent.services.studio_services.length)}
+            />
+            <StoryMetric
+              label="Clients"
+              note="Names already carried into the rebuilt content runtime."
+              value={String(siteContent.studio.client_roster.length)}
+            />
+          </>
+        }
+        note="This page explains how the studio thinks before it lists what the studio does. The surface stays authored, calm, and exact."
+        variant="studio"
       />
 
       <StorySection
@@ -727,7 +723,7 @@ function StudioContent({ navigate }: { navigate: (path: string) => void }) {
 
       <StorySection
         aside="The brand work we already did has to appear here as studio logic, not remain trapped in separate planning docs."
-        body="Newsense means a move toward new sense: less nuisance, more legibility, more emotional precision, and stronger release control. The visual world should feel calm, tactile, and exact enough to let the signal emerge."
+        body="Newsense means a move toward new sense: less nuisance, more legibility, more emotional precision, and stronger release control. The visual world stays calm, tactile, and exact enough to let the signal emerge."
         index="05"
         kicker="Brand reading"
         title="The studio identity is editorial, spatial, and materially restrained."
@@ -754,7 +750,7 @@ function StudioContent({ navigate }: { navigate: (path: string) => void }) {
       </StorySection>
 
       <StorySection
-        aside="Capabilities should read as a designed service system, not a pasted unordered list."
+        aside="Capabilities read as a designed service system, not a pasted unordered list."
         body={siteContent.studio.support_copy}
         index="06"
         kicker="Capabilities"
@@ -762,30 +758,24 @@ function StudioContent({ navigate }: { navigate: (path: string) => void }) {
       >
         <div className="method-grid" data-stagger="">
           {siteContent.services.studio_services.map((service, index) => (
-            <article key={service.id} className="service-card">
-              <span className="story-section-index">{String(index + 1).padStart(2, "0")}</span>
-              <h3>{service.label}</h3>
-            </article>
+            <BrandStatementCard
+              key={service.id}
+              index={String(index + 1).padStart(2, "0")}
+              label={service.kind === "studio-capability" ? "Capability" : "Service"}
+              title={service.label}
+            />
           ))}
         </div>
       </StorySection>
 
       <StorySection
-        aside="Client proof should arrive as a rhythm, not a dead pile of brand names."
+        aside="Client proof arrives as a rhythm, not a static pile of brand names."
         body="The roster gives weight to the method. These names are not here as logos alone. They are evidence of range, trust, and sustained execution."
         index="07"
         kicker="Client chorus"
         title="The work is already in conversation with brands across launches, products, and spaces."
       >
-        <section className="story-marquee compact" data-reveal="section">
-          <div className="story-marquee-track">
-            {siteContent.studio.client_roster
-              .concat(siteContent.studio.client_roster)
-              .map((client, index) => (
-                <span key={`${client}-${index}`}>{client}</span>
-              ))}
-          </div>
-        </section>
+        <BrandClientChorus clients={siteContent.studio.client_roster} compact />
         <div className="cta-row story-cta-row" data-stagger="">
           <button className="cta-button secondary" onClick={() => navigate("/team")} type="button">
             Meet the team
@@ -800,36 +790,56 @@ function StudioContent({ navigate }: { navigate: (path: string) => void }) {
 }
 
 function TeamContent() {
+  const teamCover =
+    siteContent.team.find((member) => member.portrait_asset)?.portrait_asset ??
+    getFeaturedProjects()[0]?.media.cover_image ??
+    "";
+
   return (
     <>
-      <StoryHero
-        aside="The team page needs cast energy: less anonymous about copy, more distinct people with roles, temperaments, and craft weight."
+      <ExpansionTypography
         body="Newsense is built by strategists, directors, designers, and image-makers who keep the brief, the frame, and the release aligned."
         eyebrow="Signal-makers"
         index="04"
-        metrics={[
-          {
-            label: "Core team",
-            value: String(siteContent.team.length),
-            note: "The current preserved public roster.",
-          },
-          {
-            label: "Shared field",
-            value: "Film + Design",
-            note: "The two disciplines that keep crossing inside the work.",
-          },
-          {
-            label: "Working mode",
-            value: "Intent",
-            note: "Framing, strategy, execution, and atmosphere must align.",
-          },
+        lines={[
+          [{ kind: "text", text: "People" }],
+          [{ kind: "text", text: "behind" }],
+          [
+            {
+              kind: "expand",
+              image: teamCover,
+              alt: "Newsense team portrait",
+              text: "signal.",
+              motion: "rotated",
+              ratio: "portrait",
+            },
+          ],
         ]}
-        title="A small team with strong authorship."
-        variant="compact"
+        metrics={
+          <>
+            <StoryMetric
+              label="Core team"
+              note="The current preserved public roster."
+              value={String(siteContent.team.length)}
+            />
+            <StoryMetric
+              label="Shared field"
+              note="The two disciplines that keep crossing inside the work."
+              value="Film + Design"
+            />
+            <StoryMetric
+              label="Working mode"
+              note="Framing, strategy, execution, and atmosphere must align."
+              value="Intent"
+            />
+          </>
+        }
+        note="The team page works as a cast introduction, not a compliance roster. Visual identity matters here, even before the full 3D member pass lands."
+        variant="team"
       />
 
       <StorySection
-        aside="This route should feel like meeting a cast, not reading a compliance roster."
+        aside="This route feels like meeting a cast, not reading a compliance roster."
         body="Each person brings a distinct discipline into the field, but the studio only works because those disciplines keep crossing: strategy, image, production, rhythm, and atmosphere."
         index="05"
         kicker="Ensemble"
@@ -841,10 +851,12 @@ function TeamContent() {
             "Production discipline keeps the ambitious idea executable.",
             "Image-making and cinematography give the work emotional surface.",
           ].map((line, index) => (
-            <article key={line} className="service-card">
-              <span className="story-section-index">{String(index + 1).padStart(2, "0")}</span>
-              <h3>{line}</h3>
-            </article>
+            <BrandStatementCard
+              key={line}
+              index={String(index + 1).padStart(2, "0")}
+              label="Shared discipline"
+              title={line}
+            />
           ))}
         </div>
       </StorySection>
@@ -869,7 +881,7 @@ function ContactContent() {
   return (
     <>
       <StoryHero
-        aside="This route should feel precise and inviting, not like a generic contact page dropped in at the end of a portfolio."
+        aside="This route feels precise and inviting, not like a generic contact page dropped in at the end of a portfolio."
         body="If the project still feels noisy, crowded, or undefined, that is usually the right moment to begin the conversation."
         eyebrow="Invitation to clarity"
         index="05"
@@ -921,16 +933,18 @@ function ContactContent() {
       >
         <div className="method-grid" data-stagger="">
           {prompts.map((prompt, index) => (
-            <article key={prompt} className="service-card">
-              <span className="story-section-index">{String(index + 1).padStart(2, "0")}</span>
-              <h3>{prompt}</h3>
-            </article>
+            <BrandStatementCard
+              key={prompt}
+              index={String(index + 1).padStart(2, "0")}
+              label="Prompt"
+              title={prompt}
+            />
           ))}
         </div>
       </StorySection>
 
       <StorySection
-        aside="The route should explain what happens after the first message so the invitation feels grounded."
+        aside="The route explains what happens after the first message so the invitation feels grounded."
         body="The first conversation is not a formality. It is where the studio starts separating noise from what actually deserves weight."
         index="07"
         kicker="Engagement path"
@@ -942,10 +956,12 @@ function ContactContent() {
             "Align on what feels noisy, unfinished, or under-defined in the current idea.",
             "Build the visual and production system that lets the signal land cleanly.",
           ].map((step, index) => (
-            <article key={step} className="service-card">
-              <span className="story-section-index">{String(index + 1).padStart(2, "0")}</span>
-              <h3>{step}</h3>
-            </article>
+            <BrandStatementCard
+              key={step}
+              index={String(index + 1).padStart(2, "0")}
+              label="Move"
+              title={step}
+            />
           ))}
         </div>
       </StorySection>
@@ -957,12 +973,17 @@ function ArchiveContent({ navigate }: { navigate: (path: string) => void }) {
   const archiveRecords = getArchiveRecords();
   const selectedArchiveSlug = useSceneStore((state) => state.selectedArchiveSlug);
   const archiveRecord = getArchiveBySlug(selectedArchiveSlug);
+  const archiveCover =
+    archiveRecord?.media.cover_image ??
+    archiveRecords[0]?.media.cover_image ??
+    getFeaturedProjects()[0]?.media.cover_image ??
+    "";
 
   if (archiveRecord) {
     return (
       <>
         <StoryHero
-          aside="Archive routes stay accessible for provenance, but they should feel quieter and more obviously secondary than the active field."
+          aside="Archive routes stay accessible for provenance, but remain quieter and more obviously secondary than the active field."
           body={archiveRecord.hero_summary}
           eyebrow="Noise shadow"
           index="06"
@@ -1010,35 +1031,50 @@ function ArchiveContent({ navigate }: { navigate: (path: string) => void }) {
 
   return (
     <>
-      <StoryHero
-        aside="The archive should have atmosphere, but the styling must still make it clear that this is preserved shadow, not the main current story."
+      <ExpansionTypography
         body="Historical and placeholder routes remain visible because the rebuild needs memory. They are part of the site’s provenance, not its lead argument."
         eyebrow="Shadow memory"
         index="06"
-        metrics={[
-          {
-            label: "Archive routes",
-            value: String(siteContent.metadata.total_archive),
-            note: "Template and placeholder surfaces retained for provenance.",
-          },
-          {
-            label: "Live routes",
-            value: String(siteContent.metadata.total_projects),
-            note: "Current project routes that still lead the site narrative.",
-          },
-          {
-            label: "Use",
-            value: "Reference",
-            note: "Held for migration clarity rather than front-stage promotion.",
-          },
+        lines={[
+          [{ kind: "text", text: "Memory" }],
+          [{ kind: "text", text: "kept in" }],
+          [
+            {
+              kind: "expand",
+              image: archiveCover,
+              alt: "Newsense archive memory image",
+              text: "shadow.",
+              motion: "plain",
+              ratio: "square",
+            },
+          ],
         ]}
-        title="What the archive remembers."
-        variant="compact"
+        metrics={
+          <>
+            <StoryMetric
+              label="Archive routes"
+              note="Template and placeholder surfaces retained for provenance."
+              value={String(siteContent.metadata.total_archive)}
+            />
+            <StoryMetric
+              label="Live routes"
+              note="Current project routes that still lead the site narrative."
+              value={String(siteContent.metadata.total_projects)}
+            />
+            <StoryMetric
+              label="Use"
+              note="Held for migration clarity rather than front-stage promotion."
+              value="Reference"
+            />
+          </>
+        }
+        note="The archive stays atmospheric, but remains visibly quieter than the live work. This is preserved memory, not the opening claim."
+        variant="archive"
       />
 
       <StorySection
-        aside="The archive remains important because replacement-site work needs provenance. It just should not compete with the live argument of the studio."
-        body="These routes are held as migration memory, source breadcrumbs, and caution markers. They are useful when rebuilding, but they should read quieter than every live route."
+        aside="The archive remains important because replacement-site work needs provenance. It does not compete with the live argument of the studio."
+        body="These routes are held as migration memory, source breadcrumbs, and caution markers. They are useful when rebuilding, but read quieter than every live route."
         index="07"
         kicker="Archive protocol"
         title="Keep the shadow visible, but do not let it lead."
@@ -1047,7 +1083,12 @@ function ArchiveContent({ navigate }: { navigate: (path: string) => void }) {
 
       <section className="archive-grid" data-stagger="">
         {archiveRecords.map((record) => (
-          <ProjectCard key={record.slug} mode="archive" onOpen={navigate} project={record} />
+          <BrandShowcaseCard
+            key={record.slug}
+            mode="archive"
+            onOpen={navigate}
+            project={record}
+          />
         ))}
       </section>
     </>
