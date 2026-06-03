@@ -45,9 +45,19 @@
 
 ### Plan
 
-- [ ] Refresh README with current branding/media/repo identity for `newsense-spatial`.
-- [ ] Create GitHub repo `Sheshiyer/newsense-spatial` with launch description.
-- [ ] Commit local pending launch + branding updates.
-- [ ] Push `main` to new `origin` (`newsense-spatial`) while preserving old remote.
-- [ ] Create first release (`v0.1.0`) with accurate launch notes.
-- [ ] Verify README rendering, release visibility, and remote linkage.
+- [x] Refresh README with current branding/media/repo identity for `newsense-spatial`.
+- [x] Create GitHub repo `Sheshiyer/newsense-spatial` with launch description.
+- [x] Commit local pending launch + branding updates.
+- [x] Push `main` to new `origin` (`newsense-spatial`) while preserving old remote.
+- [x] Create first release (`v0.1.0`) with accurate launch notes.
+- [x] Verify README rendering, release visibility, and remote linkage.
+
+### Review
+
+- Created repository: `https://github.com/Sheshiyer/newsense-spatial` (public, default branch `main`).
+- Updated `README.md` to `Newsense Spatial` with launch visuals and branding/media paths.
+- Preserved previous remote as `origin-launch` and set new `origin` to `newsense-spatial`.
+- Pushed commit `4cb7bcdfda7a2551bed90cb8692c950d36082314` to `origin/main`.
+- Published release `v0.1.0`: `https://github.com/Sheshiyer/newsense-spatial/releases/tag/v0.1.0`.
+- Verified remote README exists on `main` (SHA `fe868b550240cc1a5b053e5901a54d68e5eee6a9`).
+- Note: GitHub warned that several `.glb` files exceed 50 MB (recommended max) but are below hard reject limit; consider Git LFS for future large 3D assets.
